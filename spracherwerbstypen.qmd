@@ -1,0 +1,102 @@
+# Spracherwerbstypen {#sec-zungenbrecher}
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://www.kissclipart.com/tongue-twister-cartoon-comics-stop-consonant-m2n92r/>
+knitr::include_graphics("pictures/kissclipart-tongue-twister-cartoon-comics-stop-consonant-82fba1d0b8543744.png")
+```
+
+## Terminologische Unterscheidung
+
+In der Sprachewerbsforschung ist es möglich und üblich, verschiedene Verben und Nomina zu verwenden, um auf verschiedene Spracherwerbstypen Bezug zu nehmen.
+
+*Verben*: (eine Sprache) erwerben, sich (eine Sprache) aneignen, (eine Sprache) lernen.
+
+*Nomina*: der Erwerb einer Sprache, die Aneignung einer Sprache, das Lernen einer Sprache.
+
+::: rmdrobot
+Welche semantischen Unterschiede bestehen zwischen den genannten Verben und Nomina?
+
+Vorschlag: Schauen Sie mal im *DWDS* <https://www.dwds.de/> nach und versuchen Sie festzustellen, in welchen Kontexten die Verben / Nomina vorkommen!
+
+Vergleichen Sie die Bedeutungen auch mit den Bedeutungen entsprechender slowenischer und englischer Ausdrücke:
+
+*Slowenisch*: pridobiti (jezik), usvojiti (jezik), se učiti (jezika).\
+*Englisch*: acquire, learn (a language), ...
+:::
+
+```{r}
+knitr::include_graphics("pictures/termini_verben_nomen.png")
+```
+
+*Aneignung* (A) soll als *Oberbegriff* für Erwerb und Lernen dienen. Die Aneignung einer Erstsprache ist stärker von *Erwerbsprozessen* geprägt. Die Aneignung einer Fremdsprache ist stärker von *Lernprozessen* geprägt. Die Aneignung einer Zweitsprache (im engeren Sinne) ist je nach Fall stärker von *Erwerbs*- bzw. *Lern*prozessen geprägt.
+
+```{r}
+knitr::include_graphics("pictures/termini_verben_nomen2.png")
+```
+
+::: rmdtip
+Ihnen werden nun ein paar Videoausschnitte gezeigt, in denen die Art und Weise beschrieben wird, wie sich Menschen eine Sprache aneignen.
+
+Versuchen Sie, die wesentlichen Unterschiede und eventuelle Gemeinsamkeiten herauszufinden !
+
+[Easy German](https://www.youtube.com/watch?v=cS_aH5wJGME) (Dauer: 11:07 Minuten):
+
+{{< video https://www.youtube.com/embed/cS_aH5wJGME title= "How Many Languages Do Germans Speak? | Easy German 473" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=cS_aH5wJGME>
+#| fig-cap: "How Many Languages Do Germans Speak? | Easy German 473"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=cS_aH5wJGME"
+embed_url(url)
+# suggest_embed(url)
+```
+:::
+
+## Unterscheidungskriterien
+
+Wir können eine Reihe von Kriterien verwenden, um drei Spracherwerbstypen zu unterscheiden.
+
+*L1* steht für *Erstsprache* (oft auch als *Muttersprache* bezeichnet), *L2* bezieht sich auf die *Zweitsprache* und\
+*FL* wird in der Tabelle für *Fremdsprache* verwendet.
+
+Der Ausdruck *Muttersprache* ist bei bilingualen (d.h. zweisprachigen) Personen nicht unbedingt zutreffend (*warum?*), darum ist *Erstsprache* als Fachterminus zu bevorzugen.
+
+```{r}
+knitr::include_graphics("pictures/spracherwerbstypen.png")
+```
+
+::: rmdtip
+Ihnen werden nun ein paar Videoausschnitte gezeigt, in denen die Art und Weise beschrieben wird, wie sich Menschen eine Sprache aneignen.
+
+Versuchen Sie, die wesentlichen Unterschiede und eventuelle Gemeinsamkeiten herauszufinden !
+
+[Easy German](https://www.youtube.com/watch?v=ZqObBG-NYPI) (Dauer: 8:46 Minuten):
+
+{{< video https://www.youtube.com/embed/ZqObBG-NYPI title= "How to learn a new language? (with Luca Lampariello) | Easy German 138" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=ZqObBG-NYPI>
+#| fig-cap: "How to learn a new language? (with Luca Lampariello) | Easy German 138"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=ZqObBG-NYPI"
+embed_url(url)
+# suggest_embed(url)
+```
+:::
+
+```{r}
+knitr::include_graphics("pictures/spracherwerbstypen2.png")
+```
+
+In der Forschungsliteratur wird der Begriff **Zweitspracherwerb**
+
+-   *im engeren Sinne* (wie in der zuvor gezeigten Tabelle),
+
+-   bisweilen aber auch *im weiteren Sinne* verwendet.
+
+Im zweiten Fall werden Fremdspracherwerb und Zweitspracherwerb (im engeren Sinne) als Zweitspracherwerb **zusammengefasst**. Welche wichtige **Gemeinsamkeit** ist dafür wohl **ausschlaggebend** ?
+
+Der Erstspracherwerb kann auch in der Form eines **doppelten Erstspracherwerbs** (oder mehrfachen L1-Erwerbs) vorkommen.
+
+Im Fall von bilingulaen Personen ist es auch aus neurobiologischer Perspektive sinnvoll, zwischen **frühem** und **späten Bilingualismus** zu unterscheiden.

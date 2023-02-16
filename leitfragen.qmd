@@ -1,0 +1,47 @@
+# Leitfragen in der Spracherwerbsforschung {#sec-gegenstand}
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/Diapozitiv5.PNG")
+```
+
+Die Kernthemen der Spracherwerbsforschung lassen sich gemäß @kauschke2012kindlicher anhand von drei **Grundfragen** umreißen:
+
+1\. Was macht sprachliches Wissen, was macht die Beherrschung einer Sprache aus?
+
+2\. Ist sprachliches Wissen angeboren oder wird es erlernt?
+
+3\. Wird Sprache über sprachspezifische oder über allgemein-kognitive Mechanismen erworben?
+
+## Sprachbeherrschung
+
+**Begriff des sprachlichen Wissens**
+
+Sprache ist Bestandteil der menschlichen **Kognition**: Prozesse der mentalen Speicherung, Aufnahme und Verarbeitung von Informationen.
+
+Diesen Prozessen kann das **Bewusstsein** zugeschaltet sein oder nicht.
+
+Menge der gespeicherten Informationen (**deklaratives Wissen**, auch »Wissen, dass«)
+
+Verfügbarkeit von informationsverarbeitenden Prozessen (**prozedurales Wissen**, auch »Wissen, wie«).
+
+Was macht nun sprachliches Wissen in diesem Sinne aus? Versteht man Sprache als **gegliedertes System** von Einheiten, die durch ihre Analysierbarkeit und ihre Kombinierbarkeit gekennzeichnet sind, so bildet die **Entwicklung der Fähigkeit, sprachliche Einheiten zu segmentieren und miteinander zu kombinieren, den Kern des Spracherwerbs**.
+
+Über den Aufbau sprachstrukturellen Wissens hinaus ist Wissen über die **Gebrauchsbedingungen** von Sprache, ihre kommunikative Funktion und ihren reziproken Charakter ebenfalls Gegenstand des Spracherwerbs. Derartige anwendungsbezogene Aspekte von Sprache werden bereits **im ersten Lebensjahr** in Austauschprozessen zwischen dem Kind und seinen **Bezugspersonen** angebahnt und im weiteren Verlauf ausdifferenziert.
+
+## Ist sprachliches Wissen angeboren oder wird es erlernt?
+
+Seit langem als Kernthema der Spracherwerbsforschung und immer wieder neu diskutiert. Debatte um den Einfluss von Erbe und Umwelt auf die Entwicklung von Individuen. Ausbildung dieser humanspezifischen Fähigkeit nur möglich, wenn die sprachlernenden Menschen einer Umgebungssprache ausgesetzt sind. Kontrovers wird diskutiert, welche Rolle und welches Gewicht anlagebedingten Faktoren auf der einen Seite und dem Sprachangebot der Umwelt auf der anderen Seite zukommt. Kommt das Kind vorgeprägt für Sprache auf die Welt, ausgestattet mit spezifischen Fähigkeiten, die in der menschlichen Entwicklungsgeschichte entstanden sind? Entwickelt sich Sprache gemäß angeborener innerer Voraussetzungen und vorgeprägter Reifungsprozesse entwickelt. Geht man dagegen davon aus, dass das Kind Sprache aktiv und vorrangig durch Kontakt und Kommunikation mit anderen Sprechern lernt.  
+
+## Domänenspezifik von Sprache. 
+
+Wird Sprache über sprachspezifische oder allgemein-kognitive Mechanismen erworben? Denkbar ist, dass allgemeine kognitive Prozesse auf verschiedene Wissens- und Aufgabenbereiche anwendbar sind.
+
+Eine andere Position besteht in der Annahme, dass für den Spracherwerb domänenspezifisches Wissen notwendig ist, das darauf spezialisiert ist, nur einen bestimmten Typus von Informationen zu verarbeiten.
+
+In der Spracherwerbsforschung lassen sich drei große, traditionelle Erklärungsparadigmen unterscheiden:
+
+-   Nativismus,
+-   Interaktionismus und
+-   Kognitivismus.
+
+Neuere Erklärungsmodelle arbeiten auf eine Synthese hin.

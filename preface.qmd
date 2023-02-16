@@ -1,0 +1,5 @@
+# Vorwort {.unnumbered #sec-vorwort}
+
+Dieses Buch enthält Begleittexte und Übungsvorschläge für das Studienfach *Spracherwerb* (sl. *Usvajanje jezika*, en. *Language acquisition*), das im Rahmen des Germanistikstudiums an der Universität Maribor als Wahl- und Pflichtfach angeboten wird. 
+
+Das Buch wurde mit Hilfe der Programmierungssprache `R` <https://www.r-project.org/> und der von  `RStudio` <https://www.rstudio.com/> entwickelten Skriptsprache `Rmarkdown` <https://rmarkdown.rstudio.com/> auf der Entwickler-Platform `Github` <https://github.com/> als `Quarto Book` <https://quarto.org/> veröffentlicht. 

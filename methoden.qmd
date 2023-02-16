@@ -1,0 +1,16 @@
+# Methoden in der Spracherwerbsforschung {#sec-spracherwerb}
+
+Welche Methoden sind in der Spracherwerbsforschung anwendbar? Welche Vor- und Nachteile haben sie im Einzelnen?
+
+::: rmdrobot
+Welche Methoden werden in @kauschke2012kindlicher beschrieben?\
+Welche Anwendungsbereiche finden sie?\
+Welche Vor- und Nachteile zeigen sich bei ihrer Anwendung?
+
+Stellen Sie eine Präsentation zum Thema zusammen und illustrieren Sie sie auch mit Abbildungen und Beispielen, die Sie im Internet ausfindig gemacht haben!
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-cap: "Übersicht über Methoden der Spracherwerbsforschung in @kauschke2012kindlicher: 6 "
+knitr::include_graphics("pictures/methoden.png")
+```
+:::

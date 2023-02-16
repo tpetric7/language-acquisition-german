@@ -1,0 +1,13 @@
+# Erstspracherwerbsstadien {#sec-stadien}
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://www.toonpool.com/cartoons/freudscher%20versprecher_132853>
+knitr::include_graphics("pictures/freudscher_versprecher_1328535.jpg")
+```
+
+- Welche typischen Stadien sind im Erstspracherwerb unterscheidbar? (Quarks&Co, Kauschke)
+
+Artikelerwerb von sechs Kindern des Szagun-Korpus
+
+- Beschreiben Sie den Erwerb deutscher d-Wörter, die zunächst wie Demonstrativpronomen auf ein außersprachliches Objekt verweisen, dann aber ab einem bestimmten Alter mit einem Nomen auftreten und dann die im Deutschen typische Artikelfunktion ausüben (d.h. Verweis auf bekannte oder zumindest identifizierbare Objekte in Situation und/oder Kontext)!
+

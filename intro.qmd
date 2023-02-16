@@ -1,0 +1,55 @@
+# Einführung {#sec-einfuhrung}
+
+In diesem Buch besprechen wir Entwicklungsabläufe, Tendenzen und Paradigmen im Erst- und Zweit-/Fremdspracherwerb des Deutschen (teilweise auch im Slowenischen), die im Rahmen verschiedener Forschungsbereiche (Psycho- und Neurolinguistik, Spracherwerb, Sprachvarietäten, ...) diskutiert werden und auch für germanistische Studien von Interesse sein können. Die verwendeten Methoden und praktischen Aufgaben sind zum Teil verallgemeinerbar und übertragbar auf andere intellektuelle Arbeitsbereiche.[^intro-1]
+
+Die vorgesehenen *Themenbereiche*: \
+
+- Leitfragen in der Spracherwerbsforschung, \
+- Merkmale verschiedenener Spracherwerbstypen, \
+- Vor- und Nachteile der Mehrsprachigkeit, \
+- Neurobiologische und kognitive Grundlagen des Spracherwerbs, \
+- Markante Thesen einflussreicher Spracherwerbstheorien, \
+- Spracherwerbsstadien am Beispiel deutscher Kinder, \
+- Entwicklungsverläufe und Paradigmen am Beispiel deutscher Spracherwerbskorpora, \
+- Sprachproduktion und -rezeption im Zweit-/Fremdspracherwerb, \
+- Entwicklungsbedingte und transferbedingte sprachliche Konstruktionen im Zweit-/Fremdspracherwerb (v.a. am Beispiel slowenischer Lernender). \
+
+In diesem Einführungskurs machen wir Sie mit einigen der grundlegenden Methoden zur Erfassung der linguistischen Merkmale in deutschen (und in einigen Abschnitten auch mit slowenischen) Texten bekannt.
+
+
+[^intro-1]: Dieses Buch wurde mit `Quarto` <https://quarto.org/docs/books/> zusammengestellt.
+
+Hinweise[^intro-2]:
+
+[^intro-2]: Clipart von <https://www.clipartmax.com/>
+
+::: rmdnote
+Das ist eine Definition (rmdnote).
+:::
+
+::: rmdtip
+Das ist ein Tip oder eine Info (rmdtip).
+:::
+
+::: rmdrobot
+Das ist ein Arbeitsvorschlag (rmdrobot).
+:::
+
+::: rmdrstudio
+Das ist der RStudio Logotyp (rmdrstudio).
+:::
+
+::: rmdwarning
+Das ist eine Warnung (rmdwarning).
+:::
+
+::: rmderror
+Das ist eine Fehlermeldung (rmderror).
+:::
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown', "tidyverse", "udpipe"
+), 'packages.bib')
+```

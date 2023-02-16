@@ -1,0 +1,146 @@
+# Vor- und Nachteile der Mehrsprachigkeit {#sec-bilingual}
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://web.colby.edu/cogblog/tag/tip-of-the-tongue/>
+knitr::include_graphics("pictures/tip-of-the-tongue1-1.png")
+```
+
+Zwei- oder Mehrsprachigkeit hat nach Ansicht vieler Menschen mehrere Vorteile. Aber viele Menschen wachsen nicht zwei- oder mehrsprachig auf. Deshalb erhebt sich nicht nur die Frage, welche Vorteile Mehrsprachigkeit hat, sondern auch, ob es gewisse Nachteile gibt, die Mehrsprachigkeitsbestreben hemmen oder sogar verhindern.
+
+::: rmdrobot
+Hier folgt eine Liste von Behauptungen zur Mehrsprachigkeit. Beurteilen Sie, welche Behauptungen Sie für richtig halten und welche für nicht haltbar.
+
+*Mobilitätsaspekte*:
+
+```{r}
+knitr::include_graphics("pictures/Mehrsprachigkeit_Behauptungen_Page1.png")
+```
+
+*Kulturelle Aspekte*:
+
+```{r}
+knitr::include_graphics("pictures/Mehrsprachigkeit_Behauptungen_Page2.png")
+```
+
+*Kognitive Aspekte*:
+
+```{r}
+knitr::include_graphics("pictures/Mehrsprachigkeit_Behauptungen_Page3.png")
+```
+:::
+
+In einem Artikel von *Peter Ecke* @ecke2008babylonia werden **einige Nachteile der Zwei- oder Mehrsprachigkeit** anhand von wissenschaftlichen Studien diskutiert. Die Web-Adresse des Artikels: [University of Arizona](http://www.u.arizona.edu/~eckep/Ecke%2008%20Kosten%20der%20MS.pdf). Hier ist ein Abdruck der ersten Seite:
+
+```{r}
+knitr::include_graphics("pictures/TOT_bilangual_baby2_08ecke_annotated_Page1.png")
+```
+
+::: rmdrobot
+Ihnen werden nun Videos gezeigt, in denen Vorteile der Zwei-/Mehrsprachigkeit und (vermeintliche) Nachteile erläutern werden.
+
+Stellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!
+
+[Herzenssprache](https://www.youtube.com/watch?v=35XkRMBT28c) (Dauer: 7:53 Minuten):
+
+{{< video https://www.youtube.com/embed/35XkRMBT28c title= "Mehrsprachige Erziehung: Welche Nachteile gibt es wirklich?" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=35XkRMBT28c>
+#| fig-cap: "Mehrsprachige Erziehung: Welche Nachteile gibt es wirklich?"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=35XkRMBT28c"
+embed_url(url)
+# suggest_embed(url)
+```
+:::
+
+::: rmdrobot
+Ein weiteres Video zum Thema *Mehrsprachigkeit*.
+
+Stellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!
+
+[Wanderlust Monica](https://www.youtube.com/watch?v=0lJKipFitnA) (Dauer: 12:34 Minuten):
+
+{{< video https://www.youtube.com/embed/0lJKipFitnA title= "Mehrsprachig erziehen: ja oder nein? | Vorteile von der Mehrsprachigkeit mit Natalia Pérez González" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=0lJKipFitnA>
+#| fig-cap: "Mehrsprachig erziehen: ja oder nein? | Vorteile von der Mehrsprachigkeit mit Natalia Pérez González"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=0lJKipFitnA"
+embed_url(url)
+# suggest_embed(url)
+```
+:::
+
+::: rmdrobot
+Ein längeres Gespräch mit *Prof. Dr. Jürgen Meisel* zum Thema *Mehrsprachigkeit*.
+
+Stellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!
+
+[Gabriel Gelman Sprachheld](https://www.youtube.com/watch?v=a2Iw0jDkwYI) (Dauer: 43:53 Minuten):
+
+{{< video https://www.youtube.com/embed/a2Iw0jDkwYI title= "Kinder mehrsprachig erziehen? Wie alt sollten sie sein? Interview Sprachexperte Prof Jürgen Meisel" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=a2Iw0jDkwYI>
+#| fig-cap: "Kinder mehrsprachig erziehen? Wie alt sollten sie sein? Interview Sprachexperte Prof Jürgen Meisel"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=a2Iw0jDkwYI"
+embed_url(url)
+# suggest_embed(url)
+```
+:::
+
+::: rmdrobot
+Ein kürzeres Gespräch mit *Prof. Dr. Rosemarie Tracy* über das Thema *Mehrsprachigkeit*.
+
+Stellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!
+
+[Universität Mannheim](https://www.youtube.com/watch?v=SAlTrh_76p0) (Dauer: 10:51 Minuten):
+
+{{< video https://www.youtube.com/embed/SAlTrh_76p0 title= "1-2-Wissen: Prof. Rosemarie Tracy über Mehrsprachigkeit" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=SAlTrh_76p0>
+#| fig-cap: "1-2-Wissen: Prof. Rosemarie Tracy über Mehrsprachigkeit"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=SAlTrh_76p0"
+embed_url(url)
+# suggest_embed(url)
+```
+:::
+
+::: rmdtip
+Ein Vortrag von *Prof. Dr. Rosemarie Tracy* über das Thema *Mehrsprachigkeit*.
+
+[BildungsTV](https://www.youtube.com/watch?v=vTK5-HSjbjs) (Dauer: 53:15 Minuten):
+
+{{< video https://www.youtube.com/embed/vTK5-HSjbjs title= "Rosemarie Tracy: Wie viele Sprachen passen in einen Kopf bzw. in eine Schule?" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=vTK5-HSjbjs>
+#| fig-cap: "Rosemarie Tracy: Wie viele Sprachen passen in einen Kopf bzw. in eine Schule?"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=vTK5-HSjbjs"
+embed_url(url)
+# suggest_embed(url)
+```
+:::
+
+::: rmdtip
+Ein Vortrag von *Prof. Dr. Rosemarie Tracy* über das Thema *Spracherwerb*.
+
+[BildungsTV](https://www.youtube.com/watch?v=prCbpoi-3KI) (Dauer: 1:04:48):
+
+{{< video https://www.youtube.com/embed/prCbpoi-3KI title= "Was brauchen Kinder zum Spracherwerb?" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=prCbpoi-3KI>
+#| fig-cap: "Was brauchen Kinder zum Spracherwerb?"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=prCbpoi-3KI"
+embed_url(url)
+# suggest_embed(url)
+```
+:::

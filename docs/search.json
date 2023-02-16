@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spracherwerb",
+    "section": "",
+    "text": ".\n\n\nError in knitr::include_graphics(\"pictures/clipart2906322_personal_use_only.png\"): Cannot find the file(s): \"pictures/clipart2906322_personal_use_only.png\""
+  },
+  {
+    "objectID": "preface.html",
+    "href": "preface.html",
+    "title": "Vorwort",
+    "section": "",
+    "text": "Dieses Buch enthält Begleittexte und Übungsvorschläge für das Studienfach Spracherwerb (sl. Usvajanje jezika, en. Language acquisition), das im Rahmen des Germanistikstudiums an der Universität Maribor als Wahl- und Pflichtfach angeboten wird.\nDas Buch wurde mit Hilfe der Programmierungssprache R https://www.r-project.org/ und der von RStudio https://www.rstudio.com/ entwickelten Skriptsprache Rmarkdown https://rmarkdown.rstudio.com/ auf der Entwickler-Platform Github https://github.com/ als Quarto Book https://quarto.org/ veröffentlicht."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Einführung",
+    "section": "",
+    "text": "In diesem Buch besprechen wir Entwicklungsabläufe, Tendenzen und Paradigmen im Erst- und Zweit-/Fremdspracherwerb des Deutschen (teilweise auch im Slowenischen), die im Rahmen verschiedener Forschungsbereiche (Psycho- und Neurolinguistik, Spracherwerb, Sprachvarietäten, …) diskutiert werden und auch für germanistische Studien von Interesse sein können. Die verwendeten Methoden und praktischen Aufgaben sind zum Teil verallgemeinerbar und übertragbar auf andere intellektuelle Arbeitsbereiche.1\nDie vorgesehenen Themenbereiche:\n\n\nLeitfragen in der Spracherwerbsforschung,\n\nMerkmale verschiedenener Spracherwerbstypen,\n\nVor- und Nachteile der Mehrsprachigkeit,\n\nNeurobiologische und kognitive Grundlagen des Spracherwerbs,\n\nMarkante Thesen einflussreicher Spracherwerbstheorien,\n\nSpracherwerbsstadien am Beispiel deutscher Kinder,\n\nEntwicklungsverläufe und Paradigmen am Beispiel deutscher Spracherwerbskorpora,\n\nSprachproduktion und -rezeption im Zweit-/Fremdspracherwerb,\n\nEntwicklungsbedingte und transferbedingte sprachliche Konstruktionen im Zweit-/Fremdspracherwerb (v.a. am Beispiel slowenischer Lernender).\n\n\nIn diesem Einführungskurs machen wir Sie mit einigen der grundlegenden Methoden zur Erfassung der linguistischen Merkmale in deutschen (und in einigen Abschnitten auch mit slowenischen) Texten bekannt.\nHinweise2:\n\nDas ist eine Definition (rmdnote).\n\n\nDas ist ein Tip oder eine Info (rmdtip).\n\n\nDas ist ein Arbeitsvorschlag (rmdrobot).\n\n\nDas ist der RStudio Logotyp (rmdrstudio).\n\n\nDas ist eine Warnung (rmdwarning).\n\n\nDas ist eine Fehlermeldung (rmderror).\n\n\n\n\n\n\n\n\nDieses Buch wurde mit Quarto https://quarto.org/docs/books/ zusammengestellt.↩︎\nClipart von https://www.clipartmax.com/↩︎"
+  },
+  {
+    "objectID": "leitfragen.html#sprachbeherrschung",
+    "href": "leitfragen.html#sprachbeherrschung",
+    "title": "2  Leitfragen in der Spracherwerbsforschung",
+    "section": "2.1 Sprachbeherrschung",
+    "text": "2.1 Sprachbeherrschung\nBegriff des sprachlichen Wissens\nSprache ist Bestandteil der menschlichen Kognition: Prozesse der mentalen Speicherung, Aufnahme und Verarbeitung von Informationen.\nDiesen Prozessen kann das Bewusstsein zugeschaltet sein oder nicht.\nMenge der gespeicherten Informationen (deklaratives Wissen, auch »Wissen, dass«)\nVerfügbarkeit von informationsverarbeitenden Prozessen (prozedurales Wissen, auch »Wissen, wie«).\nWas macht nun sprachliches Wissen in diesem Sinne aus? Versteht man Sprache als gegliedertes System von Einheiten, die durch ihre Analysierbarkeit und ihre Kombinierbarkeit gekennzeichnet sind, so bildet die Entwicklung der Fähigkeit, sprachliche Einheiten zu segmentieren und miteinander zu kombinieren, den Kern des Spracherwerbs.\nÜber den Aufbau sprachstrukturellen Wissens hinaus ist Wissen über die Gebrauchsbedingungen von Sprache, ihre kommunikative Funktion und ihren reziproken Charakter ebenfalls Gegenstand des Spracherwerbs. Derartige anwendungsbezogene Aspekte von Sprache werden bereits im ersten Lebensjahr in Austauschprozessen zwischen dem Kind und seinen Bezugspersonen angebahnt und im weiteren Verlauf ausdifferenziert."
+  },
+  {
+    "objectID": "leitfragen.html#ist-sprachliches-wissen-angeboren-oder-wird-es-erlernt",
+    "href": "leitfragen.html#ist-sprachliches-wissen-angeboren-oder-wird-es-erlernt",
+    "title": "2  Leitfragen in der Spracherwerbsforschung",
+    "section": "2.2 Ist sprachliches Wissen angeboren oder wird es erlernt?",
+    "text": "2.2 Ist sprachliches Wissen angeboren oder wird es erlernt?\nSeit langem als Kernthema der Spracherwerbsforschung und immer wieder neu diskutiert. Debatte um den Einfluss von Erbe und Umwelt auf die Entwicklung von Individuen. Ausbildung dieser humanspezifischen Fähigkeit nur möglich, wenn die sprachlernenden Menschen einer Umgebungssprache ausgesetzt sind. Kontrovers wird diskutiert, welche Rolle und welches Gewicht anlagebedingten Faktoren auf der einen Seite und dem Sprachangebot der Umwelt auf der anderen Seite zukommt. Kommt das Kind vorgeprägt für Sprache auf die Welt, ausgestattet mit spezifischen Fähigkeiten, die in der menschlichen Entwicklungsgeschichte entstanden sind? Entwickelt sich Sprache gemäß angeborener innerer Voraussetzungen und vorgeprägter Reifungsprozesse entwickelt. Geht man dagegen davon aus, dass das Kind Sprache aktiv und vorrangig durch Kontakt und Kommunikation mit anderen Sprechern lernt."
+  },
+  {
+    "objectID": "leitfragen.html#domänenspezifik-von-sprache.",
+    "href": "leitfragen.html#domänenspezifik-von-sprache.",
+    "title": "2  Leitfragen in der Spracherwerbsforschung",
+    "section": "2.3 Domänenspezifik von Sprache.",
+    "text": "2.3 Domänenspezifik von Sprache.\nWird Sprache über sprachspezifische oder allgemein-kognitive Mechanismen erworben? Denkbar ist, dass allgemeine kognitive Prozesse auf verschiedene Wissens- und Aufgabenbereiche anwendbar sind.\nEine andere Position besteht in der Annahme, dass für den Spracherwerb domänenspezifisches Wissen notwendig ist, das darauf spezialisiert ist, nur einen bestimmten Typus von Informationen zu verarbeiten.\nIn der Spracherwerbsforschung lassen sich drei große, traditionelle Erklärungsparadigmen unterscheiden:\n\nNativismus,\nInteraktionismus und\nKognitivismus.\n\nNeuere Erklärungsmodelle arbeiten auf eine Synthese hin.\n\n\n\n\n\n\nKauschke, Christina. 2012. Kindlicher spracherwerb im deutschen: Verläufe, forschungsmethoden, erklärungsansätze. Bd. 45. walter de Gruyter."
+  },
+  {
+    "objectID": "spracherwerbstypen.html#terminologische-unterscheidung",
+    "href": "spracherwerbstypen.html#terminologische-unterscheidung",
+    "title": "3  Spracherwerbstypen",
+    "section": "3.1 Terminologische Unterscheidung",
+    "text": "3.1 Terminologische Unterscheidung\nIn der Sprachewerbsforschung ist es möglich und üblich, verschiedene Verben und Nomina zu verwenden, um auf verschiedene Spracherwerbstypen Bezug zu nehmen.\nVerben: (eine Sprache) erwerben, sich (eine Sprache) aneignen, (eine Sprache) lernen.\nNomina: der Erwerb einer Sprache, die Aneignung einer Sprache, das Lernen einer Sprache.\n\nWelche semantischen Unterschiede bestehen zwischen den genannten Verben und Nomina?\nVorschlag: Schauen Sie mal im DWDS https://www.dwds.de/ nach und versuchen Sie festzustellen, in welchen Kontexten die Verben / Nomina vorkommen!\nVergleichen Sie die Bedeutungen auch mit den Bedeutungen entsprechender slowenischer und englischer Ausdrücke:\nSlowenisch: pridobiti (jezik), usvojiti (jezik), se učiti (jezika).\nEnglisch: acquire, learn (a language), …\n\n\n\n\n\n\nAneignung (A) soll als Oberbegriff für Erwerb und Lernen dienen. Die Aneignung einer Erstsprache ist stärker von Erwerbsprozessen geprägt. Die Aneignung einer Fremdsprache ist stärker von Lernprozessen geprägt. Die Aneignung einer Zweitsprache (im engeren Sinne) ist je nach Fall stärker von Erwerbs- bzw. Lernprozessen geprägt.\n\n\n\n\n\n\nIhnen werden nun ein paar Videoausschnitte gezeigt, in denen die Art und Weise beschrieben wird, wie sich Menschen eine Sprache aneignen.\nVersuchen Sie, die wesentlichen Unterschiede und eventuelle Gemeinsamkeiten herauszufinden !\nEasy German (Dauer: 11:07 Minuten):"
+  },
+  {
+    "objectID": "spracherwerbstypen.html#unterscheidungskriterien",
+    "href": "spracherwerbstypen.html#unterscheidungskriterien",
+    "title": "3  Spracherwerbstypen",
+    "section": "3.2 Unterscheidungskriterien",
+    "text": "3.2 Unterscheidungskriterien\nWir können eine Reihe von Kriterien verwenden, um drei Spracherwerbstypen zu unterscheiden.\nL1 steht für Erstsprache (oft auch als Muttersprache bezeichnet), L2 bezieht sich auf die Zweitsprache und\nFL wird in der Tabelle für Fremdsprache verwendet.\nDer Ausdruck Muttersprache ist bei bilingualen (d.h. zweisprachigen) Personen nicht unbedingt zutreffend (warum?), darum ist Erstsprache als Fachterminus zu bevorzugen.\n\n\n\n\n\n\nIhnen werden nun ein paar Videoausschnitte gezeigt, in denen die Art und Weise beschrieben wird, wie sich Menschen eine Sprache aneignen.\nVersuchen Sie, die wesentlichen Unterschiede und eventuelle Gemeinsamkeiten herauszufinden !\nEasy German (Dauer: 8:46 Minuten):\n\n\n\n\n\n\n\n\n\n\nIn der Forschungsliteratur wird der Begriff Zweitspracherwerb\n\nim engeren Sinne (wie in der zuvor gezeigten Tabelle),\nbisweilen aber auch im weiteren Sinne verwendet.\n\nIm zweiten Fall werden Fremdspracherwerb und Zweitspracherwerb (im engeren Sinne) als Zweitspracherwerb zusammengefasst. Welche wichtige Gemeinsamkeit ist dafür wohl ausschlaggebend ?\nDer Erstspracherwerb kann auch in der Form eines doppelten Erstspracherwerbs (oder mehrfachen L1-Erwerbs) vorkommen.\nIm Fall von bilingulaen Personen ist es auch aus neurobiologischer Perspektive sinnvoll, zwischen frühem und späten Bilingualismus zu unterscheiden."
+  },
+  {
+    "objectID": "bilingual.html",
+    "href": "bilingual.html",
+    "title": "4  Vor- und Nachteile der Mehrsprachigkeit",
+    "section": "",
+    "text": "Error in knitr::include_graphics(\"pictures/tip-of-the-tongue1-1.png\"): Cannot find the file(s): \"pictures/tip-of-the-tongue1-1.png\"\n\n\nZwei- oder Mehrsprachigkeit hat nach Ansicht vieler Menschen mehrere Vorteile. Aber viele Menschen wachsen nicht zwei- oder mehrsprachig auf. Deshalb erhebt sich nicht nur die Frage, welche Vorteile Mehrsprachigkeit hat, sondern auch, ob es gewisse Nachteile gibt, die Mehrsprachigkeitsbestreben hemmen oder sogar verhindern.\n\nHier folgt eine Liste von Behauptungen zur Mehrsprachigkeit. Beurteilen Sie, welche Behauptungen Sie für richtig halten und welche für nicht haltbar.\nMobilitätsaspekte:\n\n\n\n\n\nKulturelle Aspekte:\n\n\n\n\n\nKognitive Aspekte:\n\n\n\n\n\n\nIn einem Artikel von Peter Ecke Ecke (2008) werden einige Nachteile der Zwei- oder Mehrsprachigkeit anhand von wissenschaftlichen Studien diskutiert. Die Web-Adresse des Artikels: University of Arizona. Hier ist ein Abdruck der ersten Seite:\n\n\n\n\n\n\nIhnen werden nun Videos gezeigt, in denen Vorteile der Zwei-/Mehrsprachigkeit und (vermeintliche) Nachteile erläutern werden.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nHerzenssprache (Dauer: 7:53 Minuten):\n\n\n\n\n\n\nEin weiteres Video zum Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nWanderlust Monica (Dauer: 12:34 Minuten):\n\n\n\n\n\n\nEin längeres Gespräch mit Prof. Dr. Jürgen Meisel zum Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nGabriel Gelman Sprachheld (Dauer: 43:53 Minuten):\n\n\n\n\n\n\nEin kürzeres Gespräch mit Prof. Dr. Rosemarie Tracy über das Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nUniversität Mannheim (Dauer: 10:51 Minuten):\n\n\n\n\n\n\nEin Vortrag von Prof. Dr. Rosemarie Tracy über das Thema Mehrsprachigkeit.\nBildungsTV (Dauer: 53:15 Minuten):\n\n\n\n\n\n\nEin Vortrag von Prof. Dr. Rosemarie Tracy über das Thema Spracherwerb.\nBildungsTV (Dauer: 1:04:48):\n\n\n\n\n\n\n\n\n\n\n\nEcke, Peter. 2008. „Die Kosten der Mehrsprachigkeit“. Babylonia, Nr. 2: 26–30. http://www.u.arizona.edu/~eckep/Ecke%2008%20Kosten%20der%20MS.pdf."
+  },
+  {
+    "objectID": "methoden.html",
+    "href": "methoden.html",
+    "title": "5  Methoden in der Spracherwerbsforschung",
+    "section": "",
+    "text": "Welche Methoden sind in der Spracherwerbsforschung anwendbar? Welche Vor- und Nachteile haben sie im Einzelnen?\n\nWelche Methoden werden in Kauschke (2012) beschrieben?\nWelche Anwendungsbereiche finden sie?\nWelche Vor- und Nachteile zeigen sich bei ihrer Anwendung?\nStellen Sie eine Präsentation zum Thema zusammen und illustrieren Sie sie auch mit Abbildungen und Beispielen, die Sie im Internet ausfindig gemacht haben!\n\n\n\n\n\nÜbersicht über Methoden der Spracherwerbsforschung in Kauschke (2012): 6\n\n\n\n\n\n\n\n\n\n\n\nKauschke, Christina. 2012. Kindlicher spracherwerb im deutschen: Verläufe, forschungsmethoden, erklärungsansätze. Bd. 45. walter de Gruyter."
+  },
+  {
+    "objectID": "neurokognitiv.html",
+    "href": "neurokognitiv.html",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "",
+    "text": "In diesem Studienjahr haben wir uns auf folgende Themen fokussiert (–> Präsentation in Teams und/oder Internetquellen):\n\nSensorisches Gedächtnis (welche Funktion hat es?)\nArbeitsgedächtnis (Welche Beschränkungen hat es? Welche Funktion hat nach Baddelys Modell (a) die phonetische Schleife, (b) der visuelle Notizblock, (c) die zentrale Exekutive? Welche Rolle spielt Aufmerksamkeit für die Aufnahme ins Arbeitsgedächtnis? Wie kann man die Kapazizät des Arbeitsgedächtnisses steigern?\nWissenssysteme im Langzeitgedächtnis (Welche auffällige Unterschiede gibt es zwischen dem deklarativen und dem prozeduralen Langzeitgedächtnis? Welche (sprachlichen oder nicht-sprachlichen) Reize (Stimuli) haben größere Chancen, im Langzeitgedächtnis gespeichert zu werden? Welchen Einfluss haben emotional geladene Reize auf die Speicherung im Langzeitgedächtnis? Welche Funktion haben der Hippokampus, die Amygdala und frontale Hirnrindenbereiche in Bezug auf die langzeitige Speicherung von Einzelheiten oder Regelmäßigkeiten?)"
+  },
+  {
+    "objectID": "theorien.html",
+    "href": "theorien.html",
+    "title": "7  Markante Thesen einflussreicher Spracherwerbstheorien",
+    "section": "",
+    "text": "In welcher Hinsicht unterscheidet sich Chomskys Nativismus von kognivistischen und konstruktivistischen Modellen (Piaget, Tomasello)?\nWelche Rolle spielt soziale Interaktion im Spracherwerb?\nWorin zeigt sich, dass Nachahmungsfähigkeiten zwar wichtig sind im Spracherwerb, aber zur Erklärung nicht ausreichen?\nErläutern Sie die menschlichen Fähigkeiten der Mustererkennung, des Perspektivenwechsels und der geteilten Aufmerksamkeit im Spracherwerb!\nWelchen Vorteil hat die Einordnung von Erscheinungen in Kategorien? Was unterscheidet Basiskategorien (z.B. Hund ) von anderen Kategorien (z.B. Tier, Pudel), prototypische Kategorien (z.B. Spatz) von nicht-prototypischen (z.B. Strauß)?\n\n(–> Kauschke, Teams, …)"
+  },
+  {
+    "objectID": "spracherwerbsstadien.html",
+    "href": "spracherwerbsstadien.html",
+    "title": "8  Erstspracherwerbsstadien",
+    "section": "",
+    "text": "Error in knitr::include_graphics(\"pictures/freudscher_versprecher_1328535.jpg\"): Cannot find the file(s): \"pictures/freudscher_versprecher_1328535.jpg\"\n\n\n\nWelche typischen Stadien sind im Erstspracherwerb unterscheidbar? (Quarks&Co, Kauschke)\n\nArtikelerwerb von sechs Kindern des Szagun-Korpus\n\nBeschreiben Sie den Erwerb deutscher d-Wörter, die zunächst wie Demonstrativpronomen auf ein außersprachliches Objekt verweisen, dann aber ab einem bestimmten Alter mit einem Nomen auftreten und dann die im Deutschen typische Artikelfunktion ausüben (d.h. Verweis auf bekannte oder zumindest identifizierbare Objekte in Situation und/oder Kontext)!"
+  },
+  {
+    "objectID": "transfer.html",
+    "href": "transfer.html",
+    "title": "9  Entwicklungs- und transferbedingte Fehler",
+    "section": "",
+    "text": "Fehler und Abweichungen von der Zielsprache.\nKormos, Judit\n\nAnhand welcher Kriterien sind Transfer als Kompetenzphänomen und Interferenz als Performanzphänomen unterscheidbar?\nWelche sprachlichen Bereiche oder Ebenen sind transferanfällig, welche resistenter?\nWas unterscheidet entwicklungsbedingte Fehler von transferbedingten Fehlern?\nErläutern Sie, warum die Kontrastivhypothese nicht ausreichte, um bestimmte Fehler im Zweit- und Fremdspracherwerb zu erklären und dies zu neuen theoretischen Ansätzen führt (z.B. Identitätshypothese, Interlanguage-Hypothese)? ( s. Teams Zweitspracherwerb: L1 als Hilfe oder Hindernis, Hochländer: Fehlerkunde, Kupisch, Cantone … in meiner Präsentation, Hypothesen von Krashen)\nBeschreiben Sie sprachliche Fehler, die Sie entweder auf einen Einfluss der Erstsprache (Transfer oder Interferenz) oder als entwicklungsbedingte Fehler (die sich nicht auf die L1 zurückführen lassen) einordnen können!\nVerwenden Sie zu diesem Zweck die Aufsätze der Mittelschüler, die wir schon während des Unterrichts analysiert haben, oder die Aufsätze der Studierenden (Teams: Zweitspracherwerb)!"
+  },
+  {
+    "objectID": "summary.html#fontawesome",
+    "href": "summary.html#fontawesome",
+    "title": "10  Abschließende Bemerkungen",
+    "section": "10.1 Fontawesome",
+    "text": "10.1 Fontawesome\nIn the terminal use:\nquarto install quarto-ext/fontawesome\nThis extension folder has to be installed in every project.\nAfter installation, use curly braces to include fa icons / or use html code (e.g. copy free icons from https://fontawesome.com , namely: https://fontawesome.com/start).\n - the code for an envelope\n - the code for brands like facebook\nFor icon-styling go to https://github.com/quarto-ext/fontawesome:\n\nOn https://fontawesome.com/docs, there is information on how to change the color of the icons, e.g. in the Styling section, Basics.\n  \nRotated icons:\n\n      \n\nPossible to include animated icons:"
+  },
+  {
+    "objectID": "summary.html#callout-types",
+    "href": "summary.html#callout-types",
+    "title": "10  Abschließende Bemerkungen",
+    "section": "10.2 Callout Types",
+    "text": "10.2 Callout Types\n\n\n\n\n\n\nHinweis\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nTip With Caption / Tipp mit Titel\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nWichtig\n\n\n\nDas ist wichtig.\n\n\n\n\n\n\n\n\nWarnung\n\n\n\nWarning\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default."
+  },
+  {
+    "objectID": "summary.html#diagrammer-mermaid",
+    "href": "summary.html#diagrammer-mermaid",
+    "title": "10  Abschließende Bemerkungen",
+    "section": "10.3 DiagrammeR mermaid",
+    "text": "10.3 DiagrammeR mermaid"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Ecke, Peter. 2008. “Die Kosten Der Mehrsprachigkeit.”\nBabylonia, no. 2: 26–30. http://www.u.arizona.edu/~eckep/Ecke%2008%20Kosten%20der%20MS.pdf.\n\n\nKauschke, Christina. 2012. Kindlicher Spracherwerb Im Deutschen:\nVerläufe, Forschungsmethoden,\nErklärungsansätze. Vol. 45. walter de\nGruyter."
+  }
+]
