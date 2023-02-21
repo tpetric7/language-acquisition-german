@@ -1,6 +1,11 @@
 # Methoden in der Spracherwerbsforschung {#sec-spracherwerb}
 
-Welche Methoden sind in der Spracherwerbsforschung anwendbar? Welche Vor- und Nachteile haben sie im Einzelnen?
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://www.clipartmax.com/middle/m2i8K9i8K9m2i8A0_solutions-for-reducing-leadership-burnout-technology-doesn-t-work/>
+knitr::include_graphics("pictures/clipart55029.png")
+```
+
+In jeder wissenschaftlichen Disziplin müssen Daten erhoben werden, um Erklärungsansätze empirisch überprüfen zu können. Zu diesem Zweck werden verschiedene Methoden eingesetzt, einen theoretischen Ansatz zu falsifizieren. In @kauschke2012kindlicher: 6-22 werden verschiedene Verfahren für die Gewinnung von Daten beschrieben, die in Untersuchungen zum Erstspracherwerb eingesetzt werden. Viele davon finden jedoch auch in Untersuchungen zum Zweit- und Fremdspracherwerb Anwendung.  
 
 ::: rmdrobot
 Welche Methoden werden in @kauschke2012kindlicher beschrieben?\

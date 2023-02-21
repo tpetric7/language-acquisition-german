@@ -1,5 +1,10 @@
 # Markante Thesen einflussreicher Spracherwerbstheorien {#sec-theorien}
 
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://www.clipartmax.com/middle/m2K9A0m2i8Z5A0i8_more-technology-icon-png/>
+knitr::include_graphics("pictures/clipart10912.png")
+```
+
 - In welcher Hinsicht unterscheidet sich Chomskys Nativismus von kognivistischen und konstruktivistischen Modellen (Piaget, Tomasello)?
 
 - Welche Rolle spielt soziale Interaktion im Spracherwerb?
@@ -11,4 +16,27 @@
 - Welchen Vorteil hat die Einordnung von Erscheinungen in Kategorien? Was unterscheidet Basiskategorien (z.B. Hund ) von anderen Kategorien (z.B. Tier, Pudel), prototypische Kategorien (z.B. Spatz) von nicht-prototypischen (z.B. Strauß)?
 
 (--> Kauschke, Teams, …)
+
+
+[Serious Science](https://www.youtube.com/watch?v=JuRChcbD7FY) (Dauer: 11:27 Minuten):
+
+{{< video https://www.youtube.com/embed/JuRChcbD7FY title= "Theories of Language Acquisition Ben Ambridge" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=JuRChcbD7FY>
+#| fig-cap: "Theories of Language Acquisition Ben Ambridge"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=JuRChcbD7FY"
+embed_url(url)
+# suggest_embed(url)
+```
+
+
+Language Acquisition in Children Ben Ambridge:
+
+https://www.youtube.com/watch?v=I73Ou2wOyy4
+
+Bilingual First Language Acquisition workshop at the University of York: Prof. Ben Ambridge: 
+
+https://www.youtube.com/watch?v=0rfU1wlRbwE
 

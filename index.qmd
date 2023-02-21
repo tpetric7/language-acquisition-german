@@ -1,6 +1,6 @@
 # . {.unnumbered}
 
 ```{r out.width="100%"}
-#| fig-link: <https://www.clipartmax.com/>
-knitr::include_graphics("pictures/clipart2906322_personal_use_only.png")
+#| fig-link: <https://www.clipartmax.com/middle/m2i8K9m2b1d3A0d3_alphabet-song-cartoon-clip-art-babys-babble%21-babys-first-sight-words-baby/>
+knitr::include_graphics("pictures/clipart145720.png")
 ```

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Spracherwerb",
     "section": "",
-    "text": ".\n\n\nError in knitr::include_graphics(\"pictures/clipart2906322_personal_use_only.png\"): Cannot find the file(s): \"pictures/clipart2906322_personal_use_only.png\""
+    "text": "."
   },
   {
     "objectID": "preface.html",
@@ -60,42 +60,126 @@
     "href": "bilingual.html",
     "title": "4  Vor- und Nachteile der Mehrsprachigkeit",
     "section": "",
-    "text": "Error in knitr::include_graphics(\"pictures/tip-of-the-tongue1-1.png\"): Cannot find the file(s): \"pictures/tip-of-the-tongue1-1.png\"\n\n\nZwei- oder Mehrsprachigkeit hat nach Ansicht vieler Menschen mehrere Vorteile. Aber viele Menschen wachsen nicht zwei- oder mehrsprachig auf. Deshalb erhebt sich nicht nur die Frage, welche Vorteile Mehrsprachigkeit hat, sondern auch, ob es gewisse Nachteile gibt, die Mehrsprachigkeitsbestreben hemmen oder sogar verhindern.\n\nHier folgt eine Liste von Behauptungen zur Mehrsprachigkeit. Beurteilen Sie, welche Behauptungen Sie für richtig halten und welche für nicht haltbar.\nMobilitätsaspekte:\n\n\n\n\n\nKulturelle Aspekte:\n\n\n\n\n\nKognitive Aspekte:\n\n\n\n\n\n\nIn einem Artikel von Peter Ecke Ecke (2008) werden einige Nachteile der Zwei- oder Mehrsprachigkeit anhand von wissenschaftlichen Studien diskutiert. Die Web-Adresse des Artikels: University of Arizona. Hier ist ein Abdruck der ersten Seite:\n\n\n\n\n\n\nIhnen werden nun Videos gezeigt, in denen Vorteile der Zwei-/Mehrsprachigkeit und (vermeintliche) Nachteile erläutern werden.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nHerzenssprache (Dauer: 7:53 Minuten):\n\n\n\n\n\n\nEin weiteres Video zum Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nWanderlust Monica (Dauer: 12:34 Minuten):\n\n\n\n\n\n\nEin längeres Gespräch mit Prof. Dr. Jürgen Meisel zum Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nGabriel Gelman Sprachheld (Dauer: 43:53 Minuten):\n\n\n\n\n\n\nEin kürzeres Gespräch mit Prof. Dr. Rosemarie Tracy über das Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nUniversität Mannheim (Dauer: 10:51 Minuten):\n\n\n\n\n\n\nEin Vortrag von Prof. Dr. Rosemarie Tracy über das Thema Mehrsprachigkeit.\nBildungsTV (Dauer: 53:15 Minuten):\n\n\n\n\n\n\nEin Vortrag von Prof. Dr. Rosemarie Tracy über das Thema Spracherwerb.\nBildungsTV (Dauer: 1:04:48):\n\n\n\n\n\n\n\n\n\n\n\nEcke, Peter. 2008. „Die Kosten der Mehrsprachigkeit“. Babylonia, Nr. 2: 26–30. http://www.u.arizona.edu/~eckep/Ecke%2008%20Kosten%20der%20MS.pdf."
+    "text": "Zwei- oder Mehrsprachigkeit hat nach Ansicht vieler Menschen mehrere Vorteile. Aber viele Menschen wachsen nicht zwei- oder mehrsprachig auf. Deshalb erhebt sich nicht nur die Frage, welche Vorteile Mehrsprachigkeit hat, sondern auch, ob es gewisse Nachteile gibt, die Mehrsprachigkeitsbestreben hemmen oder sogar verhindern.\n\nHier folgt eine Liste von Behauptungen zur Mehrsprachigkeit. Beurteilen Sie, welche Behauptungen Sie für richtig halten und welche für nicht haltbar.\nMobilitätsaspekte:\n\n\n\n\n\nKulturelle Aspekte:\n\n\n\n\n\nKognitive Aspekte:\n\n\n\n\n\n\nIn einem Artikel von Peter Ecke Ecke (2008) werden einige Nachteile der Zwei- oder Mehrsprachigkeit anhand von wissenschaftlichen Studien diskutiert. Die Web-Adresse des Artikels: University of Arizona. Hier ist ein Abdruck der ersten Seite:\n\n\n\n\n\n\nIhnen werden nun Videos gezeigt, in denen Vorteile der Zwei-/Mehrsprachigkeit und (vermeintliche) Nachteile erläutern werden.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nHerzenssprache (Dauer: 7:53 Minuten):\n\n\n\n\n\n\nEin weiteres Video zum Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nWanderlust Monica (Dauer: 12:34 Minuten):\n\n\n\n\n\n\nEin längeres Gespräch mit Prof. Dr. Jürgen Meisel zum Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nGabriel Gelman Sprachheld (Dauer: 43:53 Minuten):\n\n\n\n\n\n\nEin kürzeres Gespräch mit Prof. Dr. Rosemarie Tracy über das Thema Mehrsprachigkeit.\nStellen Sie eine Liste der Vor- und Nachteile zusammen, damit Sie über das Thema Mehrsprachigkeit diskutieren und entsprechend argumentieren könen!\nUniversität Mannheim (Dauer: 10:51 Minuten):\n\n\n\n\n\n\nEin Vortrag von Prof. Dr. Rosemarie Tracy über das Thema Mehrsprachigkeit.\nBildungsTV (Dauer: 53:15 Minuten):\n\n\n\n\n\n\nEin Vortrag von Prof. Dr. Rosemarie Tracy über das Thema Spracherwerb.\nBildungsTV (Dauer: 1:04:48):\n\n\n\n\n\n\n\n\n\n\n\nEcke, Peter. 2008. „Die Kosten der Mehrsprachigkeit“. Babylonia, Nr. 2: 26–30. http://www.u.arizona.edu/~eckep/Ecke%2008%20Kosten%20der%20MS.pdf."
   },
   {
     "objectID": "methoden.html",
     "href": "methoden.html",
     "title": "5  Methoden in der Spracherwerbsforschung",
     "section": "",
-    "text": "Welche Methoden sind in der Spracherwerbsforschung anwendbar? Welche Vor- und Nachteile haben sie im Einzelnen?\n\nWelche Methoden werden in Kauschke (2012) beschrieben?\nWelche Anwendungsbereiche finden sie?\nWelche Vor- und Nachteile zeigen sich bei ihrer Anwendung?\nStellen Sie eine Präsentation zum Thema zusammen und illustrieren Sie sie auch mit Abbildungen und Beispielen, die Sie im Internet ausfindig gemacht haben!\n\n\n\n\n\nÜbersicht über Methoden der Spracherwerbsforschung in Kauschke (2012): 6\n\n\n\n\n\n\n\n\n\n\n\nKauschke, Christina. 2012. Kindlicher spracherwerb im deutschen: Verläufe, forschungsmethoden, erklärungsansätze. Bd. 45. walter de Gruyter."
+    "text": "In jeder wissenschaftlichen Disziplin müssen Daten erhoben werden, um Erklärungsansätze empirisch überprüfen zu können. Zu diesem Zweck werden verschiedene Methoden eingesetzt, einen theoretischen Ansatz zu falsifizieren. In Kauschke (2012): 6-22 werden verschiedene Verfahren für die Gewinnung von Daten beschrieben, die in Untersuchungen zum Erstspracherwerb eingesetzt werden. Viele davon finden jedoch auch in Untersuchungen zum Zweit- und Fremdspracherwerb Anwendung.\n\nWelche Methoden werden in Kauschke (2012) beschrieben?\nWelche Anwendungsbereiche finden sie?\nWelche Vor- und Nachteile zeigen sich bei ihrer Anwendung?\nStellen Sie eine Präsentation zum Thema zusammen und illustrieren Sie sie auch mit Abbildungen und Beispielen, die Sie im Internet ausfindig gemacht haben!\n\n\n\n\n\nÜbersicht über Methoden der Spracherwerbsforschung in Kauschke (2012): 6\n\n\n\n\n\n\n\n\n\n\n\nKauschke, Christina. 2012. Kindlicher spracherwerb im deutschen: Verläufe, forschungsmethoden, erklärungsansätze. Bd. 45. walter de Gruyter."
   },
   {
-    "objectID": "neurokognitiv.html",
-    "href": "neurokognitiv.html",
+    "objectID": "neurokognitiv.html#hirnmasse",
+    "href": "neurokognitiv.html#hirnmasse",
     "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
-    "section": "",
-    "text": "In diesem Studienjahr haben wir uns auf folgende Themen fokussiert (–> Präsentation in Teams und/oder Internetquellen):\n\nSensorisches Gedächtnis (welche Funktion hat es?)\nArbeitsgedächtnis (Welche Beschränkungen hat es? Welche Funktion hat nach Baddelys Modell (a) die phonetische Schleife, (b) der visuelle Notizblock, (c) die zentrale Exekutive? Welche Rolle spielt Aufmerksamkeit für die Aufnahme ins Arbeitsgedächtnis? Wie kann man die Kapazizät des Arbeitsgedächtnisses steigern?\nWissenssysteme im Langzeitgedächtnis (Welche auffällige Unterschiede gibt es zwischen dem deklarativen und dem prozeduralen Langzeitgedächtnis? Welche (sprachlichen oder nicht-sprachlichen) Reize (Stimuli) haben größere Chancen, im Langzeitgedächtnis gespeichert zu werden? Welchen Einfluss haben emotional geladene Reize auf die Speicherung im Langzeitgedächtnis? Welche Funktion haben der Hippokampus, die Amygdala und frontale Hirnrindenbereiche in Bezug auf die langzeitige Speicherung von Einzelheiten oder Regelmäßigkeiten?)"
+    "section": "6.1 Hirnmasse",
+    "text": "6.1 Hirnmasse\nDas Gehirn eines Menschen ist vergleichsweise klein.\n\n\n\n\n\nWie viel Hirnmasse hat der Mensch im Vergleich zu anderen Tieren?"
+  },
+  {
+    "objectID": "neurokognitiv.html#immer-online",
+    "href": "neurokognitiv.html#immer-online",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.2 Immer Online",
+    "text": "6.2 Immer Online\nUnser Gehirn ruht nie - ist immer ONLINE."
+  },
+  {
+    "objectID": "neurokognitiv.html#neuronale-netzwerke",
+    "href": "neurokognitiv.html#neuronale-netzwerke",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.3 Neuronale Netzwerke",
+    "text": "6.3 Neuronale Netzwerke"
+  },
+  {
+    "objectID": "neurokognitiv.html#kortikale-landkarten",
+    "href": "neurokognitiv.html#kortikale-landkarten",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.4 Kortikale Landkarten",
+    "text": "6.4 Kortikale Landkarten"
+  },
+  {
+    "objectID": "neurokognitiv.html#sprachareale",
+    "href": "neurokognitiv.html#sprachareale",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.5 Sprachareale",
+    "text": "6.5 Sprachareale"
+  },
+  {
+    "objectID": "neurokognitiv.html#gedächtnissysteme",
+    "href": "neurokognitiv.html#gedächtnissysteme",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.6 Gedächtnissysteme",
+    "text": "6.6 Gedächtnissysteme\n\n\n\n\n\n\n\n\n\n\n\n6.6.1 Sensorisches Gedächtnis\n\n\n\n\n\n\n\n6.6.2 Arbeitsgedächtnis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.6.3 Langzeitgedächtnis\n\n6.6.3.1 Regeln\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.6.3.2 Einzelheiten\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.6.3.3 Emotionen\nWelche Rolle spielen Emotionen beim Lernen?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.6.3.4 Limbisches System\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSensorisches Gedächtnis (welche Funktion hat es?)\nArbeitsgedächtnis (Welche Beschränkungen hat es? Welche Funktion hat nach Baddelys Modell (a) die phonetische Schleife, (b) der visuelle Notizblock, (c) die zentrale Exekutive? Welche Rolle spielt Aufmerksamkeit für die Aufnahme ins Arbeitsgedächtnis? Wie kann man die Kapazizät des Arbeitsgedächtnisses steigern?\nWissenssysteme im Langzeitgedächtnis (Welche auffällige Unterschiede gibt es zwischen dem deklarativen und dem prozeduralen Langzeitgedächtnis? Welche (sprachlichen oder nicht-sprachlichen) Reize (Stimuli) haben größere Chancen, im Langzeitgedächtnis gespeichert zu werden? Welchen Einfluss haben emotional geladene Reize auf die Speicherung im Langzeitgedächtnis? Welche Funktion haben der Hippokampus, die Amygdala und frontale Hirnrindenbereiche in Bezug auf die langzeitige Speicherung von Einzelheiten oder Regelmäßigkeiten?)"
+  },
+  {
+    "objectID": "neurokognitiv.html#lernphasen",
+    "href": "neurokognitiv.html#lernphasen",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.7 Lernphasen",
+    "text": "6.7 Lernphasen\nWarum gibt es Lernphasen?"
+  },
+  {
+    "objectID": "neurokognitiv.html#alter",
+    "href": "neurokognitiv.html#alter",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.8 Alter",
+    "text": "6.8 Alter\nWelcher Zusammenhang besteht zwischen biologischem Alter und Lerngeschwindigkeit?"
+  },
+  {
+    "objectID": "neurokognitiv.html#einfluss-des-alters-auf-l2",
+    "href": "neurokognitiv.html#einfluss-des-alters-auf-l2",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.9 Einfluss des Alters auf L2",
+    "text": "6.9 Einfluss des Alters auf L2"
+  },
+  {
+    "objectID": "neurokognitiv.html#hirnreifeprozess",
+    "href": "neurokognitiv.html#hirnreifeprozess",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.10 Hirnreifeprozess",
+    "text": "6.10 Hirnreifeprozess\n\n\n\n\n\nAus dem Kapitel Sprachlernvoraussetzungen: biologische Voraussetzungen, von Apeltauer und Boeckmann (1997): 68-76."
+  },
+  {
+    "objectID": "neurokognitiv.html#l1-l2-parallelen",
+    "href": "neurokognitiv.html#l1-l2-parallelen",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.11 L1-L2-Parallelen",
+    "text": "6.11 L1-L2-Parallelen\nAus dem Kapitel Sprachlernvoraussetzungen: biologische Voraussetzungen, von Apeltauer und Boeckmann (1997): 68-76."
+  },
+  {
+    "objectID": "neurokognitiv.html#muster-und-intentionen-erkennen",
+    "href": "neurokognitiv.html#muster-und-intentionen-erkennen",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.12 Muster und Intentionen erkennen",
+    "text": "6.12 Muster und Intentionen erkennen\nZusammengestellt anhand von: - Stoll (2008)\n-"
+  },
+  {
+    "objectID": "neurokognitiv.html#kategorienbildung",
+    "href": "neurokognitiv.html#kategorienbildung",
+    "title": "6  Neurobiologische und kognitive Grundlagen des Spracherwerbs",
+    "section": "6.13 Kategorienbildung",
+    "text": "6.13 Kategorienbildung\nBeim Lernen bilden wir Kategorien, in die verschiedene Erscheinungen in unserer Umwelt eingeordnet werden. Kategorien erleichtern Menschen den Umgang mit ihrer Umwelt.\nKategorielle Perzeption von sprachlichen Stimuli: Die Suche nach akustischen Hinweisen (engl. cues), die bei der Segmentierung größerer Einheiten notwendig sind und die Aufdeckung von Kontrasten ermöglichen (und damit Bedeutungsfindung). Gesucht wird nach distinktiven Merkmalen. Akustische Signale sind (so wie visuelle Reize) höchstvariabel. Menschen (bereits im Säuglingsalter) können sehr feine Unterschiede zwischen akustischen Stimuli erkennen und sie für sprachliche Kategorisierung nutzen.\nListenLab (Dauer: 15:00 Minuten):\n\n\n\n\nListenLab (Dauer: 9:53 Minuten):\n\n\n\n\nVoice Onset Timing im Englischen (vgl. mit Deutsch und Slowenisch):\nIsabel Cooke McKay (Dauer: 19:21 Minuten):\n\n\n\n\nNPTEL IIT Guwahati (Dauer: 19:14 Minuten):\n\n\n\n\n\n\n\n\n\n\nApeltauer, Ernst, und Klaus-Börge Boeckmann. 1997. Grundlagen des Erst-und Fremdsprachenerwerbs: eine Einführung. Langenscheidt.\n\n\nStoll, Sabine. 2008. „Mustererkennung und Verstehen im Spracherwerb: Neuere Forschungsergebnisse“. SAL-Bulletin Nr 127."
   },
   {
     "objectID": "theorien.html",
     "href": "theorien.html",
     "title": "7  Markante Thesen einflussreicher Spracherwerbstheorien",
     "section": "",
-    "text": "In welcher Hinsicht unterscheidet sich Chomskys Nativismus von kognivistischen und konstruktivistischen Modellen (Piaget, Tomasello)?\nWelche Rolle spielt soziale Interaktion im Spracherwerb?\nWorin zeigt sich, dass Nachahmungsfähigkeiten zwar wichtig sind im Spracherwerb, aber zur Erklärung nicht ausreichen?\nErläutern Sie die menschlichen Fähigkeiten der Mustererkennung, des Perspektivenwechsels und der geteilten Aufmerksamkeit im Spracherwerb!\nWelchen Vorteil hat die Einordnung von Erscheinungen in Kategorien? Was unterscheidet Basiskategorien (z.B. Hund ) von anderen Kategorien (z.B. Tier, Pudel), prototypische Kategorien (z.B. Spatz) von nicht-prototypischen (z.B. Strauß)?\n\n(–> Kauschke, Teams, …)"
+    "text": "In welcher Hinsicht unterscheidet sich Chomskys Nativismus von kognivistischen und konstruktivistischen Modellen (Piaget, Tomasello)?\nWelche Rolle spielt soziale Interaktion im Spracherwerb?\nWorin zeigt sich, dass Nachahmungsfähigkeiten zwar wichtig sind im Spracherwerb, aber zur Erklärung nicht ausreichen?\nErläutern Sie die menschlichen Fähigkeiten der Mustererkennung, des Perspektivenwechsels und der geteilten Aufmerksamkeit im Spracherwerb!\nWelchen Vorteil hat die Einordnung von Erscheinungen in Kategorien? Was unterscheidet Basiskategorien (z.B. Hund ) von anderen Kategorien (z.B. Tier, Pudel), prototypische Kategorien (z.B. Spatz) von nicht-prototypischen (z.B. Strauß)?\n\n(–> Kauschke, Teams, …)\nSerious Science (Dauer: 11:27 Minuten):\n\n\n\n\nLanguage Acquisition in Children Ben Ambridge:\nhttps://www.youtube.com/watch?v=I73Ou2wOyy4\nBilingual First Language Acquisition workshop at the University of York: Prof. Ben Ambridge:\nhttps://www.youtube.com/watch?v=0rfU1wlRbwE"
   },
   {
     "objectID": "spracherwerbsstadien.html",
     "href": "spracherwerbsstadien.html",
     "title": "8  Erstspracherwerbsstadien",
     "section": "",
-    "text": "Error in knitr::include_graphics(\"pictures/freudscher_versprecher_1328535.jpg\"): Cannot find the file(s): \"pictures/freudscher_versprecher_1328535.jpg\"\n\n\n\nWelche typischen Stadien sind im Erstspracherwerb unterscheidbar? (Quarks&Co, Kauschke)\n\nArtikelerwerb von sechs Kindern des Szagun-Korpus\n\nBeschreiben Sie den Erwerb deutscher d-Wörter, die zunächst wie Demonstrativpronomen auf ein außersprachliches Objekt verweisen, dann aber ab einem bestimmten Alter mit einem Nomen auftreten und dann die im Deutschen typische Artikelfunktion ausüben (d.h. Verweis auf bekannte oder zumindest identifizierbare Objekte in Situation und/oder Kontext)!"
+    "text": "Welche typischen Stadien sind im Erstspracherwerb unterscheidbar? (–> Quarks&Co, Kauschke)\n\nArtikelerwerb von sechs Kindern des Szagun-Korpus\n\nBeschreiben Sie den Erwerb deutscher d-Wörter, die zunächst wie Demonstrativpronomen auf ein außersprachliches Objekt verweisen, dann aber ab einem bestimmten Alter mit einem Nomen auftreten und dann die im Deutschen typische Artikelfunktion ausüben (d.h. Verweis auf bekannte oder zumindest identifizierbare Objekte in Situation und/oder Kontext)!"
   },
   {
     "objectID": "transfer.html",
     "href": "transfer.html",
     "title": "9  Entwicklungs- und transferbedingte Fehler",
     "section": "",
-    "text": "Fehler und Abweichungen von der Zielsprache.\nKormos, Judit\n\nAnhand welcher Kriterien sind Transfer als Kompetenzphänomen und Interferenz als Performanzphänomen unterscheidbar?\nWelche sprachlichen Bereiche oder Ebenen sind transferanfällig, welche resistenter?\nWas unterscheidet entwicklungsbedingte Fehler von transferbedingten Fehlern?\nErläutern Sie, warum die Kontrastivhypothese nicht ausreichte, um bestimmte Fehler im Zweit- und Fremdspracherwerb zu erklären und dies zu neuen theoretischen Ansätzen führt (z.B. Identitätshypothese, Interlanguage-Hypothese)? ( s. Teams Zweitspracherwerb: L1 als Hilfe oder Hindernis, Hochländer: Fehlerkunde, Kupisch, Cantone … in meiner Präsentation, Hypothesen von Krashen)\nBeschreiben Sie sprachliche Fehler, die Sie entweder auf einen Einfluss der Erstsprache (Transfer oder Interferenz) oder als entwicklungsbedingte Fehler (die sich nicht auf die L1 zurückführen lassen) einordnen können!\nVerwenden Sie zu diesem Zweck die Aufsätze der Mittelschüler, die wir schon während des Unterrichts analysiert haben, oder die Aufsätze der Studierenden (Teams: Zweitspracherwerb)!"
+    "text": "Auszüge aus dem Buch von Kormos (2014) (L2-Speech production model).\nFehler und Abweichungen von der Zielsprache.\n\nAnhand welcher Kriterien sind Transfer als Kompetenzphänomen und Interferenz als Performanzphänomen unterscheidbar?\nWelche sprachlichen Bereiche oder Ebenen sind transferanfällig, welche resistenter?\nWas unterscheidet entwicklungsbedingte Fehler von transferbedingten Fehlern?\nErläutern Sie, warum die Kontrastivhypothese nicht ausreichte, um bestimmte Fehler im Zweit- und Fremdspracherwerb zu erklären und dies zu neuen theoretischen Ansätzen führt (z.B. Identitätshypothese, Interlanguage-Hypothese)? ( s. Teams Zweitspracherwerb: L1 als Hilfe oder Hindernis, Hochländer: Fehlerkunde, Kupisch, Cantone … in meiner Präsentation, Hypothesen von Krashen)\nBeschreiben Sie sprachliche Fehler, die Sie entweder auf einen Einfluss der Erstsprache (Transfer oder Interferenz) oder als entwicklungsbedingte Fehler (die sich nicht auf die L1 zurückführen lassen) einordnen können!\nVerwenden Sie zu diesem Zweck die Aufsätze der Mittelschüler, die wir schon während des Unterrichts analysiert haben, oder die Aufsätze der Studierenden (Teams: Zweitspracherwerb)!\n\n\n\n\n\n\n\nKormos, Judit. 2014. Speech production and second language acquisition. Routledge."
   },
   {
     "objectID": "summary.html#fontawesome",
@@ -123,6 +207,6 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Ecke, Peter. 2008. “Die Kosten Der Mehrsprachigkeit.”\nBabylonia, no. 2: 26–30. http://www.u.arizona.edu/~eckep/Ecke%2008%20Kosten%20der%20MS.pdf.\n\n\nKauschke, Christina. 2012. Kindlicher Spracherwerb Im Deutschen:\nVerläufe, Forschungsmethoden,\nErklärungsansätze. Vol. 45. walter de\nGruyter."
+    "text": "Apeltauer, Ernst, and Klaus-Börge Boeckmann. 1997. Grundlagen Des\nErst-Und Fremdsprachenerwerbs: Eine Einführung.\nLangenscheidt.\n\n\nEcke, Peter. 2008. “Die Kosten Der Mehrsprachigkeit.”\nBabylonia, no. 2: 26–30. http://www.u.arizona.edu/~eckep/Ecke%2008%20Kosten%20der%20MS.pdf.\n\n\nKauschke, Christina. 2012. Kindlicher Spracherwerb Im Deutschen:\nVerläufe, Forschungsmethoden,\nErklärungsansätze. Vol. 45. walter de\nGruyter.\n\n\nKormos, Judit. 2014. Speech Production and Second Language\nAcquisition. Routledge.\n\n\nStoll, Sabine. 2008. “Mustererkennung Und Verstehen Im\nSpracherwerb: Neuere Forschungsergebnisse.” SAL-Bulletin\nNr 127."
   }
 ]

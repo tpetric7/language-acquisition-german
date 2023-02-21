@@ -1,8 +1,14 @@
 # Entwicklungs- und transferbedingte Fehler {#sec-gender}
 
-Fehler und Abweichungen von der Zielsprache. 
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://www.clipartmax.com/middle/m2i8K9H7K9H7G6b1_earth-clip-art-world-travel-clipart-png/>
+knitr::include_graphics("pictures/clipart66213.png")
+```
 
-Kormos, Judit
+Auszüge aus dem Buch von @kormos2014speech (*L2-Speech production model*).
+
+
+Fehler und Abweichungen von der Zielsprache. 
 
 - Anhand welcher Kriterien sind Transfer als Kompetenzphänomen und Interferenz als Performanzphänomen unterscheidbar?
 - Welche sprachlichen Bereiche oder Ebenen sind transferanfällig, welche resistenter?

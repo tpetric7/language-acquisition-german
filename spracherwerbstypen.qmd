@@ -1,8 +1,8 @@
 # Spracherwerbstypen {#sec-zungenbrecher}
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
-#| fig-link: <https://www.kissclipart.com/tongue-twister-cartoon-comics-stop-consonant-m2n92r/>
-knitr::include_graphics("pictures/kissclipart-tongue-twister-cartoon-comics-stop-consonant-82fba1d0b8543744.png")
+#| fig-link: <https://www.clipartmax.com/middle/m2i8K9K9N4m2A0A0_fall-leaves-clip-art-september-writing/>
+knitr::include_graphics("pictures/clipart49430.png")
 ```
 
 ## Terminologische Unterscheidung

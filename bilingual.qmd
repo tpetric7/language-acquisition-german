@@ -1,8 +1,8 @@
 # Vor- und Nachteile der Mehrsprachigkeit {#sec-bilingual}
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
-#| fig-link: <https://web.colby.edu/cogblog/tag/tip-of-the-tongue/>
-knitr::include_graphics("pictures/tip-of-the-tongue1-1.png")
+#| fig-link: <https://www.clipartmax.com/middle/m2H7m2i8Z5A0N4Z5_lounge-style-sunglasses-retro-interlude-png-image-high-glasses-clipart-retro/>
+knitr::include_graphics("pictures/clipart4776991.png")
 ```
 
 Zwei- oder Mehrsprachigkeit hat nach Ansicht vieler Menschen mehrere Vorteile. Aber viele Menschen wachsen nicht zwei- oder mehrsprachig auf. Deshalb erhebt sich nicht nur die Frage, welche Vorteile Mehrsprachigkeit hat, sondern auch, ob es gewisse Nachteile gibt, die Mehrsprachigkeitsbestreben hemmen oder sogar verhindern.

@@ -46,7 +46,7 @@ book:
   page-footer: 
     border: true
     background: light
-    left: "Lehrveranstaltungsmaterialien, Universität Maribor 2022, Teodor Petrič" 
+    left: "Lehrveranstaltungsmaterialien, Universität Maribor 2023, Teodor Petrič" 
     right: 
       - icon: github
         href: https://github.com/tpetric7/
@@ -111,7 +111,7 @@ format:
       text: |
         \printindex
   epub:
-    cover-image: "pictures/Diapozitiv1.PNG"
+    cover-image: "pictures/UJ_Intro_2023_01.png"
   docx:
     reference-doc: custom-reference.docx
 

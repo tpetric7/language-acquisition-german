@@ -1,7 +1,7 @@
 # Leitfragen in der Spracherwerbsforschung {#sec-gegenstand}
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/Diapozitiv5.PNG")
+knitr::include_graphics("pictures/UJ_Intro_2023_02.png")
 ```
 
 Die Kernthemen der Spracherwerbsforschung lassen sich gemäß @kauschke2012kindlicher anhand von drei **Grundfragen** umreißen:

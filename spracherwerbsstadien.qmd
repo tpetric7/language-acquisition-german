@@ -1,11 +1,11 @@
 # Erstspracherwerbsstadien {#sec-stadien}
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
-#| fig-link: <https://www.toonpool.com/cartoons/freudscher%20versprecher_132853>
-knitr::include_graphics("pictures/freudscher_versprecher_1328535.jpg")
+#| fig-link: <https://www.clipartmax.com/middle/m2i8K9K9G6i8b1A0_apple-tree-technology/>
+knitr::include_graphics("pictures/clipart46442.png")
 ```
 
-- Welche typischen Stadien sind im Erstspracherwerb unterscheidbar? (Quarks&Co, Kauschke)
+- Welche typischen Stadien sind im Erstspracherwerb unterscheidbar? (--> Quarks&Co, Kauschke)
 
 Artikelerwerb von sechs Kindern des Szagun-Korpus
 

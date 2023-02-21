@@ -1,10 +1,441 @@
 # Neurobiologische und kognitive Grundlagen des Spracherwerbs {#sec-neuro}
 
-In diesem Studienjahr haben wir uns auf folgende Themen fokussiert (--> Präsentation in Teams und/oder Internetquellen): 
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://www.kissclipart.com/tongue-twister-cartoon-comics-stop-consonant-m2n92r/>
+knitr::include_graphics("pictures/brain_scan.png")
+```
 
+
+## Hirnmasse
+
+Das Gehirn eines Menschen ist vergleichsweise klein. 
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv9.PNG")
+```
+
+Wie viel Hirnmasse hat der Mensch im Vergleich zu anderen Tieren?
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv10.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv11.PNG")
+```
+
+## Immer Online
+
+Unser Gehirn ruht nie - ist immer ONLINE. 
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv16.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv17.PNG")
+```
+
+## Neuronale Netzwerke
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv20.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv23.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv24.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv25.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv26.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv27.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv28.PNG")
+```
+
+## Kortikale Landkarten
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv30.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv31.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv32.PNG")
+```
+
+## Sprachareale
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv35.PNG")
+```
+
+## Gedächtnissysteme
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv37.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv38.PNG")
+```
+
+### Sensorisches Gedächtnis
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv39.PNG")
+```
+
+### Arbeitsgedächtnis
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv40.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv41.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv42.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv43.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv44.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv45.PNG")
+```
+
+### Langzeitgedächtnis
+
+#### Regeln
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv46.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv47.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv48.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv49.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv50.PNG")
+```
+
+#### Einzelheiten
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv53.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv54.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv55.PNG")
+```
+
+#### Emotionen
+
+Welche Rolle spielen Emotionen beim Lernen?
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv57.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv58.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv59.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv60.PNG")
+```
+
+#### Limbisches System
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv61.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv62.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv63.PNG")
+```
+
+:::rmdrobot
 - **Sensorisches Gedächtnis** (welche Funktion hat es?)
 
 - **Arbeitsgedächtnis** (Welche Beschränkungen hat es? Welche Funktion hat nach Baddelys Modell (a) die phonetische Schleife, (b) der visuelle Notizblock, (c) die zentrale Exekutive? Welche Rolle spielt Aufmerksamkeit für die Aufnahme ins Arbeitsgedächtnis? Wie kann man die Kapazizät des Arbeitsgedächtnisses steigern? 
 
 - Wissenssysteme im **Langzeitgedächtnis** (Welche auffällige Unterschiede gibt es zwischen dem deklarativen und dem prozeduralen Langzeitgedächtnis? Welche (sprachlichen oder nicht-sprachlichen) Reize (Stimuli) haben größere Chancen, im Langzeitgedächtnis gespeichert zu werden? Welchen Einfluss haben emotional geladene Reize auf die Speicherung im Langzeitgedächtnis? Welche Funktion haben der Hippokampus, die Amygdala und frontale Hirnrindenbereiche in Bezug auf die langzeitige Speicherung von Einzelheiten oder Regelmäßigkeiten?) 
+:::
+
+
+## Lernphasen
+
+Warum gibt es Lernphasen?
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv65.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv66.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv67.PNG")
+```
+
+## Alter
+
+Welcher Zusammenhang besteht zwischen biologischem Alter und Lerngeschwindigkeit?
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv70.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv71.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv72.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv73.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv74.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv75.PNG")
+```
+
+## Einfluss des Alters auf L2
+
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv76.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv77.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv78.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv79.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv80.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv81.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv82.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv83.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv84.PNG")
+```
+
+## Hirnreifeprozess
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv86.PNG")
+```
+
+Aus dem Kapitel *Sprachlernvoraussetzungen: biologische Voraussetzungen*, von @apeltauer1997grundlagen: 68-76.
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv87.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv88.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv89.PNG")
+```
+
+## L1-L2-Parallelen
+
+Aus dem Kapitel *Sprachlernvoraussetzungen: biologische Voraussetzungen*, von @apeltauer1997grundlagen: 68-76.
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv90.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv91.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/neuro/Diapozitiv92.PNG")
+```
+
+## Muster und Intentionen erkennen
+
+Zusammengestellt anhand von: 
+- @stoll2008mustererkennung   
+- 
+
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv1.PNG")
+```
+
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv2.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv3.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv4.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv5.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv6.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv7.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv8.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv9.PNG")
+```
+
+## Kategorienbildung
+
+Beim Lernen bilden wir Kategorien, in die verschiedene Erscheinungen in unserer Umwelt eingeordnet werden. Kategorien erleichtern Menschen den Umgang mit ihrer Umwelt. 
+
+*Kategorielle Perzeption* von sprachlichen Stimuli: Die Suche nach akustischen Hinweisen (engl. cues), die bei der Segmentierung größerer Einheiten notwendig sind und die Aufdeckung von Kontrasten ermöglichen (und damit Bedeutungsfindung). Gesucht wird nach distinktiven Merkmalen. 
+Akustische Signale sind (so wie visuelle Reize) höchstvariabel. Menschen (bereits im Säuglingsalter) können sehr feine Unterschiede zwischen akustischen Stimuli erkennen und sie für sprachliche Kategorisierung nutzen. 
+
+
+[ListenLab](https://www.youtube.com/watch?v=8-fMLs-xCaA) (Dauer: 15:00 Minuten):
+
+{{< video https://www.youtube.com/embed/8-fMLs-xCaA title= "SLHS 1301 - Speech perception 1 - auditory hierarchy, segmentation, variance" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=8-fMLs-xCaA>
+#| fig-cap: "SLHS 1301 - Speech perception 1 - auditory hierarchy, segmentation, variance"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=8-fMLs-xCaA"
+embed_url(url)
+# suggest_embed(url)
+```
+
+
+[ListenLab](https://www.youtube.com/watch?v=nNYhCP6NiUg) (Dauer: 9:53 Minuten):
+
+{{< video https://www.youtube.com/embed/nNYhCP6NiUg title= "SLHS 1301 - Speech perception 2 - categorical perception" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=nNYhCP6NiUg>
+#| fig-cap: "SLHS 1301 - Speech perception 2 - categorical perception"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=nNYhCP6NiUg"
+embed_url(url)
+# suggest_embed(url)
+```
+
+
+*Voice Onset Timing* im Englischen (vgl. mit Deutsch und Slowenisch):   
+[Isabel Cooke McKay](https://www.youtube.com/watch?v=xR6FieNmWfg) (Dauer: 19:21 Minuten):
+
+{{< video https://www.youtube.com/embed/xR6FieNmWfg title= "Categorical Perception in Infants (Language Development 13)" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=xR6FieNmWfg>
+#| fig-cap: "Categorical Perception in Infants (Language Development 13)"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=xR6FieNmWfg"
+embed_url(url)
+# suggest_embed(url)
+```
+
+
+
+[NPTEL IIT Guwahati](https://www.youtube.com/watch?v=Kv6WBQVkHTo) (Dauer: 19:14 Minuten):
+
+{{< video https://www.youtube.com/embed/Kv6WBQVkHTo title= "Lec 13: Segmentation problem, categorical perception, cp in infants and animals" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=Kv6WBQVkHTo>
+#| fig-cap: "Lec 13: Segmentation problem, categorical perception, cp in infants and animals"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=Kv6WBQVkHTo"
+embed_url(url)
+# suggest_embed(url)
+```
+
+
 
