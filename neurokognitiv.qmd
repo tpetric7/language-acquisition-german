@@ -5,10 +5,9 @@
 knitr::include_graphics("pictures/brain_scan.png")
 ```
 
-
 ## Hirnmasse
 
-Das Gehirn eines Menschen ist vergleichsweise klein. 
+Das Gehirn eines Menschen ist vergleichsweise klein.
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
 knitr::include_graphics("pictures/neuro/Diapozitiv9.PNG")
@@ -26,7 +25,7 @@ knitr::include_graphics("pictures/neuro/Diapozitiv11.PNG")
 
 ## Immer Online
 
-Unser Gehirn ruht nie - ist immer ONLINE. 
+Unser Gehirn ruht nie - ist immer ONLINE.
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
 knitr::include_graphics("pictures/neuro/Diapozitiv16.PNG")
@@ -79,6 +78,216 @@ knitr::include_graphics("pictures/neuro/Diapozitiv31.PNG")
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
 knitr::include_graphics("pictures/neuro/Diapozitiv32.PNG")
 ```
+
+## Muster und Intentionen
+
+Das Auge: Die rund 126 Mio. Zellen der Netzhaut liefern eine unglaubliche Datenmenge ins Gehirn: pro Sekunde etwa 1,2 Megabyte. Das entspricht einer Informationsmenge von 10.000 Seiten eines Buches.
+
+Unser Gehirn versucht in den visuellen Reizen Muster zu erkennen, die an bereits bekannte anknüpfen.
+
+**Visuelle Muster**: Gestaltheorie - Figur vs. Grund (Foregrounding & Backgrounding Processes)
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://bildnerisches-gestalten.ch/index.php/wahrnehmung/>
+knitr::include_graphics("pictures/dalmatiner.jpg")
+```
+
+Unser Gehirn versucht (holistische) Gestalten - Muster - zu erkennen, wobei es sich auf Erfahrungswerte stützt und demnach zwischen **Figur und Grund** unterscheidet (Vordergrund / Hintergrund). Die Unterscheidung zwischen Figur und Grund fällt bei hohem Kontrast leichter als bei geringem. Aus der anthropozentrischen Perspektive des Menschen stellt stellt der Hund in dem Fleckenbild die Figur (den Vordergrund) dar, die Umgebung dagegen den Hintergrund. Lebewesen werden gewöhnlich als Figur interpretiert, da Lebewesen für Menschen interessant bzw. besonders relevant sind und sich bewegen, während die größere, statische Größe den Hintergrund bildet.
+
+Akustische Reize (auch sprachliche) werden nach denselben Prinzipien verarbeitet wie die visuellen Reize. In einem Satz, z.B. *Der Dalmatiner läuft durch den Wald,* wäre die Phrase *der Dalmatiner* dementsprechend die (wichtigere) Figur (der Vordergrund) und die Phrase *durch den Wald* der (weniger wichtige) Hintergrund der Aktion (*laufen*).
+
+Zusammengestellt anhand von: - @stoll2008mustererkennung
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv5.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv6.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv7.PNG")
+```
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/muster_intentionen/Diapozitiv8.PNG")
+```
+
+## Kategorienbildung
+
+Beim Lernen bilden wir Kategorien, in die verschiedene Erscheinungen in unserer Umwelt eingeordnet werden. Kategorien erleichtern Menschen den Umgang mit ihrer Umwelt.  
+
+::: rmdnote
+"**Kategorisierung** oder Kategorienbildung bezeichnet in der Psychologie den Prozess, Objekte in Untergruppen oder Begriffsklassen einzuteilen. (Stangl, 2023)."\
+\
+Stangl, W. (2023, 13. März). [*Kategorisierung -- Kategorienbildung -- Online Lexikon für Psychologie & Pädagogik*](https://lexikon.stangl.eu/7003/kategorisierung-kategorienbildung).\
+:::
+
+::: rmdnote
+**Kategorisierung** oder **kategoriales Denken** bezeichnet die [kognitive](https://de.wikipedia.org/wiki/Kognition "Kognition") Fähigkeit, unterschiedliche [Entitäten](https://de.wikipedia.org/wiki/Entit%C3%A4t "Entität") (Gegenstände, Lebewesen, Vorgänge, [Abstrakta](https://de.wikipedia.org/wiki/Abstraktum "Abstraktum")) [intuitiv](https://de.wikipedia.org/wiki/Intuition "Intuition") zu sortieren und entsprechenden Sammelbegriffen (Kategorien) unterzuordnen. Diese Kategorien basieren auf bestimmten Ähnlichkeiten oder auf dem Abgleich mit dem theoretischen Vor[wissen](https://de.wikipedia.org/wiki/Wissen "Wissen"). Die Kategorienbildung ist ein fundamentaler Vorgang bei der Interpretation und Bewertung von [Wahrnehmungsinhalten](https://de.wikipedia.org/wiki/Wahrnehmung "Wahrnehmung"), dem Verständnis von Konzepten und [Objekten](https://de.wikipedia.org/wiki/Objekt_(Philosophie) "Objekt (Philosophie)"), bei [Entscheidungsprozessen](https://de.wikipedia.org/wiki/Entscheidung "Entscheidung") und bei allen Arten der Interaktion mit der Umwelt.^[\[1\]](https://de.wikipedia.org/wiki/Kategorisierung_(Kognitionswissenschaft)#cite_note-Categorization-1)^ Demzufolge sind Kategorien die „Grundbegriffe unseres Denkens".^[\[2\]](https://de.wikipedia.org/wiki/Kategorisierung_(Kognitionswissenschaft)#cite_note-Austeda-2)^ \[Kategorisierung\](https://de.wikipedia.org/wiki/Kategorisierung\_(Kognitionswissenschaft)
+:::
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+#| fig-link: <https://www.keramikdeko.de/blog/alles-ueber-keramiktassen-und-keramikbecher-b74.html>
+knitr::include_graphics("pictures/Arten_von_Tassen_800.png")
+```
+
+
+*Kategorielle Perzeption* von sprachlichen Stimuli: Die Suche nach akustischen Hinweisen (engl. cues), die bei der Segmentierung größerer Einheiten notwendig sind und die Aufdeckung von Kontrasten ermöglichen (und damit Bedeutungsfindung). Gesucht wird nach distinktiven Merkmalen. Akustische Signale sind (so wie visuelle Reize) höchstvariabel. Menschen (bereits im Säuglingsalter) können sehr feine Unterschiede zwischen akustischen Stimuli erkennen und sie für sprachliche Kategorisierung nutzen.
+
+[ListenLab](https://www.youtube.com/watch?v=8-fMLs-xCaA) (Dauer: 15:00 Minuten):
+
+{{< video https://www.youtube.com/embed/8-fMLs-xCaA title= "SLHS 1301 - Speech perception 1 - auditory hierarchy, segmentation, variance" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=8-fMLs-xCaA>
+#| fig-cap: "SLHS 1301 - Speech perception 1 - auditory hierarchy, segmentation, variance"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=8-fMLs-xCaA"
+embed_url(url)
+# suggest_embed(url)
+```
+
+[ListenLab](https://www.youtube.com/watch?v=nNYhCP6NiUg) (Dauer: 9:53 Minuten):
+
+{{< video https://www.youtube.com/embed/nNYhCP6NiUg title= "SLHS 1301 - Speech perception 2 - categorical perception" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=nNYhCP6NiUg>
+#| fig-cap: "SLHS 1301 - Speech perception 2 - categorical perception"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=nNYhCP6NiUg"
+embed_url(url)
+# suggest_embed(url)
+```
+
+*Voice Onset Timing* im Englischen (vgl. mit Deutsch und Slowenisch):\
+[Isabel Cooke McKay](https://www.youtube.com/watch?v=xR6FieNmWfg) (Dauer: 19:21 Minuten):
+
+{{< video https://www.youtube.com/embed/xR6FieNmWfg title= "Categorical Perception in Infants (Language Development 13)" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=xR6FieNmWfg>
+#| fig-cap: "Categorical Perception in Infants (Language Development 13)"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=xR6FieNmWfg"
+embed_url(url)
+# suggest_embed(url)
+```
+
+[NPTEL IIT Guwahati](https://www.youtube.com/watch?v=Kv6WBQVkHTo) (Dauer: 19:14 Minuten):
+
+{{< video https://www.youtube.com/embed/Kv6WBQVkHTo title= "Lec 13: Segmentation problem, categorical perception, cp in infants and animals" start="1" >}}
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <https://www.youtube.com/watch?v=Kv6WBQVkHTo>
+#| fig-cap: "Lec 13: Segmentation problem, categorical perception, cp in infants and animals"
+library("vembedr")
+url <- "https://www.youtube.com/watch?v=Kv6WBQVkHTo"
+embed_url(url)
+# suggest_embed(url)
+```
+
+
+\
+Das Kleinkind ist schon früh in der Lage (vermutlich aufgrund seiner genetischen Veranlagung) zwischen **sprachlichen und nicht-sprachlichen Reizen** (Geräuschen) zu unterscheiden. Angeboren scheint auch die **Denkfähigkeit**, also Begriffe zu entwickeln und zu verarbeiten. Ebenfalls zur kognitiven Kapazität im weiteren Sinne zählt die genetisch verankerte kognitive Anlage gehören (vermutlich angeborene) **Mechanismen der Segmentierung** des sprachlichen Schallstroms anhand bestimmter akustischer Eigenschaften, die Fähigkeit zur **Kategorisierung** sprachlicher, etwa formal und/oder funktional identischer Eigenschaften wahrscheinlich unter Anwendung distributioneller Analyseverfahren, die Voraussetzung für die Entwicklung von Strategien zur Analyse struktureller Eigenschaften von Äußerungen aus den Morphemen und ihrer linearen Anordnung etc. Man wird diesen Teil der kognitiven Ausstattung in der Literatur auch unter der Bezeichnung **Angeborenes sprachliches Wissen** antreffen. Weniger direkt als alle bisher erwähnten kognitiven Voraussetzungen, aber vielleicht für die Sprachfähigkeit am ehesten eine Schlüsselfähigkeit stellt das leistungsfähige **Gedächtnis** des Menschen dar. Eine Schlüsselrolle kommt ihm insofern zu, als es die Begriffsbildung und die komplizierten Analysevorgänge überhaupt erst möglich macht.\
+
+## Sprachliches Wissen
+
+"Viele Arten haben die Fähigkeit zweckmäßig und eindeutig zu kommunizieren und jede verwendet dazu ein je artspezifisches System. Die Kommunikationsverfahren sind bestimmt von biologischen, sozialen und kognitiven Voraussetzungen der jeweiligen Art und ihrer Lebenswelt. Und die artspezifischen Sprachen sind es auch -- aber anders; Hauser (1996). Die Kommunikationsverfahren sind angepasst einerseits an die peripheren Organe der Produktion und Rezeption, andererseits an die psychischen Repräsentationen der jeweiligen Organismen." - @dietrich2002psycholinguistik
+
+::: rmdnote
+"Das **sprachliche Wissen** stellt dem Menschen die Mittel für die sprachliche Kommunikation über nicht-sprachliche psychische Dinge bereit, und die Organisation dieses Wissensbestandes prägt alle Modalitäten der sprachlichen Verständigung." - @dietrich2002psycholinguistik
+:::
+
+Zum sprachlichen Wissen gehören Kenntnisse der Inhalts- und der Ausdrucksseite:
+
+-   semantische Kenntnisse (Konzepte),
+
+-   das Erkennen und die Unterscheidung von Äußerungsabsichten,
+
+-   die Kenntnis der Worteigenschaften (syntaktische, morphologische, phonologische, graphematische Eigenschaften von Wörtern und ihren Verbindungen zu größeren Einheiten),
+
+-   Textmusterwissen.
+
+### Das mentale Lexikon
+
+::: rmdnote
+Mit dem **mentalen Lexikon** meint man das sprachliche Wissen im Langzeitgedächtnis.
+:::
+
+Sind sprachliche Einheiten (Informationsbündel - chunks) wirklich als **Einheiten** im **Langzeitgedächtnis** gespeichert? Wenn das der Fall ist, so müssten sie auch als Einheit verarbeitet werden, also anders als die im Informationsbündel enthaltenen Bestandteile. - @dietrich2002psycholinguistik
+
+Wird eine so grundlegende sprachliche Einheit wie das **Wort als Einheit** in unserem Langzeitgedächtnis gespeichert?
+
+**Worthaftigkeitseffekt** (Wortüberlegenheitseffekt - Word Superiority Effect):
+
+Die Sprachrezeption erlaubt eher einen kontrollierten Zugang zu den Verarbeitungsprozessen im Gehirn als die Sprachproduktion. Insbesondere das Lesen ist relativ leicht zu kontrollieren und zu beobachten. Das Lesen beginnt mit der visuellen Wahrnehmung der Buchstaben. Diese müssen kurzfristig in einem begrenzten Speicher aufgenommen werden. Dies nimmt Zeit in Anspruch. Eine einfache Annahme ist, das Lesen eines Buchstaben schneller geht als das Lesen von zwei oder mehreren. Aber man hat beobachtet, dass in manchen Fällen die Verarbeitung eines Buchstaben länger dauern kann als die von zwei oder mehreren. Dies hat man vor allem bei Buchstabenfolgen bemerkt, die kurze Wörter darstellen. Handelt es sich nun um einen allgemeinen Worthaftigkeitseffekt oder nur um eine Eigenschaft spezieller Wörter?
+
+Bei der Überprüfung zeigt sich zunächst, dass die Lesegeschwindigkeit für Buchstabenfolgen, die Wörter bilden, kürzer ist als für Nichtwörter. Dies kann mit der **Worthaftigkeit** erklärt werden **oder** auch mit der **Wahrscheinlichkeit** der Abfolge von Buchstaben in einer Sprache. Im letzteren Fall würde es sich um einen **Häufigkeitseffekt** auf Buchstabenebene handeln und nicht um einen Worthaftigkeitseffekt.
+
+::: rmdtip
+**Experiment zum Nachweis des Wortüberlegenheitseffekts** (Reicher 1969):
+
+In schneller Folge und sehr kurz werden eine Buchstabenfolge, MAUS (= Wortbedingung) oder AMUS (Non-Wort-Bedingung) und sodann eine entsprechende maskierte Buchstabenfolge, z.B. MAU bzw. AMU gezeigt.
+
+Welcher Buchstabe an der maskierten Position stand, kann nach sehr kurzer Lesezeit (\<= 100 ms) nicht aus der Erinnerung abgerufen werden.
+
+Dann folgt die Aufgabe: Es wird der Buchstabe S oder L gezeigt und die Entscheidung verlangt, ob es der letzte Buchstabe der zuerst gesehenen Folge, also MAUS bzw. AMUS war.
+
+**Ergebnis**: Die Entscheidung ist unter Wort-Bedingung signifikant häufiger korrekt als unter Nicht-Wort-Bedingung, und zwar obwohl beide Buchstaben (S und L) auf den Buchstaben "a" gleich häufig folgen und zu einem Wort ergänzen. Bei Wahrnehmung eines Wortes wird das lexikalische Wissen abgerufen. Dadurch wird das Lesen von Wörtern beschleunigt.\
+:::
+
+::: rmdtip
+Versuchspersonen lasen Buchstabenfolgen (**Wörter**, Non-Wörter und sog. Pseudo-Wörter), die jeweils sehr kurz visuell präsentiert wurden (Ripamonti et al. (2014)). Sie lasen die Buchstabenfolgen einmal mit dem linken Auge (kontralaterale Verarbeitung über die rechte Gehirnhälfte), einmal mit dem rechten (kontralaterale linkshemisphärische Verarbeitung).
+
+Ein **Pseudo-Wort** ist eine Buchstabenfolge, die nach den phonotaktischen Regeln in der jeweiligen Sprache ein Wort darstellen könnte, aber keine Bedeutung hat und nicht im mentalen Lexikon enthalten ist. Ein **Nicht-Wort** ist eines, das ebenfalls ohne Bedeutung und nicht im mentalen Lexikon vorhanden ist und dessen Buchstabenfolge nicht den phonotaktischen Regeln folgt.
+
+Im Deutschen ist z. B.
+
+-   h-a-u-s ein Wort,
+
+-   h-a-u-m ein Pseudowort und
+
+-   h-s-u-a ein Nicht-Wort.
+
+**Ergebnis**: An Nicht-Wörter erinnerten sich die Versuchspersonen schlechter als an Wörter und Pseudowörter. Zwischen Wörtern und Pseudowörtern (des Italienischen) fand man keinen wesentlichen Unterschied.
+
+**Schlussfolgerung**: Beim Lesen sind **prälexikalische** Prozesse beteiligt (d.h. ein Zugriff auf das mentale Lexikon ist nicht notwendig). Dies wird dadurch bestätigt, dass es zwischen linkem und rechtem Auge keinen wesentlichen Unterschied gab (also Prozesse über die linke als auch über die rechte Gehirnhälfte ablaufen können).
+:::
+
+**Stroop-Effekt**: Dieser Effekt bestätigt ebenfalls den Worthaftigkeitseffekt, denn Buchstabenfolgen, die ein Wort ergeben, werden automatisch als Wort verarbeitet. Die Verarbeitung ist so stark automatisiert, dass man die Verarbeitung kaum unterdrücken kann.
+
+::: rmdtip
+Mit der Bezeichnung *Stroop-Effekt* bezieht man sich auf mehrere Reaktionsmuster bei Aufgaben:
+
+1.  die Farbe einer Fläche zu nennen,
+
+2.  eine Farbbezeichnung zu lesen, die mit der Schriftfarbe kongruiert (übereinstimmt),
+
+3.  eine Farbbezeichnung zu lesen, die mit der Schriftfarbe nicht kongruiert (kontrastiert),
+
+4.  die Schriftfarbe einer nicht-kongruenten Farbbezeichnung zu nennen.
+
+Der Vergleich der Bedingungen 2 und 3 zeigt den (geringen) Effekt der Farbe auf das Lesen eines Wortes, der Vergleich von 1 und 4 den Interferenzeffekt, der durch die Bedeutung des Farbwortes ausgelöst wird und die Benennung der Farbe beeinträchtigt.
+
+Verglichen werden die Lesezeiten unter den vier verschiedenen Bedingungen.
+:::
+
+Zwischen Wortbedeutung und Farbvorstellung gibt es demnach einen Interferenzeffekt. Die sprachliche Einheit des Wortes zwingt das Denken, sich mit seiner Verarbeitung zu beschäftigen und beeinträchtigt die Verarbeitung der Farbwahrnehmung. - @dietrich2002psycholinguistik
+
+Es gibt zahlreiche Versionen des Stroop-Experiments, der Interferenzeffekte aufdeckt. --\> Pinkers Vortrag bei Google (YouTube).
+
+@dietrich2002psycholinguistik: Bearbeiten !!!!
+
+**Lauterkennung im Wortkontext** und Phonemrestauration: Auch die Verarbeitung von Lauten wird davon beeinflusst, ob der Laut als Bestandteil eines Wortes gehört wird oder nicht. Unter anderem wird die Fähigkeit davon beeinflusst, Urteile über auditiv Wahrgenommenes zu fällen. Wird in einem gehörten Wort ein Laut einmal mit Geräusch überlagert, ein andermal durch Geräusch vollständig ersetzt, so wird letzteres schlechter erkannt. Dieser Effekt tritt nicht auf beim Hören gleichartig unterschiedener Nicht-Wort-Paare (vgl. Samuel 1986).
+
+Der Effekt der sog. **Phonemrestauration** (phonemic restoration effect) liefert Evidenz für dieselbe Annahme (vgl. Warren 1970; Sivonen/Maess/ Lattner/Friederici 2006; Kashino 2006). Wird ein Laut eines Wortes vollständig von einem nicht-sprachlichen Laut überlagert, fällt dies Hörern bei der Wahrnehmung nicht notwendigerweise auf. Versuchspersonen geben sogar an, den Laut deutlich gehört zu haben. Je nach Kontext, ersetzen Hörer einen fehlenden Laut sogar in verschiedener Weise (s. Kapitel 5 für eine detaillierte Erläuterung)\
+
+**Wortfrequenz**: Auch der Frequenzeffekt stützt die Annahme von der kognitiven Realität des Wortes. Ein Wort, das in der täglichen Kommunikation zwischen Mitgliedern der Sprachgemeinschaft häufig verwendet wird, wird vom Einzelnen schneller verarbeitet. Die Frequenz ist also eine Eigenschaft des Wortes und sie lässt sich nicht aus der Frequenz seiner Laute ableiten. Der Frequenzeffekt zählt mit zu den stabilsten Phänomenen lexikalischer Verarbeitung (vgl. Jescheniak/Levelt 1994; Jescheniak 2002; Graf/ Nagler/Jacobs 2005; jedoch auch Jescheniak/Meyer/Levelt 2003b).\
+
+\
 
 ## Sprachareale
 
@@ -200,14 +409,13 @@ knitr::include_graphics("pictures/neuro/Diapozitiv62.PNG")
 knitr::include_graphics("pictures/neuro/Diapozitiv63.PNG")
 ```
 
-:::rmdrobot
-- **Sensorisches Gedächtnis** (welche Funktion hat es?)
+::: rmdrobot
+-   **Sensorisches Gedächtnis** (welche Funktion hat es?)
 
-- **Arbeitsgedächtnis** (Welche Beschränkungen hat es? Welche Funktion hat nach Baddelys Modell (a) die phonetische Schleife, (b) der visuelle Notizblock, (c) die zentrale Exekutive? Welche Rolle spielt Aufmerksamkeit für die Aufnahme ins Arbeitsgedächtnis? Wie kann man die Kapazizät des Arbeitsgedächtnisses steigern? 
+-   **Arbeitsgedächtnis** (Welche Beschränkungen hat es? Welche Funktion hat nach Baddelys Modell (a) die phonetische Schleife, (b) der visuelle Notizblock, (c) die zentrale Exekutive? Welche Rolle spielt Aufmerksamkeit für die Aufnahme ins Arbeitsgedächtnis? Wie kann man die Kapazizät des Arbeitsgedächtnisses steigern?
 
-- Wissenssysteme im **Langzeitgedächtnis** (Welche auffällige Unterschiede gibt es zwischen dem deklarativen und dem prozeduralen Langzeitgedächtnis? Welche (sprachlichen oder nicht-sprachlichen) Reize (Stimuli) haben größere Chancen, im Langzeitgedächtnis gespeichert zu werden? Welchen Einfluss haben emotional geladene Reize auf die Speicherung im Langzeitgedächtnis? Welche Funktion haben der Hippokampus, die Amygdala und frontale Hirnrindenbereiche in Bezug auf die langzeitige Speicherung von Einzelheiten oder Regelmäßigkeiten?) 
+-   Wissenssysteme im **Langzeitgedächtnis** (Welche auffällige Unterschiede gibt es zwischen dem deklarativen und dem prozeduralen Langzeitgedächtnis? Welche (sprachlichen oder nicht-sprachlichen) Reize (Stimuli) haben größere Chancen, im Langzeitgedächtnis gespeichert zu werden? Welchen Einfluss haben emotional geladene Reize auf die Speicherung im Langzeitgedächtnis? Welche Funktion haben der Hippokampus, die Amygdala und frontale Hirnrindenbereiche in Bezug auf die langzeitige Speicherung von Einzelheiten oder Regelmäßigkeiten?)
 :::
-
 
 ## Lernphasen
 
@@ -253,8 +461,7 @@ knitr::include_graphics("pictures/neuro/Diapozitiv74.PNG")
 knitr::include_graphics("pictures/neuro/Diapozitiv75.PNG")
 ```
 
-## Einfluss des Alters auf L2
-
+### Einfluss des Alters auf L2
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
 knitr::include_graphics("pictures/neuro/Diapozitiv76.PNG")
@@ -292,7 +499,7 @@ knitr::include_graphics("pictures/neuro/Diapozitiv83.PNG")
 knitr::include_graphics("pictures/neuro/Diapozitiv84.PNG")
 ```
 
-## Hirnreifeprozess
+### Hirnreifeprozess
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
 knitr::include_graphics("pictures/neuro/Diapozitiv86.PNG")
@@ -312,7 +519,7 @@ knitr::include_graphics("pictures/neuro/Diapozitiv88.PNG")
 knitr::include_graphics("pictures/neuro/Diapozitiv89.PNG")
 ```
 
-## L1-L2-Parallelen
+### L1-L2-Parallelen
 
 Aus dem Kapitel *Sprachlernvoraussetzungen: biologische Voraussetzungen*, von @apeltauer1997grundlagen: 68-76.
 
@@ -328,114 +535,4 @@ knitr::include_graphics("pictures/neuro/Diapozitiv91.PNG")
 knitr::include_graphics("pictures/neuro/Diapozitiv92.PNG")
 ```
 
-## Muster und Intentionen erkennen
-
-Zusammengestellt anhand von: 
-- @stoll2008mustererkennung   
-- 
-
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv1.PNG")
-```
-
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv2.PNG")
-```
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv3.PNG")
-```
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv4.PNG")
-```
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv5.PNG")
-```
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv6.PNG")
-```
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv7.PNG")
-```
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv8.PNG")
-```
-
-```{r echo=FALSE, fig.keep='all', out.width="100%"}
-knitr::include_graphics("pictures/muster_intentionen/Diapozitiv9.PNG")
-```
-
-## Kategorienbildung
-
-Beim Lernen bilden wir Kategorien, in die verschiedene Erscheinungen in unserer Umwelt eingeordnet werden. Kategorien erleichtern Menschen den Umgang mit ihrer Umwelt. 
-
-*Kategorielle Perzeption* von sprachlichen Stimuli: Die Suche nach akustischen Hinweisen (engl. cues), die bei der Segmentierung größerer Einheiten notwendig sind und die Aufdeckung von Kontrasten ermöglichen (und damit Bedeutungsfindung). Gesucht wird nach distinktiven Merkmalen. 
-Akustische Signale sind (so wie visuelle Reize) höchstvariabel. Menschen (bereits im Säuglingsalter) können sehr feine Unterschiede zwischen akustischen Stimuli erkennen und sie für sprachliche Kategorisierung nutzen. 
-
-
-[ListenLab](https://www.youtube.com/watch?v=8-fMLs-xCaA) (Dauer: 15:00 Minuten):
-
-{{< video https://www.youtube.com/embed/8-fMLs-xCaA title= "SLHS 1301 - Speech perception 1 - auditory hierarchy, segmentation, variance" start="1" >}}
-
-```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
-#| fig-link: <https://www.youtube.com/watch?v=8-fMLs-xCaA>
-#| fig-cap: "SLHS 1301 - Speech perception 1 - auditory hierarchy, segmentation, variance"
-library("vembedr")
-url <- "https://www.youtube.com/watch?v=8-fMLs-xCaA"
-embed_url(url)
-# suggest_embed(url)
-```
-
-
-[ListenLab](https://www.youtube.com/watch?v=nNYhCP6NiUg) (Dauer: 9:53 Minuten):
-
-{{< video https://www.youtube.com/embed/nNYhCP6NiUg title= "SLHS 1301 - Speech perception 2 - categorical perception" start="1" >}}
-
-```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
-#| fig-link: <https://www.youtube.com/watch?v=nNYhCP6NiUg>
-#| fig-cap: "SLHS 1301 - Speech perception 2 - categorical perception"
-library("vembedr")
-url <- "https://www.youtube.com/watch?v=nNYhCP6NiUg"
-embed_url(url)
-# suggest_embed(url)
-```
-
-
-*Voice Onset Timing* im Englischen (vgl. mit Deutsch und Slowenisch):   
-[Isabel Cooke McKay](https://www.youtube.com/watch?v=xR6FieNmWfg) (Dauer: 19:21 Minuten):
-
-{{< video https://www.youtube.com/embed/xR6FieNmWfg title= "Categorical Perception in Infants (Language Development 13)" start="1" >}}
-
-```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
-#| fig-link: <https://www.youtube.com/watch?v=xR6FieNmWfg>
-#| fig-cap: "Categorical Perception in Infants (Language Development 13)"
-library("vembedr")
-url <- "https://www.youtube.com/watch?v=xR6FieNmWfg"
-embed_url(url)
-# suggest_embed(url)
-```
-
-
-
-[NPTEL IIT Guwahati](https://www.youtube.com/watch?v=Kv6WBQVkHTo) (Dauer: 19:14 Minuten):
-
-{{< video https://www.youtube.com/embed/Kv6WBQVkHTo title= "Lec 13: Segmentation problem, categorical perception, cp in infants and animals" start="1" >}}
-
-```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
-#| fig-link: <https://www.youtube.com/watch?v=Kv6WBQVkHTo>
-#| fig-cap: "Lec 13: Segmentation problem, categorical perception, cp in infants and animals"
-library("vembedr")
-url <- "https://www.youtube.com/watch?v=Kv6WBQVkHTo"
-embed_url(url)
-# suggest_embed(url)
-```
-
-
-
+## 
