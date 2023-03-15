@@ -97,11 +97,11 @@ Das **UG-Wissen des Kindes:** Was ist, nach Annahme der nativistischen Theorie, 
 
 Um das Wesentliche dieses Forschungsprogramms verständlich zu machen, ist es ratsam, zunächst die anfänglichen Grundannahmen vorzustellen. Es sind, wie in allen Spracherwerbstheorien, Annahmen über die spezifische Relevanz von Erwerbsvoraussetzungen; sie finden sich einführend gelistet in Tomasello (2009: Kapitel 2).
 
-#### **Grundannahmen**
+#### Grundannahmen
 
 Was besagt das »Usage based-Modell« des Spracherwerbs? Zunächst einmal wird die Existenz von angeborenem universalem sprachbezogenen Wissen des Kindes kategorisch bestritten. Das Kind, so die Grundannahme, erwerbe die Sprachfähigkeit durch die aufmerksame, von Neugier und Wissensdrang getriebene Verwendung der Sprache mit den Erwachsenen seiner Brutpflegeumgebung.
 
-#### Kommunikativen Fertigkeiten
+#### Kommunikative Fertigkeiten
 
 Es verfüge dazu über die folgenden kommunikativen Fertigkeiten:
 
@@ -136,6 +136,75 @@ Kennzeichnend für diese Theorie ist die Annahme, dass die Sprachfähigkeit und 
 #### Repräsentationsfunktion
 
 Der besondere Nutzen der Sprache für das Denken ergibt sich aus ihrer **Repräsentationsfunktion**. Das sprachliche Symbol liefert die Voraussetzung, Vorstellungen im Geist darzustellen, zu kombinieren und frei von der aktuellen Situation und Anschauung damit geistig zu handeln. Forschungslogisch muss also zunächst herausgefunden werden, wie sich die Intelligenz/das Denken des Kindes entwickelt, von der Sensomotorik über das mentale Repräsentieren von Anschauungen, das Operieren mit diesen Repräsentationen bis hin zum abstrakten und formalen Denken z. B. das Erkennen von und Operieren mit logischen Relationen. Eben dieses Programm bestimmte die Arbeit von Jean Piaget, wie er selbst in einer knappen Autobiographie mitteilt (vgl. Piaget 1972).
+
+#### Schema
+
+Unter einem **Schema** versteht man Wissens- oder Verhaltensmuster. \<http://www.lern-psychologie.de/kognitiv/Piaget1.pdf\>
+
+Beispiel: **Nahrungsschema**
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/piaget_schema.png")
+```
+
+Ein Schema beschreibt, wie man mit einer Einheit (z.B. Brot) umzugehen hat.
+
+#### Adaption
+
+Adaption ist der Prozess der Anpassung. Das Individuum (z.B. das Kind) versucht sich an die Umwelt anzupassen. Der konstruktivistische Ansatz zwischen zwei Arten der Anpassung: der Assimilation und der Akkomodation.
+
+
+**Assimilation** bedeutet Eingliederung neuer Erfahrungen in ein bereits bestehendes Schema, **Akkommodation** bedeutet dagegen die Erweiterung bzw. Anpassung eines Schemas (also der kognitiven Strukturen) an eine wahrgenommene Situation, die mit den vorhandenen Schemata nicht bewältigt werden kann.
+
+
+##### Assimilation
+
+Assimilation (Schwächungsprozesse, durch die neue Erfahrungen in ein existierendes Schema eingeordnet werden). 
+
+**Beispiel Assimilation**:
+
+Ein Kind hat bereits gelernt, dass
+
+-   ein **Apfel** zum Mund geführt werden muss,
+
+-   der Mund geöffnet werden muss und
+
+-   ein Stück herausgebissen werden muss.
+
+Trifft dieses Kind nun auf eine **Birne**, assimiliert das Kind \[Apfel und Birne sehen schließlich auch ähnlich aus\] und geht mit der Birne genau wie mit einem Apfel um.
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/assimilation.png")
+```
+
+##### Akkomodation
+
+Akkomodation (Verstärkungsprozesse, die ein wahrgenommenes Problem bei der Verwendung eines Objekts zu umgehen versuchen, indem das existierende Schema erweitert wird.)
+
+
+**Beispiel Akkommodation**:
+
+Der Versuch eines Kindes an einem **Bauklotz** zu saugen, wird durch die Assimilation gestützt, wenn der Bauklotz einem essbaren Gegenstand ähnlich erscheint. Da der Bauklotz jedoch keine Nahrung beinhaltet, genügt die Assimilation nicht zur Bewältigung dieser Situation. Das Kind muss akkommodieren: Das Schema wird erweitert.
+\
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/akkomodation.png")
+```
+
+\
+"Kann eine Situation nicht durch bestehende Schemata erfolgreich bewältigt werden [Assimilation], so muss das entsprechende Schema um
+die neuen Erkenntnisse erweitert werden [Akkommodation]."
+
+```{r echo=FALSE, fig.keep='all', out.width="100%"}
+knitr::include_graphics("pictures/peanuts_assimilation_akkomodation.png")
+```
+
+"In diesem Beispiel versucht Linus zunächst zu assimilieren: Er versucht mit dem Keks so umzugehen, wie er es mit Brot gewöhnt ist: Eine
+Scheibe Brot kann man biegen. Nach einigen fehlgeschlagenen Versuchen
+akkommodiert er: Ein Keks kann nicht mit Brot gleichgestellt werden.
+Es handelt sich zwar bei beiden um etwas Essbares und um eine Backware, dennoch gibt es Unterschiede. Ein Keks ist etwas anderes, als eine
+Scheibe Brot - das vorhandene Schema muss erweitert werden (Akkommodation), da es nicht ausreicht." <http://www.lern-psychologie.de/kognitiv/Piaget1.pdf>
+
 
 #### Funktional gesteuerter Spracherwerb
 
@@ -179,7 +248,7 @@ Die Spracherwerbsdaten ungarisch-serbokroatisch bilingualer Kinder weisen auf, d
 
 -   Der Gebrauch grammatischer Ausdrücke soll semantisch gerechtfertigt sein.
 
-Die kognitivistische Spracherwerbsforschung weist eine große Zahl von Einzelergebnissen auf, die die semantische Basis des Formenerwerbs mehr oder weniger direkt belegen; Entwürfe eines kohärenten Modells des kindlichen Laut-, Wort- und Syntaxerwerbs wurden erst in jüngster Zeit durch Budwig (1995) Als problemgeschichtliche Einführung in das Gebiet empfiehlt sich Weinert (2000)\
+Die kognitivistische Spracherwerbsforschung weist eine große Zahl von Einzelergebnissen auf, die die semantische Basis des Formenerwerbs mehr oder weniger direkt belegen; Entwürfe eines kohärenten Modells des kindlichen Laut-, Wort- und Syntaxerwerbs wurden erst in jüngster Zeit durch Budwig (1995) vorgeschlagen. Als problemgeschichtliche Einführung in das Gebiet empfiehlt sich Weinert (2000)\
 
 \-\--
 
