@@ -5,9 +5,153 @@
 knitr::include_graphics("pictures/clipart46442.png")
 ```
 
-- Welche typischen Stadien sind im Erstspracherwerb unterscheidbar? (--> Quarks&Co, Kauschke)
+:::rmdrobot
+
+- Welche typischen Stadien sind im Erstspracherwerb unterscheidbar? (--> Vgl. Quarks&Co, Kauschke, Rainer Dietrich 2016)
+
+:::
+
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <>
+#| fig-cap: "Rainer Dietrich 2016: Sprachentwicklungsstadien"
+knitr::include_graphics("pictures/Erstsprachliche_Entwicklung_Tab6_Rainer-Dietrich2016.png")
+```
+
+
+
+
+
+## Frühe Sprachwahrnehmung
+
+Gemäß @kauschke2012kindlicher sind Säuglinge Von Geburt an in der Lage, spezifische Eigenschaften der Umgebungssprache wahrzunehmen, zu unterscheiden und allmählich für den Aufbau sprachlichen Wissens zu nutzen. 
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <>
+#| fig-cap: "Kauschke"
+knitr::include_graphics("pictures/L1_Entwicklung_kauschke_Tab6.png")
+```
+
+Die Entwicklung der Fähigkeiten beginnt bereits vor der Geburt, denn bereits wenige Tage alte Kinder zeigen eine besondere Hinwendung zu sprachlichen Reizen. Nuckelexperimente belegten, dass Neugeborene menschliche Stimmen gegenüber anderen akustischen Reizen (z.B. Geräuschen oder Musik) und die Stimme der Mutter gegenüber anderen Stimmen bevorzugen (DeCasper & Fifer 1980). 
+
+
+
+### Kategoriale Lautwahrnehmung
+
+Gemäß @kauschke2012kindlicher sind Säuglinge fähig, Unterschiede zwischen einzelnen Lauten wahrzunehmen. Die so genannte kategoriale Lautwahrnehmung ist bereits im ersten Monat ausgeprägt und im Verlauf der Entwicklung durch eine allmähliche Abnahme der Differenzierungsfähigkeit für nicht-muttersprachliche Kontraste gekennzeichnet (Tees 1984). 
+
+Mit dem Begriff der **kategorialen Lautwahrnehmung** wird darauf verwiesen, dass kontinuierliche akustische Signale von Hörern in abgegrenzte Lautkategorien unterteilt werden. 
+
+Beispielsweise wird ab einem bestimmten Grad der Stimmhaftigkeit des Anlauts
+ein /ba/ statt eines /pa/ wahrgenommen. 
+
+::: {.callout-note appearance="simple" icon="true"}
+Beispiel
+Eimas und Kollegen (1971, 1974) präsentierten Säuglingen einen bestimmten Plosiv, bis durch die Abnahme der Saugrate eine Gewöhnung angezeigt wurde. Daraufhin wurde der zweite Laut eingespielt und gemessen, ob bzw. in welchem Ausmaß es zu einer Veränderung der Saugrate kam. Kinder zwischen einem und vier Monaten konnten stimmhafte und stimmlose Laute sowie Laute mit verschiedenen Artikulationsorten (/d/ versus /ɡ/) kategorial unterscheiden. 
+:::
+
+Für die Differenzierung von *Frikativen* benötigen sie etwas länger.
+
+Die Fähigkeit zur kategorialen Lautwahrnehmung bedeutet, dass Säuglinge phonetische Unterschiede innerhalb einer Phonemkategorie ignorieren, aber Übergänge von einem Phonem zu einem anderen wahrnehmen, auch wenn die phonetischen Unterschiede gering sind.
+
+Interessant ist, dass sie sogar lautliche Kontraste unterscheiden können, die in der eigenen Muttersprache keine bedeutungsunterscheidende Funktion einnehmen, während diese Fähigkeit bei Erwachsenen nicht mehr zu beobachten ist. Erwachsene erkennen nur die Kontraste, die für ihre Sprache relevant sind. 
+
+::: {.callout-note appearance="simple" icon="true"}
+Beispiel
+Im Gegensatz zu japanischen Säuglingen fehlt erwachsenen japanischen Sprechern die Differenzierungsfähigkeit zwischen den Phonemen /l/ und /r/, denn diesem Kontrast kommt im Japanischen keine bedeutungsunterscheidende Funktion zu. 
+:::
+
+Gegen Ende des ersten Lebensjahres vollzieht sich eine *Entwicklung von der universellen zur einzelsprachlich beeinflussten Wahrnehmung* (Höhle 2004: 4).
+
+
+### Segmentation
+
+Gemäß @kauschke2012kindlicher ist die **Segmentation**, also die Zerlegung des kontinuierlichen Sprachstroms in einzelne Einheitenein weiterer wesentlicher Schritt, der den Spracherwerb einleitet und ermöglicht.
+Auch diese Fähigkeit, die notwendig zum Erkennen von Wortgrenzen und damit zum Aufbau der grundlegenden Einheiten der Sprache ist, entwickelt sich im ersten Lebensjahr (für einen Überblick siehe Jusczyk 1999, Höhle 2004). 
+
+Die Erwerbsaufgabe der Wortsegmentation ist keineswegs trivial, wenn man bedenkt, dass Anfang und Ende von Wörtern in der gesprochenen Sprache nicht explizit durch Pausen oder andere klare Grenzsignale markiert werden. Die Anforderung an das Kind lässt sich durch die Analogie mit einem
+*erwachsenen* Sprecher verdeutlichen, der erstmals eine gänzlich unbekannte *Fremdsprache* hört und zunächst nicht in der Lage ist, dem Input Sinneinheiten zu entnehmen (vgl. Höhle 2005). 
+
+Das *Segmentieren* des kontinuierlichen Lautstroms und das Extrahieren von
+zusammengehörigen Einheiten aus diesem ist eine notwendige *Voraussetzung für das Wortlernen*, bei dem das Kind zuvor isolierte und gespeicherte lautliche Einheiten mit Bedeutungen in Verbindung bringen muss.
+
+Um Grenzen im Sprachstrom zu setzen und Wörter als feste Einheiten zu erkennen, beachtet das Kind unterschiedliche Hinweisreize, die der Input bietet, wobei *prosodische Informationen* auch hier zunächst im Vordergrund stehen. Kinder nutzen vor allem rhythmische Merkmale zur Gliederung akustischer Signale. 
+
+Ab sechs Monaten präferieren sie das *dominante Betonungsmuster* der Muttersprache und gelangen so zu einem ersten Anhaltspunkt über mögliche Wortgrenzen. Im Deutschen ist das vorherrschende Wortbetonungsmuster der *Trochäus*, d.h. eine Abfolge mit einer betonten und einer unbetonten Silbe.
+
+Das Erkennen der muttersprachlichen Wortbetonung bietet eine Hilfestellung dahingehend, dass das Kind nun annehmen kann, dass Wörter in der Regel mit betonten Silben beginnen und eine Wortgrenze daher vor einer betonten Silbe liegen muss. Diese metrische Strategie erlaubt einen effektiven Einstieg in die Wortsegmentation, würde aber zu Fehlinterpretationen führen (z.B. bei Wörtern mit vom Trochäus abweichenden Betonungsmustern), wenn sie ausschließlich die Wahrnehmung leitete.
+
+*Weitere*, mit etwa neun Monaten genutzte *Informationsquellen* für die Segmentierung sind *phonotaktische Regularitäten.* 
+
+Kinder sind in dieser Phase sensitiv dafür, dass nur bestimmte *Konsonantenfolgen* innerhalb eines Wortes, z.B. als *wortinitiales* Konsonantencluster, erlaubt sind. Treten davon abweichende Konsonantenfolgen im Sprachstrom auf, wie z.B. /tk/, so spricht dies für eine Wortgrenze zwischen diesen Segmenten (wie z.B. in der Wortfolge ›geht Karl‹, Beispiel aus Pelzer 2011). 
+
+Ähnliche Informationen liefern *allophonische Varianten* von Phonemen. Im Deutschen kann beispielsweise der [ç]-Laut wortinitial nicht in der allophonischen Variante des [x] auftreten, sodass vor [x] keine Wortgrenze angenommen werden kann. Somit ist die distributionelle Analyse des sprachlichen Inputs ein weiteres Mittel, das zur Segmentierung genutzt werden kann.
+
+*Experimente* mit der Methode des Kopfdrehparadigmas erbrachten darüber hinaus den Nachweis, dass Kinder mit sieben bis acht Monaten vorgegebene Inhalts- und hochfrequente *Funktionswörter* wiedererkennen. 
+
+Wurden Kinder eingangs mit einem *Nomen* wie ›*Pinsel*‹ oder einer *Präposition* wie ›*bis*‹ familiarisiert, so orientierten sie sich später länger zu Texten hin, die dieses Wort enthielten (Höhle & Weissenborn 2003, Höhle 2005). Dies zeigt eindrücklich, dass sie die Wörter mental speichern und in einem kontinuierlichen Input wiederentdecken konnten. 
+
+Die *Speicherung hochfrequenter Wörter* kann wiederum *als Segmentierungshilfe* dienen: Erkennt das Kind im Sprachstrom ein bereits vertrautes und häufig vorkommendes Wort wieder (unabhängig davon, ob ihm die Bedeutung bekannt ist), so kann es vor und nach diesem Wort eine Wortgrenze annehmen.
+
+Auch der *eigene Name*, den Kinder mit etwa vier Monaten wiedererkennen, kann als ein solcher »Ankerpunkt« dienen (Höhle 2004, Bortfeld et al. 2005).
+
+Nachdem zunächst die rhythmisch-metrische Segmentierungsstrategie vorherrscht und die Prosodie damit im Sinne des *prosodischen bootstrappings* den *Einstieg in die Sprachverarbeitung* ermöglicht, lernt das Kind in der zweiten Hälfte des ersten Lebensjahres, verschiedene Informationstypen zu integrieren. 
+
+Zwischen sieben und elf Monaten schreitet die Fähigkeit, _vielfältige Hinweise_ aus dem Input zur erfolgreichen Wortsegmentation zu nutzen voran, so dass am Ende dieser Entwicklungsphase auch Wörter mit einem für die Muttersprache *untypischen Betonungsmuster* erkannt werden (Jusczyk 1999).
+
+Eine weitere Segmentationsleistung über das Worterkennen hinaus ist das _Erkennen von größeren syntaktischen Einheiten_. Für den Grammatikerwerb ist es grundlegend, wichtige strukturelle Einheiten wie Phrasen und Sätze als zusammengehörig wahrzunehmen. 
+
+Innerhalb dieser Domänen werden grammatische Beziehungen wie z.B. *Subjekt-Verb-Kongruenz* realisiert, die für die Interpretation eines Satzes von großer Bedeutung sind. Die Grenzen dieser Einheiten sind _oft durch prosodische Merkmale_ wie Pausen, Vokallängung oder Veränderungen der Stimmfrequenz _gekennzeichnet_. 
+
+::: {.callout-note appearance="simple" icon="true"}
+Kinder mit unterschiedlichen Muttersprachen präferieren im Alter von sieben bis zehn Monaten Texte mit natürlichen Pausen an den Satzgrenzen gegenüber Texten, die künstliche, unsinnige Pausen enthalten (Hirsh-Pasek et al. 1987).
+:::
+
+::: {.callout-note appearance="simple" icon="true"}
+Schmitz (2009) untersuchte mit dem Kopfdrehparadigma, ob auch Deutsch lernende Kinder sensitiv gegenüber der Pausendauer sind und das Vorkommen von *Pausen als Hinweis* auf eine *Satzgrenze* nutzen. Dazu wurden Satzblöcke mit unterschiedlich langen Pausen vorgespielt, wobei die Pausen entweder in natürlicher Form zwischen den Sätzen oder aber mitten in einer Phrase auftraten. Es zeigte sich, dass sechs Monate alte Kinder zwischen beiden
+Bedingungen unterscheiden konnten, also bereits Wissen darüber aufgebaut haben, an welcher Stelle Pausen adäquat sind. Auch die angemessene Dauer von Pausen wurde wahrgenommen, denn acht Monate alte Kinder bevorzugten Sätze, in denen die Pause zwischen zwei Teilsätzen etwas kürzer war als die zwischen zwei eigenständigen Sätzen, gegenüber Sätzen mit einer umgekehrten und damit unnatürlichen Abstufung der Pausenlänge. Daraus kann gefolgert werden, dass *Kinder* in diesem Alter eine »*natürliche Pausenhierarchie*« (Schmitz 2009: 34) *entdeckt haben*, die ihnen *helfen* kann, *syntaktisch relevante Einheiten zu erkennen*.
+:::
+
+
+### Weitere phonologische Entwicklung
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <>
+#| fig-cap: "Kauschke"
+knitr::include_graphics("pictures/L1_Entwicklung_kauschke_Tab7.png")
+```
+
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <>
+#| fig-cap: "Kauschke"
+knitr::include_graphics("pictures/L1_Entwicklung_kauschke_Tab8.png")
+```
+
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <>
+#| fig-cap: "Kauschke"
+knitr::include_graphics("pictures/L1_Entwicklung_kauschke_Tab9.png")
+```
+
+
+### Lexikalische Entwicklung
+
+```{r eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+#| fig-link: <>
+#| fig-cap: "Kauschke"
+knitr::include_graphics("pictures/L1_Entwicklung_kauschke_abb2.png")
+```
+
+
+### Morphosyntaktische Entwicklung
+
+
+:::rmdrobot
 
 Artikelerwerb von sechs Kindern des Szagun-Korpus
 
 - Beschreiben Sie den Erwerb deutscher d-Wörter, die zunächst wie Demonstrativpronomen auf ein außersprachliches Objekt verweisen, dann aber ab einem bestimmten Alter mit einem Nomen auftreten und dann die im Deutschen typische Artikelfunktion ausüben (d.h. Verweis auf bekannte oder zumindest identifizierbare Objekte in Situation und/oder Kontext)!
 
+:::
