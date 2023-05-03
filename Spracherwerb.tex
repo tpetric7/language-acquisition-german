@@ -195,7 +195,7 @@
 \begin{document}
 \frontmatter
 \maketitle
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[breakable, boxrule=0pt, enhanced, frame hidden, sharp corners, interior hidden, borderline west={3pt}{0pt}{shadecolor}]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[frame hidden, boxrule=0pt, sharp corners, borderline west={3pt}{0pt}{shadecolor}, breakable, interior hidden, enhanced]}{\end{tcolorbox}}\fi
 
 \renewcommand*\contentsname{Table of contents}
 {
@@ -2052,7 +2052,7 @@ abgegrenzte Lautkategorien unterteilt werden.
 Beispielsweise wird ab einem bestimmten Grad der Stimmhaftigkeit des
 Anlauts ein /ba/ statt eines /pa/ wahrgenommen.
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2083,7 +2083,7 @@ Funktion einnehmen, während diese Fähigkeit bei Erwachsenen nicht mehr
 zu beobachten ist. Erwachsene erkennen nur die Kontraste, die für ihre
 Sprache relevant sind.
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2210,7 +2210,7 @@ eines Satzes von großer Bedeutung sind. Die Grenzen dieser Einheiten
 sind \emph{oft durch prosodische Merkmale} wie Pausen, Vokallängung oder
 Veränderungen der Stimmfrequenz \emph{gekennzeichnet}.
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2224,7 +2224,7 @@ gegenüber Texten, die künstliche, unsinnige Pausen enthalten
 \end{minipage}%
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2275,7 +2275,7 @@ phonologischen Repräsentationen an.
 Das anfänglich noch eingeschränke Inventar an Lauten wird allmählich
 erweitert.
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2398,16 +2398,24 @@ berücksichtigt werden.
 
 Der Erwerb eines Wortes in seiner Gesamtheit erfordert die aufeinander
 bezogene Speicherung von phonologischen, syntaktischen, morphologischen,
-semantischen und pragmatischen Informationen.
+semantischen und pragmatischen Informationen. (Kauschke 2012:)
+
+Da der Übergang von der frühen Phase zur darauf folgenden zeitlich mit
+der Entwicklung syntaktischen Wissens einhergeht, hat man die beiden
+Phasen bezeichnet als:\\
+- \emph{vorsyntaktische} (lexikalische, prämorphologische, ca. vor 18.
+Lebensmonat) und\\
+- \emph{syntaktische Phase des Wortschatzerwerbs} (ca. ab 18.
+Lebensmonat). (Dietrich 2016: 79)
 
 \hypertarget{wortverstuxe4ndnis}{%
 \subsubsection{Wortverständnis}\label{wortverstuxe4ndnis}}
 
 In den letzten Monaten des ersten Lebensjahres setzt das Wortverständnis
 in diesem Sinne ein, nun erkennt das Kind nicht mehr nur die Wortform
-wieder, sondern es verknüpft sie mit Bedeutung.
+wieder, sondern es verknüpft sie mit Bedeutung. (Kauschke 2012:)
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2424,7 +2432,7 @@ Monaten Spannweite 78 bis 303 Wörter).
 Der rezeptive Wortschatz von sechsjährigen Kindern wird auf 9000 bis
 14000 Wörter geschätzt. Diese quantitative Entwicklung des rezeptiven
 Vokabulars zeugt für die beachtliche Fähigkeit von Kindern, schnell und
-effektiv eine wachsende Vokabularmenge zu erwerben.
+effektiv eine wachsende Vokabularmenge zu erwerben. (Kauschke 2012:)
 
 Für die Fähigkeit, neue Wörter schnell mit Bedeutungen zu koppeln, auch
 wenn der Bedeutungsgehalt noch nicht voll ausdifferenziert ist, führte
@@ -2433,23 +2441,107 @@ Mechanismus ermöglicht, dass Kinder sofort nach möglichen Bedeutungen
 suchen, wenn sie auf eine neue Wortform treffen. Sie legen dann einen
 ersten, rudimentären Lexikoneintrag an, der im Laufe der Zeit weiter
 ausdifferenziert und durch weitere Informationen angereichert wird.
+(Kauschke 2012:)
+
+Im Wortschatzerwerb bezeichnet \emph{fast mapping} die Anwendung einer
+speziellen Aufnahmestrategie, die darin besteht, teilweise
+unvollständige lautliche Informationen mit teilweise unvollständigen
+Bedeutungsvorstellungen zu assoziieren und im mentalen Lexikon zu
+speichern. (Dietrich 2016: 83)
+
+Entscheidend sind die \emph{Gedächtnisfunktionen}. Das Kind muss ein in
+seiner Umgebung \emph{wiederkehrendes lautliches Gebilde} so gespeichert
+haben, dass es dieses in wechselnden Ausprägungen erkennt, mit einer
+\emph{konstanten nichtlautlichen Vorstellung} von seiner
+\emph{Verwendungsbedingung} (Situation, Ereignistyp, Sache,
+Situationsmerkmalen) assoziiert und schließlich auch artikulieren kann.
+(Dietrich 2016: 79)
+
+Soweit es Letzteres nicht kann, ist die lexikalische Einheit eben noch
+nicht aktiv, sondern nur passiv beherrscht. Alle Beobachtungen sprechen
+dafür, dass die \emph{passive Beherrschung der aktiven zeitlich deutlich
+vorausgeht}. (Dietrich 2016: 79)
 
 Für die hier geschilderten Prozesse spielen natürlich auch
 \emph{Gedächtnisfähigkeiten} eine Rolle. Bevor Informationen ins
 Langzeitgedächtnis gelangen, werden sie im \emph{Arbeitsgedächtnis},
 auch Kurzzeitgedächtnis genannt (Schwarz 2008: 102f),
-zwischengespeichert. Bezogen auf das Wortlernen bedeutet dies, dass dem
-\emph{phonologischen Kurzzeitgedächtnis} eine große Bedeutung für den
-Wortschatzerwerb zukommt, denn Wortformen müssen hier zunächst
-verarbeitet werden, bevor sie in das \emph{mentale Lexikon}, d.h. in den
-\emph{Langzeitspeicher} für Wörter, eingehen (zur Rolle des
-phonologischen Gedächtnisses für den Lexikonerwerb siehe auch Rothweiler
-2001 und Weinert 2004). Das phonologische Arbeitsgedächtnis stellt damit
-einerseits eine \emph{Voraussetzung für den Erwerb und die Speicherung
-von Wortformen} dar, wird aber andererseits selbst durch zunehmendes
-Sprachwissen beeinflusst. So zeigt Weinert (2004), dass die
-Arbeitsgedächtnisleistung sechsjähriger Kinder durch den
-Wortschatzumfang mit fünf Jahren vorhergesagt werden kann.
+zwischengespeichert. (Kauschke 2012:)
+
+Bezogen auf das Wortlernen bedeutet dies, dass dem \emph{phonologischen
+Kurzzeitgedächtnis} eine große Bedeutung für den Wortschatzerwerb
+zukommt, denn Wortformen müssen hier zunächst verarbeitet werden, bevor
+sie in das \emph{mentale Lexikon}, d.h. in den \emph{Langzeitspeicher}
+für Wörter, eingehen (zur Rolle des phonologischen Gedächtnisses für den
+Lexikonerwerb siehe auch Rothweiler 2001 und Weinert 2004). Das
+phonologische Arbeitsgedächtnis stellt damit einerseits eine
+\emph{Voraussetzung für den Erwerb und die Speicherung von Wortformen}
+dar, wird aber andererseits selbst durch zunehmendes Sprachwissen
+beeinflusst. So zeigt Weinert (2004), dass die Arbeitsgedächtnisleistung
+sechsjähriger Kinder durch den Wortschatzumfang mit fünf Jahren
+vorhergesagt werden kann. (Kauschke 2012:)
+
+Die mit dem Lautgebilde assoziierte Vorstellung ist mit der
+Zielbedeutung nicht gleichzusetzen.
+
+\emph{Überdehnung} (Spezialfall der \emph{Übergeneralisierung}): Mit
+einem Namen kann sich mehr als die Vorstellung der Person verbinden, die
+ihn trägt,\\
+- z. B. eine typische Handlung, eine typische Situation; mit einem Wort
+wie \emph{heiß} kann sich die Erfahrung des Wehtuns verbinden, das
+Verbot, heiße Ding zu berühren oder der Anblick einer offenen
+Feuerstelle.\\
+\emph{Unterdehnung}: häufiger, aber schwerer nachzuweisen. (Dietrich
+2016: 80)
+
+Die \emph{vorsyntaktische (prämorphologische) Phase des
+Wortschatzerwerbs} ist gekennzeichnet von einem relativ langsamen Erwerb
+von Wörtern, wobei die Aufmerksamkeit des Kindes auf die Wortbedeutung
+und weniger auf die morphosyntaktischen Eigenschaften der gelernten
+Wörter gerichtet ist. Sie erstreckt sich zeitlich bis zum Alter von ca.
+18 Monaten. (Dietrich 2016: 81)
+
+In der \emph{syntaktischen (protomorphologische) Phase des
+Wortschatzerwerbs}, die um das Alter von 18 Monaten beginnt und durch
+das Auftreten von Mehrwortsätzen gekennzeichnet ist, richtet sich die
+Aufmerksamkeit des Kindes verstärkt auf die morphosyntaktischen
+Eigenschaften von Wörtern. (Dietrich 2016: 82)
+
+::: \{.callout-note appearance=``simple'' icon=``true''\}
+
+Feststellungen zur \emph{Überrepräsentation nominaler gegenüber verbaler
+Einheiten} (nach Kauschke (2007):\\
+- In der Rede von Erwachsenen zu Kindern überwiegen in vielen Sprachen
+die Verbtypes.\\
+- Unter den gleichen Bedingungen überwiegen innerhalb der Verbtypes die
+transitiven gegenüber den intransitiven; vgl. auch
+Childers/Tomasello/Hirsh-Pasek/Golinkoff (2006), die spezifisch die
+Rolle der Argumentstruktur untersuchen.\\
+- Es gibt eine Interaktion zwischen Wortklasse und Aufgabe; die Verb /
+Nomen-Differenz ist beim Benennen stärker ausgeprägt als beim
+Erkennen.\\
+- Bei Kindern gibt es einen Erwerbsfortschritt; die Benenngenauigkeit
+nimmt von 2;6 bis 8 zunächst zu, flacht dann aber ab. Die Nomina werden
+besser verarbeitet als die Verben.\\
+- Genauigkeit und Geschwindigkeit sind beim Benennen mit Nomina besser
+als beim Benennen mit Verben, bei Kindern wie bei Erwachsenen.\\
+- Auch beim Verstehen gibt es eine Interaktion zwischen Aufgabe und
+Wortart. Die Differenz zwischen Verstehen/Produzieren ist für Verben
+größer als für Nomina bei durchgehender Nomenüberlegenheit.\\
+- Es gibt eine Interaktion zwischen Sprache und Aufgabe; die
+Nomen-überlegenheit ist beim Benennen im Türkischen schwächer als im
+Deutschen und etwa gleich dem Koreanischen, beim Verstehen aber etwa so
+groß wie im Deutschen und größer als im Koreanischen.\\
+- Im typologischen Vergleich bestätigt sich die Annahme einer
+universalen Nomenüberlegenheit mit einer Reihung von Deutsch (am
+stärksten nominal) über Englisch, Koreanisch, Türkisch.\\
+- Globale, Wernicke- und Broca-Aphasiker bewahren die Nomenüberlegenheit
+im Deutschen.\\
+- Es gibt einen Krankeitstyp-Effekt; bei Agrammatikern ist der Rückgang
+des Verbanteils größer als der Rückgang des Nomenanteils; bei anomischen
+Aphasikern ist es umgekehrt. (Dietrich 2016: 82)
+
+::: \{.callout-note appearance=``simple'' icon=``true''\}
 
 \hypertarget{wortproduktion}{%
 \subsubsection{Wortproduktion}\label{wortproduktion}}
@@ -2467,9 +2559,9 @@ halbes Jahr lang anhalten kann, wächst der \emph{Wortschatz} des Kindes
 recht \emph{langsam} an, schrittweise und allmählich werden einzelne
 neue Wörter hinzugewonnen. Mit 18 bis 19 Monaten ist der Umfang des
 produktiven Vokabulars bei den meisten Kindern auf etwa 50 Wörter
-angestiegen.
+angestiegen. (Kauschke 2012:)
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2486,9 +2578,10 @@ Durchschnittsalter von 18;4 Monaten für das Erreichen des
 Das Ausmaß der Variabilität in der Vokabulargröße lässt sich anhand der
 Werte aus einer umfangreichen Querschnittsstudie von Bates und andere
 (1994) veranschaulichen, in die die Daten (Elternbefragung über
-Vokabularchecklisten) von mehr als 1800 Kindern eingingen.
+Vokabularchecklisten) von mehr als 1800 Kindern eingingen. (Kauschke
+2012:)
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2504,7 +2597,7 @@ Monaten sogar 637 Wörter.
 \end{minipage}%
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2512,16 +2605,17 @@ Monaten sogar 637 Wörter.
 
 Zum Umfang des Wortschatzes im Deutschen führte Szagun (Szagun et
 al.~2006, Szagun 2007) eine Studie durch, die auf einem Elternfragebogen
-(FRAKIS, siehe Kapitel 2) beruhte.
+(FRAKIS, siehe Kapitel 2) beruhte. (Kauschke 2012:)
 
 Für das Alter von 18 Monaten werden durchschnittlich 65 Wörter
 berichtet. Zweijährige Kinder erreichten einen Mittelwert von 214
-Wörtern mit einer Streubreite zwischen 46 und 458 Wörtern.
+Wörtern mit einer Streubreite zwischen 46 und 458 Wörtern. (Kauschke
+2012:)
 
 \end{minipage}%
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2532,7 +2626,7 @@ Mit einer etwas weniger umfangreichen Wortliste stellte von Suchodoletz
 Befragung von 683 Eltern fest, dass Kinder mit 20 Monaten im Mittel 134
 Wörter produzieren (Spanne 4--406) und mit 24 Monaten bereits 214
 Wörter, womit der gleiche Mittelwert wie bei Szagun (2007) gefunden
-wurde.
+wurde. (Kauschke 2012:)
 
 \end{minipage}%
 \end{tcolorbox}
@@ -2544,7 +2638,8 @@ der erste Wörter ungefähr mit dem ersten Geburtstag auftreten und der
 und \emph{etwa 200 Wörter mit zwei Jahren} anwächst. Bei dieser
 Generalisierung sind die massiven interindividuellen Schwankungen nicht
 abgebildet. Dass der Wortschatz im zweiten Lebensjahr enorm anwächst,
-ist jedoch unstrittig und für verschiedene Sprachen belegt.
+ist jedoch unstrittig und für verschiedene Sprachen belegt. (Kauschke
+2012:)
 
 \hypertarget{wachstumsmuster}{%
 \paragraph{Wachstumsmuster}\label{wachstumsmuster}}
@@ -2557,7 +2652,7 @@ Geschwindigkeit, mit der neue Wörter erworben werden, deutlich zunimmt.
 Diese Beschleunigung, die zu einem sprunghaften Anstieg der
 Wortschatzumfangs führt, wurde unter dem Begriff
 »\textbf{Vokabularspurt}« Gegenstand zahlreicher Studien und
-Erklärungsversuche.
+Erklärungsversuche. (Kauschke 2012:)
 
 Während die 50-Wort-Grenze eine punktuelle Größe ist, die sich auf einen
 festgelegten Vokabularumfang in einem bestimmten Alter bezieht, wird mit
@@ -2566,15 +2661,16 @@ Wachstumsdynamik stärker beachtet. Durch die Ermittlung der Menge neu
 erworbener Wörter zu aufeinander folgenden Zeitpunkten können
 Veränderungen im Wachstumsprofil festgestellt werden, die im Falle des
 Spurts als plötzliche \emph{Beschleunigung der Wachstumsgeschwindigkeit}
-erscheinen.
+erscheinen. (Kauschke 2012:)
 
 Wie viele neue Wörter in welcher Zeit gelernt werden müssen, um als
 Beleg für einen Vokabularspurt zu gelten, wird sehr unterschiedlich
 gehandhabt; eine Zusammenstellung der bislang verwendeten Maße findet
 sich in Ganger und Brent (2004). Meist wurden etwa 10 neue Wörter in
 zwei bis drei Wochen verlangt, um einen Spurt zu identifizieren.
+(Kauschke 2012:)
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2605,9 +2701,9 @@ weiteren Einzelfall auf.
 
 Diese Beobachtungen ließen zunächst \emph{vermuten}, dass die
 \emph{Lexikonentwicklung} aller Kinder \emph{grundsätzlich} durch einen
-\emph{Vokabularspurt} gekennzeichnet sei.
+\emph{Vokabularspurt} gekennzeichnet sei. (Kauschke 2012:)
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2624,7 +2720,7 @@ Zeitpunktes aus.
 \end{minipage}%
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2637,7 +2733,7 @@ Vokabulargrößen zwischen 71 und 213 Wörtern erfolgte.
 \end{minipage}%
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2684,7 +2780,7 @@ Wortverwendung niederschlagen.
 
 \end{figure}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, left=2mm, opacityback=0, colback=white, rightrule=.15mm, toprule=.15mm, leftrule=.75mm, arc=.35mm]
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
 \begin{minipage}[t]{5.5mm}
 \textcolor{quarto-callout-note-color}{\faInfo}
 \end{minipage}%
@@ -2699,39 +2795,62 @@ einem \emph{graduellen Anstieg} des Wortschatzes bis auf 99 Wörter.
 \end{minipage}%
 \end{tcolorbox}
 
-Zusammengefasst konnten in empirischen Studien bislang verschiedene
-Zuwachsmuster an Einzelfällen oder Gruppen belegt werden: Ein schnelles
-und sprunghaftes Anwachsen (z.B. Goldfield \& Reznick 1990, Bloom 1993,
-Robinson \& Mervis 1998, Dromi 1999), ein treppenförmiges Muster mit
-mehreren kleinen Sprüngen zu verschiedenen Zeitpunkten (z.B. Clark 1993,
-Anisfield et al.~1998), eine ausgedehnte Spurtphase (Goldfield \&
-Reznick 1990), eine exponentielle Wachstumskurve (z.B. Bates et
-al.~1995, Kauschke \& Hofmeister 2002), ein graduelles, lineares
-Wachstum (z.B. Goldfield \& Reznick 1990, Bloom 1993, Fenson et
-al.~1994) oder ein ein abwechselnder Verlauf von mehr oder weniger
-ausgedehnten Spurtintervallen und Plateaus (z.B. Menyuk et al.~1995,
-Goldfield \& Reznick 1996, Robinson \& Mervis 1998). Diese
-unterschiedlichen Befunde sprechen dafür, dass es eine große Variation
-hinsichtlich der Wachstumsmuster des Lexikon gibt, die zum Teil
-sicherlich auf unterschiedliche Erhebungs- und Auswertungsmethoden
-zurückzuführen ist. Je länger das Intervall zwischen den Messzeitpunkten
-ist, umso deutlicher sichtbar können Veränderungen der
-Erwerbsgeschwindigkeit hervortreten. Goldfield und Reznick (1996) weisen
-darauf hin, dass selbst die von ihnen untersuchten Kinder mit graduellem
-Verlauf kurze Spurtintervalle gefolgt von längeren Plateauphasen mit
-einem langsamen Zuwachs zeigten. Über den gesamten Untersuchungszeitraum
-hinweg hatten diese Kinder jedoch ein eher inkrementelles als abrupt
-verändertes Wachstumsmuster. Dies bringt die Autoren zu der Vermutung,
-dass alle Kinder während ihrer Lexikonentwicklung sowohl sprunghafte als
-auch graduelle Perioden durchlaufen.
+\emph{Zusammengefasst} konnten in empirischen Studien bislang
+verschiedene \emph{Zuwachsmuster} an Einzelfällen oder Gruppen belegt
+werden:\\
+- Ein \emph{schnelles und sprunghaftes Anwachsen} (z.B. Goldfield \&
+Reznick 1990, Bloom 1993, Robinson \& Mervis 1998, Dromi 1999),\\
+- ein \emph{treppenförmiges Muster} mit mehreren kleinen Sprüngen zu
+verschiedenen Zeitpunkten (z.B. Clark 1993, Anisfield et al.~1998), eine
+ausgedehnte Spurtphase (Goldfield \& Reznick 1990),\\
+- eine \emph{exponentielle Wachstumskurve} (z.B. Bates et al.~1995,
+Kauschke \& Hofmeister 2002),\\
+- ein \emph{graduelles, lineares Wachstum} (z.B. Goldfield \& Reznick
+1990, Bloom 1993, Fenson et al.~1994)\\
+- oder ein ein \emph{abwechselnder Verlauf von mehr oder weniger
+ausgedehnten Spurtintervallen und Plateaus} (z.B. Menyuk et al.~1995,
+Goldfield \& Reznick 1996, Robinson \& Mervis 1998).
 
-Allerdings wird das Vorliegen eines Vokabularspurts in einigen neueren,
-mathematisch motivierten Ansätzen gänzlich in Frage gestellt. Ganger und
-Brent (2004) kritisieren die methodischen Kriterien, nach denen in den
-meisten der oben genannten Studien ein Vokabularspurt identifiziert
-wurde, als unzureichend. Bei einem echten Spurt müsse ein klarer
-Umschlagpunkt ausgemacht werden, der die langsame Lernphase deutlich von
-der folgenden schnelleren abgrenzt. Mit Hilfe einer neuen
+Diese unterschiedlichen Befunde sprechen dafür, dass es eine große
+Variation hinsichtlich der Wachstumsmuster des Lexikon gibt, die zum
+Teil sicherlich auf \emph{unterschiedliche Erhebungs- und
+Auswertungsmethoden} zurückzuführen ist. Je länger das Intervall
+zwischen den Messzeitpunkten ist, umso deutlicher sichtbar können
+Veränderungen der Erwerbsgeschwindigkeit hervortreten.
+
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
+\begin{minipage}[t]{5.5mm}
+\textcolor{quarto-callout-note-color}{\faInfo}
+\end{minipage}%
+\begin{minipage}[t]{\textwidth - 5.5mm}
+
+Goldfield und Reznick (1996) weisen darauf hin, dass selbst die von
+ihnen untersuchten Kinder mit graduellem Verlauf kurze Spurtintervalle
+gefolgt von längeren Plateauphasen mit einem langsamen Zuwachs zeigten.
+Über den gesamten Untersuchungszeitraum hinweg hatten diese Kinder
+jedoch ein eher inkrementelles als abrupt verändertes Wachstumsmuster.
+Dies bringt die Autoren zu der Vermutung, dass alle Kinder während ihrer
+Lexikonentwicklung sowohl sprunghafte als auch graduelle Perioden
+durchlaufen. (Kauschke 2012:)
+
+\end{minipage}%
+\end{tcolorbox}
+
+Allerdings wird das Vorliegen eines \emph{Vokabularspurts} in einigen
+neueren, \emph{mathematisch motivierten Ansätzen} gänzlich \emph{in
+Frage gestellt}.
+
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
+\begin{minipage}[t]{5.5mm}
+\textcolor{quarto-callout-note-color}{\faInfo}
+\end{minipage}%
+\begin{minipage}[t]{\textwidth - 5.5mm}
+
+Ganger und Brent (2004) kritisieren die methodischen Kriterien, nach
+denen in den meisten der oben genannten Studien ein Vokabularspurt
+identifiziert wurde, als unzureichend. Bei einem echten Spurt müsse ein
+klarer Umschlagpunkt ausgemacht werden, der die langsame Lernphase
+deutlich von der folgenden schnelleren abgrenzt. Mit Hilfe einer neuen
 Berechnungsprozedur, die diesen Umschlagpunkt erfassen kann, wurden
 Daten von 20 Kindern ausgewertet und darüber hinaus die Daten von
 Goldfield und Reznick (1990) sowie die Einzelfalldaten von Dromi (1987)
@@ -2739,36 +2858,210 @@ reanalysiert. Es stellte sich heraus, dass nur zwei der 13 Fälle, die
 von Goldfield und Reznick (1990) als Kinder mit Vokabularspurt
 klassifiziert wurden, die strengeren Kriterien erfüllten; ebenso wenig
 bestätigte sich der Spurt für das von Dromi beschriebene Kind. Aus ihren
-Ergebnissen folgern die Autoren, dass nur bei etwa einem Fünftel aller
-Kinder überhaupt ein Spurtmuster im Lexikonerwerb vorliege. Auch
-McMurray und andere (McMurray 2007, Mitchell \& McMurray 2008)
+Ergebnissen folgern die Autoren, dass \emph{nur bei etwa einem Fünftel
+aller Kinder überhaupt ein Spurtmuster im Lexikonerwerb} vorliege.
+
+\end{minipage}%
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
+\begin{minipage}[t]{5.5mm}
+\textcolor{quarto-callout-note-color}{\faInfo}
+\end{minipage}%
+\begin{minipage}[t]{\textwidth - 5.5mm}
+
+Auch McMurray und andere (McMurray 2007, Mitchell \& McMurray 2008)
 bezweifeln das Konstrukt des Vokabularspurts und werten die
-vermeintliche Beschleunigung als mathematische Konsequenz der Tatsache,
-dass zahlreiche Wörter mit unterschiedlichem Schwierigkeitsgrad parallel
-gelernt werden müssen. Über Simulationsmodelle wurde nachgewiesen, dass
-sich ein sprunghafter Anstieg als statistisch erwartbares Nebenprodukt
-der Lernaufgabe ergeben kann. Folglich wird dem Vokabularspurt auch
-keine besondere Qualität im Entwicklungsprozess zugesprochen. Angesichts
-der Diskussion schlagen Mayor und Plunkett (2010) eine mildere
-Definition vor: Der Vokabularspurt ist durch ein supralineares
-lexikalisches Wachstum gekennzeichnet, d.h. auf eine Phase des langsamen
-Lernens folgt eine beschleunigte Lernrate. Ein eindeutiger Umschlagpunkt
-muss dafür nicht unbedingt auszumachen sein, lediglich ein Wachstum, das
-schneller als linear ist.
+\emph{vermeintliche Beschleunigung} als mathematische Konsequenz der
+Tatsache, dass zahlreiche \emph{Wörter mit unterschiedlichem
+Schwierigkeitsgrad parallel gelernt} werden müssen. Über
+Simulationsmodelle wurde nachgewiesen, dass sich ein sprunghafter
+Anstieg als \emph{statistisch erwartbares Nebenprodukt der Lernaufgabe}
+ergeben kann. Folglich wird dem Vokabularspurt auch keine besondere
+Qualität im Entwicklungsprozess zugesprochen.
+
+\end{minipage}%
+\end{tcolorbox}
+
+Angesichts der Diskussion schlagen Mayor und Plunkett (2010) eine
+\emph{mildere Definition} vor:\\
+Der \emph{Vokabularspurt} ist durch ein supralineares lexikalisches
+Wachstum gekennzeichnet, d.h. auf eine Phase des langsamen Lernens folgt
+eine beschleunigte Lernrate. Ein eindeutiger Umschlagpunkt muss dafür
+nicht unbedingt auszumachen sein, lediglich ein Wachstum, das schneller
+als linear ist. (Kauschke 2012:)
 
 Das Vorliegen von -- wie auch immer im Detail gearteten --
 spurtähnlichen Verläufen führte zu der Sichtweise, dass das Wortlernen
-vor und nach dem Vokabularspurt von qualitativ andersartigen Mechanismen
-gesteuert wird (Nazzi \& Bertoncini 2003), d.h., dass ein neuer Modus
-des Wortlernens einsetzt, der den rapiden Neuerwerb von Wörtern auslöst.
-Geht man davon aus, dass das Phänomen eines supralinearen
-Wortschatzwachstums existiert und dass der Spurt tatsächlich eine
-qualitative Veränderung der Lernkapazitäten reflektiert, so \emph{muss
-erklärt werden, welche neuartige Fähigkeit zu diesem Umschwung führt}.
+vor und nach dem \emph{Vokabularspurt} von qualitativ andersartigen
+Mechanismen gesteuert wird (Nazzi \& Bertoncini 2003), d.h., \emph{dass
+ein neuer Modus des Wortlernens einsetzt}, der den rapiden Neuerwerb von
+Wörtern auslöst. Geht man davon aus, dass das Phänomen eines
+supralinearen Wortschatzwachstums existiert und dass der Spurt
+tatsächlich eine qualitative Veränderung der Lernkapazitäten
+reflektiert, so \emph{muss erklärt werden, welche neuartige Fähigkeit zu
+diesem Umschwung führt}. (Kauschke 2012:)
 
 \hypertarget{morphosyntaktische-entwicklung}{%
 \subsection{Morphosyntaktische
 Entwicklung}\label{morphosyntaktische-entwicklung}}
+
+Das auffallendste äußerliche Merkmal der Entwicklung syntaktischen
+Wissens durch das Kind ist, dass seine Äußerungen im Lauf der Zeit von
+einem Jahr bis 6 Jahre länger werden, indem sie zunehmend mehr Wörter
+enthalten. Die Länge der Äußerung wird durch Mittlung der Zahl der
+Wörter aus den Äußerungen des zu charakterisierenden Zeitintervalls
+bestimmt und als MLU (mean length of utterance) häufig zur Bezeichnung
+von Stadien des Spracherwerbs verwendet. (Dietrich 2016: 84)
+
+\emph{Mean length of utterance (MLU)} ist ein Index für die
+durchschnittliche Anzahl der Wörter / Morpheme pro Äußerung in einem
+vordefinierten Zeitintervall.
+
+\emph{Einwortphase}: Gegen Ende des ersten Jahres und über die Zeit des
+vorsyntaktischen Wortschatzerwerbs sind Einwortäußerungen des Kindes zu
+beobachten, zum Beispiel \emph{wauwau, mieze, weg, auf, mehr, auch, da,
+nein} (Belege aus Stern/Stern 1920; Miller 1976). (Dietrich 2016: 84)
+
+Ausgedrückt werden mit diesen Äußerungen meist \emph{Wünsche und
+Feststellungen}. Sprachlich ausgedrückt ist zumeist der \emph{Bezug auf
+Dinge oder Personen, Orte oder Zielorte}, seltener Umstände von Aktionen
+und die \emph{Verneinung}.
+
+Direkte Bezeichnungen von \emph{Vorgängen durch Verben sind selten}.
+Sofern sie belegt sind, weist das Verb, soweit erkennbar, die
+Infinitivform auf, die \emph{Nomina} ebenfalls eine nominativähnliche
+SingularGrundform, \emph{Adjektive} die prädikative, unflektierte Form,
+wie etwa heiß.
+
+\emph{Mehrwortäußerungen} bilden in dieser Zeit die Ausnahme und
+scheinen vom Kind \emph{als feste zusammenhängende Formeln gespeichert}
+und eingesetzt zu sein.
+
+Syntaxwissen im engeren Sinne lässt sich den Äußerungen des Kindes nicht
+entnehmen, weil eben keine Verknüpfungen stattfinden. Zwischen
+produziertem und vorhandenem muss wiederum Wissen unterschieden werden
+(vgl. Höhle/Weissenborn 1999). (Dietrich 2016: 85)
+
+\emph{Zweiwortphase}: Auf die Einwortphase des Syntaxerwerbs folgt die
+Zweiwortphase, die etwa die zweite Hälfte des zweiten Lebensjahres
+dauert (1;6 bis 2).
+
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
+\begin{minipage}[t]{5.5mm}
+\textcolor{quarto-callout-note-color}{\faInfo}
+\end{minipage}%
+\begin{minipage}[t]{\textwidth - 5.5mm}
+
+Gekennzeichnet ist diese Phase durch folgende Beobachtungen
+(Ka=Kaltenbacher, 1990; El=Elsen, 1999):\\
+- Ausgedrückt werden weiterhin \emph{Feststellungen}, dass etwas so oder
+so ist, zunehmend nun aber auch \emph{Hinweise und Kommentare}, dass
+sich nun etwas geändert hat.\\
+- \emph{Nomina} sind zahlenmäßig immer noch \emph{dominant}, es treten,
+wie vereinzelt schon in der Einwortphase, \emph{formelhafte
+Pluralformen} auf, wie z. B. schuhe putt. (Ka: 1;10).\\
+- Die nominale Gruppe weist nur \emph{selten Artikel} auf, wenn, dann in
+einer unflektierten \emph{Grundform} den definiten und zwar nur im
+\emph{Singular}, wie z. B. de uwe auch \ldots{} {[}\ldots{} hat eine
+Brille{]} (Ka: 1;8).\\
+- Mills (1985) berichtet über \emph{Adjektivbelege in attributiver
+Position}, großes Loch, die schon Ansätze von Genusflexion aufweisen.\\
+- In Nomen-Verb-Äußerungen stehen -- agentivisch wie patientivisch --
+\emph{Nomen voran}: mama esse. {[}Aufforderung, Mama soll \ldots{]}. Ka:
+1;7 oder schuhe auszieh. {[}Feststellung{]} (vgl. Kaltenbacher 1990, S.
+80).\\
+- Ebenfalls in dieser Phase erscheinen \emph{Partizipialformen des
+Verbs}, allerdings \emph{ohne temporale Bedeutung}.\\
+- Fragen werden mit \emph{Fragewort}, am häufigsten zunächst was,
+ausgedrückt, aber \emph{auch weiterhin intonatorisch},\\
+- \emph{Verneinung} mit dem \emph{holophrastischen} \emph{nein}, z. B.,
+nein Brille. {[}zu einem Mann, der keine Brille trägt{]}. El: 1;3.\\
+- Die holophrastische Form wird noch in der Zweiwortphase durch
+\emph{Auftauchen von nicht} abgelöst, z. B., naIn bot niç.
+\textless nein. Brot nicht\textgreater. {[}Sie will das Brot nicht{]}
+El: 1;6; (vgl. Elsen 1999, S. 87).\\
+- Die syntaktischen Ausdrucksmittel des Kindes beschränken sich in der
+Zweiwortphase auf die Wahl der Wortarten der beteiligten Wörter und
+deren Stellung in der Äußerung. Eine rein auf Distribution gerichtete
+Analyse englischer Daten hat Braine (1963) vorgenommen und aus ihr
+abgeleitet, das Kind verfüge in dieser Zeit über \emph{zwei
+Hauptwortklassen} (\emph{open class words und pivot words}) und die
+entsprechenden \emph{Kombinationsregeln}. Mit zunehmender Datendichte
+ist allerdings zweifelhaft geworden, ob die Pivotphase einen eigenen
+abgrenzbaren Abschnitt in der Syntaxentwicklung darstellt.\\
+- Die mit den Mitteln von Zweiwortsätzen ausdrückbaren Sprechhandlungen
+und Bedeutungsstrukturen sind sehr vielfältig (vgl. Kaltenbacher 1990;
+Elsen 1999).\\
+(Dietrich 2016: 86)
+
+\end{minipage}%
+\end{tcolorbox}
+
+Die \emph{Drei- und Mehrwortphase} folgt der Zweiwortphase und sie
+dauert etwa von 2 bis 4 Jahre.
+
+\begin{tcolorbox}[enhanced jigsaw, bottomrule=.15mm, colback=white, arc=.35mm, opacityback=0, colframe=quarto-callout-note-color-frame, rightrule=.15mm, leftrule=.75mm, breakable, toprule=.15mm, left=2mm]
+\begin{minipage}[t]{5.5mm}
+\textcolor{quarto-callout-note-color}{\faInfo}
+\end{minipage}%
+\begin{minipage}[t]{\textwidth - 5.5mm}
+
+Beobachtungen zeigen (Tr = Tracy 1991):\\
+- innerhalb der nominalen Gruppe treten \emph{häufiger Artikelformen}
+auf (auch indefinite, nach Genus korrekt flektiert).\\
+- In maskulinen NPs erscheint die \emph{Nominativ- und
+Akkusativmarkierung}, Dativ ab dem dritten Jahr.\\
+- \emph{Personalpronomen} der ersten und zweiten Person Singular sind in
+der zweiten Hälfte des dritten Jahres belegt, darunter auch
+deklinierte.\\
+- \emph{Subjekt-Verb-Kongruenz} ist durch Person- und Numerusmarkierung
+am Verb ausgedrückt. Daneben stehen auch noch unflektierte Sätze wie:
+julia eis essen (Tr: 2;0)\\
+- Die \emph{finite Verbform} nimmt die \emph{Zweitposition} im Satz ein,
+eine Entwicklung, die im Zusammenhang mit der Theoriediskussion viel
+Beachtung gefunden hat (s. Kap. 3.5). Zum Beispiel: da falln jetzt i
+blätter runter (Tr 2;2); das weint (Tr 2.0).\\
+(Dietrich 2016: 86)
+
+\end{minipage}%
+\end{tcolorbox}
+
+\emph{Finitheit}: Im dritten Jahr ist die \emph{Vergangenheitsflexion}
+des Verbs zunehmend belegt, die Formen unregelmäßiger Verben werden
+allerdings vielfach in \emph{Übergeneralisierung der regelmäßigen
+Konjugation} schwach gebildet, gegeht, stehlten. Belegt ist auch ein
+Präsens \emph{lauft} als 3. Person Singular.
+
+Mit Auftreten des \emph{Frageworts in der Initialposition} ist die
+\emph{Inversion} belegt: Die Subjekts-NP steht hinter dem finiten
+Verbteil, wie z. B. in Was macht die Frau? (El: 2;0). (Dietrich 2016:
+86)
+
+Neben \emph{Aktivsätzen} treten gegen Ende dieser Phase
+\emph{Passivkonstruktionen} auf; nach Mills (1985) fast durchweg ohne
+Nennung des Agens-Referenten.
+
+Es treten die ersten \emph{komplexen Sätze} auf; nach Mills (1985)
+zunächst \emph{Relativsätze} (vgl. allerdings das reichhaltige
+Repertoire von Konditionalsätzen in Elsen 1999, S. 145 ff.).
+
+In der Folgezeit stabilisieren sich die zuvor kritischen Formen, die
+\emph{unregelmäßigen Flexionsformen von Verben} lösen die
+übergeneralisierten schwachen Formen ab, \emph{komplexe Verbformen mit
+Auxiliar} -- zunächst mehr \emph{haben} als \emph{sein} -- und
+\emph{Modalverben} treten auf.
+
+Der Formenreichtum der \emph{Artikelwörter} nimmt zu
+(Possessiv-Artikel), ebenso das Repertoire \emph{anderer
+Funktionswörter}, besonders der \emph{Präpositionen} und der
+subordinierenden \emph{Konjunktionen}.
+
+Die \emph{Wortstellung} in komplexen \emph{Nebensätzen} weist bis ins
+Alter von fünf Jahren \emph{Abweichungen} auf, ebenso vor- und
+nachzeitige \emph{Tempusformen} des Verbs. Bei der Beurteilung dieser
+Phänomene ist allerdings zu berücksichtigen, dass sie auch in der
+Erwachsenensprache belegt sind. (Dietrich 2016: 86)
 
 Artikelerwerb von sechs Kindern des Szagun-Korpus
 
@@ -2782,6 +3075,95 @@ Artikelerwerb von sechs Kindern des Szagun-Korpus
   bekannte oder zumindest identifizierbare Objekte in Situation und/oder
   Kontext)!
 \end{itemize}
+
+\hypertarget{entwicklung-der-wortarten}{%
+\subsection{Entwicklung der Wortarten}\label{entwicklung-der-wortarten}}
+
+Zum Erwerb der Wortarten ausführlicher in Kauschke, Kapitel 5.4
+(Kauschke 2012: 60-66).
+
+Abbildung 5 illustriert diese Entwicklung im Deutschen anhand
+spontansprachlicher Daten von 32 Kindern zu vier Zeitpunkten: Das frühe
+Lexikon wurde stark von relationalen Wörtern (die auch Partikeln wie AUF
+enthielten) und interaktiven Wörtern dominiert, deren Anteil anfangs
+abrupt, dann stetig weiter abnahm. Nomen fanden bis zu 21 Monaten bei
+den meisten Kindern Einzug in das Lexikon, ihr Anteil wuchs bis zu 21
+Monaten deutlich an und nahm anschließend wieder ab. Die Verben wuchsen
+konstant nach einem eindeutig linearen Muster an, zuletzt zeigte sich
+ein später Anstieg der Funktionswörter.
+
+\includegraphics[width=1\textwidth,height=\textheight]{./pictures/kauschke_abb5.png}
+
+Abbildung 5: Wortartenentwicklung im Deutschen (bezogen auf Types, nach
+Kauschke 2000, Kauschke \& Hofmeister 2002)
+
+\includegraphics[width=1\textwidth,height=\textheight]{./pictures/kauschke_abb6.png}
+
+Abbildung 6: Wortartenverteilung im Deutschen bei Kindern und Müttern
+(bezogen auf Tokens, nach Kauschke \& Klann-Delius 2007)
+
+In ihrer Studie glich die Komposition des Lexikons von dreijährigen
+Kindern der Zusammensetzung bei ihren Müttern stark, bis auf einen
+Unterschied im Anteil interaktiver Wörter. Gegen Ende des dritten
+Lebensjahres herrscht in der Spontansprache von Kindern offensichtlich
+die \emph{Wortartenverteilung vor, die sie auch im Input vorfinden}.
+(Kauschke 2012: 62-63)
+
+\includegraphics[width=1\textwidth,height=\textheight]{./pictures/kauschke_tab12.png}
+
+Tabelle 12: Wortartenentwicklung im zweiten und dritten Lebensjahr mit
+ungefähren Altersangaben
+
+Unabhängig vom genauen Zeitpunkt ihres Erwerbs kommt der Wortart der
+\emph{Verben} eine besondere Bedeutung zu, da Verben als Schnittstelle
+zur Grammatik fungieren.
+
+\emph{Inhaltlich} beziehen sich Verben auf Handlungen, Ereignisse und
+Zustände. Zu Beginn des Spracherwerbs erfassen Kinder vor allem die
+Ereignisstruktur: Wird durch das Verb ein Zustand oder ein Vorgang
+bezeichnet und impliziert dieser Vorgang das Erreichen eines
+Endzustandes (wie z.B. bei ›öffnen‹) oder nicht (wie z.B. bei ›fegen‹)?
+
+Anfangs scheinen Kinder \emph{endzustandsorientierte} Verben zu
+präferieren (Schulz et al.~2001). Produziert wird in dieser Phase oft
+noch nicht das gesamte Verb, sondern nur die \emph{Partikel}, die den
+erreichten Endzustand anzeigt (AUF für ›aufmachen‹). Diese
+Verbpartikeln, oben der Wortart der relationalen Wörter zugeordnet, sind
+damit Vorläufer der Verbproduktion.
+
+Die \emph{ersten »echten« Verben} sind grundlegend für den Aufbau
+grammatischer Strukturen. Kontrovers ist, zu welchem Zeitpunkt Kinder
+Verben als abstrakte grammatische Kategorie erfassen, der bestimmte
+Eigenschaften und Kombinationsmöglichkeiten inhärent sind. Laut
+Tomasello (1992) ist dies ein längerer Weg. Verben tauchen zunächst nur
+in ganz spezifischen, eingeschränkten Kontexten auf, die direkt aus dem
+Input übernommen werden. Daher bezeichnet Tomasello \emph{die ersten
+Verben als Inseln} (verb islands), die für sich stehen und noch keine
+zugrunde liegende Struktur repräsentieren. Erst nach dem Erwerb einer
+kritischen Menge können Abstraktionen und syntaktische Schemata
+entstehen.
+
+\hypertarget{semantische-entwicklung}{%
+\subsection{Semantische Entwicklung}\label{semantische-entwicklung}}
+
+Ausführlicher dazu in Kauschke, Kapitel 5.3 (Kauschke 2012: 52-60).
+
+\includegraphics[width=1\textwidth,height=\textheight]{./pictures/kauschke_abb3.png}
+
+Abbildung 3: Struktur des Nomenlexikons (eine Legende zur Abbildung
+findet sich in der Tabelle auf der folgenden Seite)
+
+\includegraphics[width=1\textwidth,height=\textheight]{./pictures/kauschke_tab10.png}
+
+Tabelle 10: Legende zur Abbildung 3
+
+\includegraphics[width=1\textwidth,height=\textheight]{./pictures/kauschke_tab11.png}
+
+Tabelle 11: Klassifizierung von Ausdrucksweisen innerer Zustände
+
+\includegraphics[width=1\textwidth,height=\textheight]{./pictures/kauschke_abb4.png}
+
+Abbildung 4: Entwicklung von Ausdrucksweisen innerer Zustände
 
 \part{Zweit- und Fremdspracherwerb}
 
@@ -2872,7 +3254,7 @@ Possible to include animated icons:
 \hypertarget{callout-types}{%
 \section{Callout Types}\label{callout-types}}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colbacktitle=quarto-callout-note-color!10!white, coltitle=black, colframe=quarto-callout-note-color-frame, bottomrule=.15mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, colback=white, leftrule=.75mm, arc=.35mm, bottomtitle=1mm, toptitle=1mm, opacityback=0, titlerule=0mm, rightrule=.15mm, toprule=.15mm, left=2mm, opacitybacktitle=0.6]
+\begin{tcolorbox}[enhanced jigsaw, bottomtitle=1mm, left=2mm, coltitle=black, leftrule=.75mm, bottomrule=.15mm, colback=white, colbacktitle=quarto-callout-note-color!10!white, titlerule=0mm, opacityback=0, toprule=.15mm, colframe=quarto-callout-note-color-frame, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, arc=.35mm, rightrule=.15mm, breakable, toptitle=1mm, opacitybacktitle=0.6]
 
 Note that there are five types of callouts, including: \texttt{note},
 \texttt{warning}, \texttt{important}, \texttt{tip}, and
@@ -2880,25 +3262,25 @@ Note that there are five types of callouts, including: \texttt{note},
 
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colbacktitle=quarto-callout-tip-color!10!white, coltitle=black, colframe=quarto-callout-tip-color-frame, bottomrule=.15mm, title=\textcolor{quarto-callout-tip-color}{\faLightbulb}\hspace{0.5em}{Tip With Caption / Tipp mit Titel}, colback=white, leftrule=.75mm, arc=.35mm, bottomtitle=1mm, toptitle=1mm, opacityback=0, titlerule=0mm, rightrule=.15mm, toprule=.15mm, left=2mm, opacitybacktitle=0.6]
+\begin{tcolorbox}[enhanced jigsaw, bottomtitle=1mm, left=2mm, coltitle=black, leftrule=.75mm, bottomrule=.15mm, colback=white, colbacktitle=quarto-callout-tip-color!10!white, titlerule=0mm, opacityback=0, toprule=.15mm, colframe=quarto-callout-tip-color-frame, title=\textcolor{quarto-callout-tip-color}{\faLightbulb}\hspace{0.5em}{Tip With Caption / Tipp mit Titel}, arc=.35mm, rightrule=.15mm, breakable, toptitle=1mm, opacitybacktitle=0.6]
 
 This is an example of a callout with a caption.
 
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colbacktitle=quarto-callout-important-color!10!white, coltitle=black, colframe=quarto-callout-important-color-frame, bottomrule=.15mm, title=\textcolor{quarto-callout-important-color}{\faExclamation}\hspace{0.5em}{Important}, colback=white, leftrule=.75mm, arc=.35mm, bottomtitle=1mm, toptitle=1mm, opacityback=0, titlerule=0mm, rightrule=.15mm, toprule=.15mm, left=2mm, opacitybacktitle=0.6]
+\begin{tcolorbox}[enhanced jigsaw, bottomtitle=1mm, left=2mm, coltitle=black, leftrule=.75mm, bottomrule=.15mm, colback=white, colbacktitle=quarto-callout-important-color!10!white, titlerule=0mm, opacityback=0, toprule=.15mm, colframe=quarto-callout-important-color-frame, title=\textcolor{quarto-callout-important-color}{\faExclamation}\hspace{0.5em}{Important}, arc=.35mm, rightrule=.15mm, breakable, toptitle=1mm, opacitybacktitle=0.6]
 
 Das ist wichtig.
 
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colbacktitle=quarto-callout-warning-color!10!white, coltitle=black, colframe=quarto-callout-warning-color-frame, bottomrule=.15mm, title=\textcolor{quarto-callout-warning-color}{\faExclamationTriangle}\hspace{0.5em}{Warning}, colback=white, leftrule=.75mm, arc=.35mm, bottomtitle=1mm, toptitle=1mm, opacityback=0, titlerule=0mm, rightrule=.15mm, toprule=.15mm, left=2mm, opacitybacktitle=0.6]
+\begin{tcolorbox}[enhanced jigsaw, bottomtitle=1mm, left=2mm, coltitle=black, leftrule=.75mm, bottomrule=.15mm, colback=white, colbacktitle=quarto-callout-warning-color!10!white, titlerule=0mm, opacityback=0, toprule=.15mm, colframe=quarto-callout-warning-color-frame, title=\textcolor{quarto-callout-warning-color}{\faExclamationTriangle}\hspace{0.5em}{Warning}, arc=.35mm, rightrule=.15mm, breakable, toptitle=1mm, opacitybacktitle=0.6]
 
 Warning
 
 \end{tcolorbox}
 
-\begin{tcolorbox}[enhanced jigsaw, breakable, colbacktitle=quarto-callout-caution-color!10!white, coltitle=black, colframe=quarto-callout-caution-color-frame, bottomrule=.15mm, title=\textcolor{quarto-callout-caution-color}{\faFire}\hspace{0.5em}{Expand To Learn About Collapse}, colback=white, leftrule=.75mm, arc=.35mm, bottomtitle=1mm, toptitle=1mm, opacityback=0, titlerule=0mm, rightrule=.15mm, toprule=.15mm, left=2mm, opacitybacktitle=0.6]
+\begin{tcolorbox}[enhanced jigsaw, bottomtitle=1mm, left=2mm, coltitle=black, leftrule=.75mm, bottomrule=.15mm, colback=white, colbacktitle=quarto-callout-caution-color!10!white, titlerule=0mm, opacityback=0, toprule=.15mm, colframe=quarto-callout-caution-color-frame, title=\textcolor{quarto-callout-caution-color}{\faFire}\hspace{0.5em}{Expand To Learn About Collapse}, arc=.35mm, rightrule=.15mm, breakable, toptitle=1mm, opacitybacktitle=0.6]
 
 This is an example of a `folded' caution callout that can be expanded by
 the user. You can use \texttt{collapse="true"} to collapse it by default
@@ -2946,6 +3328,9 @@ Erst-Und Fremdsprachenerwerbs: Eine Einf{ü}hrung}. Langenscheidt.
 
 \leavevmode\vadjust pre{\hypertarget{ref-dietrich2002psycholinguistik}{}}%
 Dietrich, Rainer. 2002. \emph{Psycholinguistik}. Vol. 342. Springer.
+
+\leavevmode\vadjust pre{\hypertarget{ref-dietrich2016psycholinguistik}{}}%
+---------. 2016. \emph{Psycholinguistik}. JB Metzler.
 
 \leavevmode\vadjust pre{\hypertarget{ref-ecke2008babylonia}{}}%
 Ecke, Peter. 2008. {``Die Kosten Der Mehrsprachigkeit.''}
