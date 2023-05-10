@@ -240,7 +240,7 @@ Feststellungen zur *Überrepräsentation nominaler gegenüber verbaler Einheiten
 - Globale, Wernicke- und Broca-Aphasiker bewahren die Nomenüberlegenheit im Deutschen.   
 - Es gibt einen Krankeitstyp-Effekt; bei Agrammatikern ist der Rückgang des Verbanteils größer als der Rückgang des Nomenanteils; bei anomischen Aphasikern ist es umgekehrt. [@dietrich2016psycholinguistik: 82]  
 
-::: {.callout-note appearance="simple" icon="true"}
+:::
 
 
 #### Wortproduktion
@@ -512,6 +512,14 @@ Anfangs scheinen Kinder *endzustandsorientierte* Verben zu präferieren (Schulz 
 
 Die *ersten »echten« Verben* sind grundlegend für den Aufbau grammatischer Strukturen. Kontrovers ist, zu welchem Zeitpunkt Kinder Verben als abstrakte grammatische Kategorie erfassen, der bestimmte Eigenschaften und Kombinationsmöglichkeiten inhärent sind. Laut Tomasello (1992) ist dies ein längerer Weg. Verben tauchen zunächst nur in ganz spezifischen, eingeschränkten Kontexten auf, die direkt aus dem Input übernommen werden. Daher bezeichnet Tomasello *die ersten Verben als Inseln* (verb islands), die für sich stehen und noch keine zugrunde liegende Struktur repräsentieren. Erst nach dem Erwerb einer kritischen Menge können Abstraktionen und syntaktische Schemata entstehen.
 
+:::rmdrobot
+
+Suchen Sie mit Hilfe der CLAN-Werkzeuge FREQ und COMBO in den Gesprächen mit dem Ihnen zugewiesenen Kind nach Belegen, die die phonetisch-phonemische, morphosyntaktische und lexikalische Entwicklung des Kindes illustrieren. Eine Schätzung der Wortklassenanteile ist aus der folgenden Tabelle ablesbar. Wortwolken und einige andere Größen können auch mit Voyant Tools erstellt werden. 
+
+:::
+
+
+
 ### Semantische Entwicklung
 
 Ausführlicher dazu in Kauschke, Kapitel 5.3 [@kauschke2012kindlicher: 52-60]. 
@@ -539,3 +547,4 @@ knitr::include_graphics("pictures/kauschke_abb4.png")
 ```
 
 Abbildung 4: Entwicklung von Ausdrucksweisen innerer Zustände
+
