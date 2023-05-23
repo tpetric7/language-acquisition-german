@@ -1,4 +1,4 @@
-# Entwicklungs- und transferbedingte Fehler {#sec-gender}
+# Erklärungsansätze zum L2-Erwerb {#sec-L2erwerb}
 
 ```{r echo=FALSE, fig.keep='all', out.width="100%"}
 #| fig-link: <https://www.clipartmax.com/middle/m2i8K9H7K9H7G6b1_earth-clip-art-world-travel-clipart-png/>
@@ -13,6 +13,36 @@ knitr::include_graphics("pictures/clipart66213.png")
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
 knitr::include_graphics("pictures/Ortega2015.png")
 ```
+
+
+## Nativistische UG-Ansätze
+
+Gemäß @dietrich2016psycholinguistik: 
+Universalgrammatikbasierte Erklärungsansätze: Zwar auch auf übereinzelsprachliches Wissen, aber auf angeborenes Wissen von strukturellen grammatischen Prinzipien in Verbindung mit grammatischem Wissen über die Erstsprache wird der L2-Erwerb im UG-basierten Erklärungsansatz zurückgeführt. Unter dieser Perspektive wird der L2-Erwerb angesehen als ein unbewusster kognitiver Prozess, die zielsprachliche Grammatik aufzubauen durch Ausnutzen von strukturellen Einschränkungen auf Strukturmerkmale, die an den zielsprachlichen lexikalischen Einheiten erkannt worden sind. 
+
+In der Frage, wie stark das L1-Grammatikwissen in den Prozess einwirkt, werden unterschiedlich weitgehende Behauptungen diskutiert; die konkurrierenden drei Varianten,    
+- die *Full-Access-and/FullTransfer-Hypothese*,    
+- die *Valueless-Features-Hypothese*    
+- und die *Lexical-Categories-Hypothese* sind unter Bezug aufeinander dargestellt in Schwartz/Eubank (1996). 
+
+Nach der *FA/FT-Hypothese* zieht der Lerner (unbewusst) das gesamte universalgrammatische und das spezifische Wissen über die Festlegung parametrisierter Prinzipien in seiner L1 für seine Hypothesenbildung über die zielsprachliche Grammatik heran. 
+
+Nach der *valuelessfeatures-Hypothese* wirkt dagegen nur das kategoriale Wissen, nicht hingegen die Merkmalsausprägung der grammatischen Kategorien in L1.   
+
+Nach der *lexical-categories-Hypothese* schließlich wirkt lediglich die kategoriale Struktur der VP, keine funktionale Kategorie.
+
+
+## Funktionale L2-Erklärungsansätze
+
+Gemäß @dietrich2016psycholinguistik: 
+Nach der Grundannahme der funktionalen L2-Erwerbstheorien sucht
+der Lerner grundsätzlich Form-Funktionszusammenhänge in der Zielsprache zu erkennen und lässt sich dabei von seiner vom Erstspracherwerb
+her vorhandenen Kenntnis funktionaler Kategorien leiten. 
+
+::: {.callout-note appearance="simple" icon="true"}
+Anhand von Querschnittsdaten türkischer bzw. Longitudinaldaten italienischer und türkischer Deutschlerner zeigen Stutterheim (1986) und Dietrich/Klein/Noyau (1995), dass der *Erwerb der Temporalitätsausdrücke* eine Entwicklung zunehmender zunächst *lexikalischer*, *dann grammatischer* Differenzierung des zielsprachlichen Wissens von Form-Funktionszusammenhängen in der L2 ist.
+:::
+
 
 ## Kontrastive Zweitspracherwerbshypothese
 
@@ -144,9 +174,9 @@ Quellen (Bing, 10. 5. 2023):
 (3) The revised Speech Learning Model (SLM-r) - Aarhus University. https://pure.au.dk/portal/en/publications/the-revised-speech-learning-model-slmr%28950aa1cb-2b07-45cb-863d-3051665b8b50%29.html Dostopano 10. 5. 2023.   
 
 
-## PAM-L2 von Best & Taylor (2007)
+## PAM-L2 von Best & Tyler (2007)
 
-Der PAM-L2-Ansatz von Best und Taylor (2007) besagt über den Zweitspracherwerb, dass die Wahrnehmung und Produktion von L2-Sprachlauten von der *Interaktion zwischen der Muttersprache (L1) und der Zweitsprache (L2)* abhängt. PAM-L2 ist eine Erweiterung des Perceptual Assimilation Model (PAM) von Best (1995), das davon ausgeht, dass nicht-muttersprachliche Sprachlaute entsprechend ihrer *Distanz zu den artikulatorischen Eigenschaften der muttersprachlichen Sprachlaute wahrgenommen* werden. 
+Der PAM-L2-Ansatz von Best und Tyler (2007) besagt über den Zweitspracherwerb, dass die Wahrnehmung und Produktion von L2-Sprachlauten von der *Interaktion zwischen der Muttersprache (L1) und der Zweitsprache (L2)* abhängt. PAM-L2 ist eine Erweiterung des Perceptual Assimilation Model (PAM) von Best (1995), das davon ausgeht, dass nicht-muttersprachliche Sprachlaute entsprechend ihrer *Distanz zu den artikulatorischen Eigenschaften der muttersprachlichen Sprachlaute wahrgenommen* werden. 
 
 Die spezifischen L2-Sprachlaute werden zu bereits existierenden phonemischen Kategorien assimiliert, die während des Mutterspracherwerbs gebildet wurden¹. PAM-L2 nimmt an, dass die Sprachlernmechanismen des kindlichen L1-Erwerbs *über die Lebensspanne hinweg zugänglich* bleiben. 
 Außerdem schlägt PAM-L2 vor, dass die Bildung oder Nichtbildung neuer phonetischer Kategorien für L2-Sprachlaute von der wahrgenommenen *phonetischen Ähnlichkeit* oder Unterschiedlichkeit zwischen einem L2-Sprachlaut und dem nächstgelegenen L1-Sprachlaut abhängt². PAM-L2 unterscheidet zwischen *drei möglichen Assimilationstypen*:    
@@ -255,7 +285,165 @@ In diesem Kapitel habe ich ein zweisprachiges Sprachproduktionsmodell skizziert,
 In verschiedenen Phasen der Sprachverarbeitung geht das Modell davon aus, dass der Hauptunterschied zwischen L1- und L2-Verarbeitung in der Konkurrenz von L1- und L2-Items und Kodierungsverfahren besteht und dass kompensatorische Mechanismen erforderlich sind, um fehlendes Wissen in der L2-Produktion auszugleichen. Es wird angenommen, dass die Trennung der beiden Sprachen durch den sprachlichen Hinweis gesteuert wird, der den Konzepten in der Konzeptualisierungsphase hinzugefügt wird; d.h. es wird angenommen, dass die Enkodierung sprachspezifischer Informationen durch den Abgleich des sprachlichen Hinweises mit den entsprechenden Elementen im Wissensspeicher erfolgt. Das Modell ist auch in der Lage, die Verwendung von Kommunikationsstrategien, Code-Switching und Transfer zu berücksichtigen und kann sowohl formelhaften Sprachgebrauch als auch die Entwicklung von Kodierungsverfahren berücksichtigen. Allerdings ist das Modell in mancher Hinsicht recht lückenhaft, insbesondere im Bereich der syntaktischen und phonologischen Enkodierung und der syntaktischen Verarbeitung gemischtsprachiger Äußerungen. Weitere Studien zu den psycholinguistischen Prozessen des L2-Spracherwerbs könnten auch dazu beitragen, unser Wissen über die Entwicklung von Gedächtnisspuren von deklarativem Wissen über Sprache, die Automatisierung von regelbasierten Mechanismen und die Erstellung von gespeicherten Formeln zu verfeinern. 
 
 
-## Transfer und Interferenz
+## ESF-Studie
+
+Gemäß @dietrich2016psycholinguistik: 
+Die umfassendste psycholinguistische Untersuchung stellt die longitudinale und sprachvergleichende Studie der *European Science Foundation* (E. S. F.) dar, die von einem Verbund von
+Projektgruppen in England, Frankreich, Holland, Schweden und Deutschland in den 1980er Jahren unternommen worden ist. Anlage und Hauptergebnisse der Untersuchung sind in Perdue (1984; 1993) dargestellt.
+
+### Erwerbsverlauf
+
+Die großen Feldstudien lassen einige allgemeine *Reihenfolgen* in der Entwicklung der Lernersprache erkennen und eine *systematische Variation*. Generell belegt sind:   
+
+- Beim *Lauterwerb* offene Vokale vor geschlossenen; im Konsonantismus anfänglich Entstimmung des linken Silbenrandes und Reduktion
+am rechten Rand (vgl. Tropf 1983).   
+- Im *Lexikerwerb* werden nominale Einheiten früher aufgenommen als
+verbale (vgl. Dietrich 1989; Kauschke 2007). Einheiten mit lexikalischer Bedeutung werden deutlich früher erworben als Einheiten mit
+grammatikalischer Bedeutung. Generell werden lexikalische Einheiten
+früher erworben als grammatische Ausdrucksmittel; unflektierte Formen gehen flektierten im Erwerb voraus und der Erwerb kann auf einer
+Stufe von dem Auftreten flektierter Formen fossilieren, wie etwa im
+obigen Beispiel illustriert. Eine detaillierte Fallstudie ist die von Pascual A (SP–25) in Rieck (1987, S. 101–158).   
+- In der Entwicklung von Regularitäten des *Äußerungsaufbaus* gehen
+pragmatische und semantische Aufbauprinzipien dem Erwerb syntaktischer Einschränkungen voran (vgl. Klein/Perdue 1992).   
+
+Die Entwicklung resultiert aus dem *Zusammenspiel* der Erwerbsschritte in allen sprachlichen Bereichen:    
+
+- So setzt z. B. der *Erwerb der Endungsflexion* im Deutschen voraus, dass das Wissen um die Struktur komplexer Konsonanten-Cluster am rechten Silben- und Wortrand vorhanden ist.    
+- Der *Erwerb der Lexik* und *Syntax der Negation* ist strukturell auf den Erwerb der Verbflexion bezogen (vgl. Dietrich/Grommes 1998; Becker 2005).    
+- Der Erwerb der *bestimmten und unbestimmten Artikel* im Deutschen bildet die Voraussetzung für die Ausnutzung der freien Wortstellung im Deutschen    
+- und der *Erwerb von Zeitadverben* wie *zuvor, vorher, zugleich* ermöglicht mehr Unabhängigkeit von der zuvor stärker eingeschränkten Linearisierung der Äußerungen in narrativen Texten.    
+- Der *Wissensaufbau* verläuft akkumulativ. 
+
+
+### L2-Erwerbsstufen
+
+Der Zweitspracherwerb weist eine universal Stufung auf, unterschieden wird zwischen Prä-Basisvarietät, Basisvarietät und Post-Basisvarietät. 
+
+
+#### Prä-Basisvarietät
+
+Die *Prä-Basisvarietät* ist eine sprachliche Form, die fast ausschließlich nominales Material umfasst.   
+
+::: {.callout-note appearance="simple" icon="true"}
+Die folgenden Äußerungen sind Beschreibungen einer Szene aus Harold
+Lloyds In the City durch denselben Lerner wie im Arztbesuch-Beispiel
+oben, allerdings ein halbes Jahr früher. Die Daten sind verfügbar in »The Language Archive« des Max-Planck-Instituts für Psycholinguistik (vgl. Wittenburg/Broeder/Offenga/Willems 2002).   
+
+Abschied   
+Eine Mann. Harold Lloyd, Bahnhof.   
+Bahnhof Freundin de Mann.   
+Mutter Freundin, Vater Freundin.   
+Eine schwarze Frau Bahnhof.   
+etc.   
+:::
+
+#### Basisvarietät
+
+Die herauszuhebende Erwerbsstufe ist die der sog. Basisvarietät. Sie
+wird von fast allen Lernern erreicht, unter günstigen Erwerbsbedingungen
+nach drei Monaten, unter ungünstigen nach einem Dreivierteljahr. 
+
+- Das *lexikalische Wissen* umfasst produktiv 50 bis 200 Wörter, deutlich überhöhter Nominalanteil, Verben, Negation, wenige Adverbien, Adjektive, Präpositionen.    
+- Die Wortformen sind *nicht flektiert*; sie werden im Satz in einer unflektierten einheitlichen Grundform verwendet. Bei den Verben im
+Deutschen ist das überwiegend die Form des Infinitivs ohne das finale ›n‹, bei den Nomina die Nominativ-Singular-Form.    
+- Die *Sätze* sind *kurz*: Nomen + Verb oder Nomen + Verb + Nomen oder Nomen + Kopula + Adjektiv oder Nomen.    
+- Das *agentivischere Nomen* steht voran, *Fokusinformation* am Satzende.    
+
+Die Erzählung vom Arztbesuch ist typisch für die Basisvarietät. 
+
+::: {.callout-note appearance="simple" icon="true"}
+Der folgende Ausschnitt einer kurzen Erzählung über einen Arztbesuch
+eines italienischen Deutschlerners veranschaulicht typische Merkmale
+einer relativ früh fossilierten Lernervarietät (vgl. Dietrich 2003, S. 67).   
+
+Der Arztbesuch   
+Eine Woche krank   
+Komme Doktor   
+diese (zeigt auf sein Handgelenk) bissele kaputt   
+dottore verstehn ander   
+nix richtig   
+mache Creme   
+Creme viel kalde, viel kalde (d. i. caldo (ital.) = heiß)   
+Alles rot   
+fertig dies, müsse komme Doktor geh   
+bissele kaputt   
+besser Massage, nix Creme, Massage.   
+:::
+
+Die Basisvarietät weist wenig Einfluss der Ausgangssprache auf. Die beschriebenen Merkmale sind für alle elf Ausgangs–/ Zielsprachenpaare belegt, die in dem erwähnten ESF-Projekt beobachtet worden sind. Der Basisvarietät voraus geht die Prä-Basisvarietät, eine Sprache, die fast
+ausschließlich nominales Material umfasst.   
+
+#### Prä-Basisvarietät
+
+- Den Übergang markiert der *Erwerb von grammatischen Ausdrucksmitteln* für die Finitheit.    
+- Diese Erweiterung der Lernersprache hat eine Serie von *Konsequenzen für die Organisation des Satzaufbaus* und löst entsprechend viele Erwerbsnotwendigkeiten aus.    
+- Im Deutschen entsteht eine ganz neue syntaktische Landschaft, das sog. *Mittelfeld* zwischen Finitum und Infinitum.    
+- Die *Position der Negation* muss neu organisiert werden,   
+- *infinite Sätze* können von finiten unterschieden werden,    
+- *Tempus* kann *grammatisch* ausgedrückt werden, was die Funktionalität der Zeitadverbien, die zuvor zur Zeitreferenz verwendet worden sind, verändert.    
+
+##### Erwerbsschritte
+
+So ist die Post-Basis-Stufe ihrerseits wiederum in *mehrere strukturell unterscheidbare Schritte* gegliedert:   
+- Im Bereich der *Zeitreferenz* z. B. eine anfängliche Phase, in der Präsens, Perfekt und Präteritum anaphorisch verwendet werden, gefolgt von der zielsprachlichen deiktischen Tempusbedeutung, gefolgt von aspektueller Unterscheidung zwischen Perfekt und Präteritum sowie dem Ausbau des Tempussystems im Futurbereich.    
+- Mit dem Übergang in die Phase der Post-Basisvarietät wirken sich *Faktoren*, die Verlauf und Tempo des Erwerbs beeinflussen, stärker aus und die *Variabilität* der Entwicklung nach Lernergruppen wächst.   
+
+
+### Sprachkontrast
+
+Gemäß @dietrich2016psycholinguistik: 
+Der *Einfluss der Ausgangssprache* auf die Entwicklung des phonologischen Wissens wird mit dem Ausbau des *Konsonantismus* und besonders der Silbenränder deutlicher. 
+
+Unterschiede in der lautlichen Differenziertheit flexionsmorphologischer Kategorien in verschiedenen Zielsprachen wirken sich als inputbedingter Erwerbsfaktor aus. 
+
+::: {.callout-note appearance="simple" icon="true"}
+So erwerben *spanischsprachige Schwedischlerner* die *Verbflexion* früher als *spanischsprachige Französischlerner* bei sonst gleichen Erwerbsbedingungen.    
+
+Ursache ist die lautlich prominentere und differenziertere Endungsflexion des Schwedischen gegenüber den schwach differenzierten und insgesamt unauffälligen Verbflexionsmorphemen des gesprochenen Französisch (vgl. Perdue 1993, Vol. 2).   
+:::
+
+*Sozialfaktoren* sind weitere entwicklungsbestimmende Faktoren, die sich allerdings auf Tempo und Erfolg des Erwerbs auswirken (nicht auf Reihenfolge und Struktur der resultierenden Lernersprache):     
+
+- *Alter bei Beginn* des L2-Erwerbs,    
+- *Art und Häufigkeit des Kontakts* mit der Zielsprache    
+- und – besonders im unterrichtlichen Kontext – das Ausmaß der
+*Beklommenheit* in der Klassenzimmersituation.    
+Bemerkenswert ist, dass die Dauer des Sprachkontakts sich als Faktor deutlich schwächer auswirkt als Art und Frequenz.    
+- Starke Wirkung zeigen nach Befunden im Heidelberger Forschungsprojekt Pidgindeutsch (1977) die *Häufigkeit des Sprachkontakts am Arbeitsplatz* und in der *Freizeit*.    
+- Besonders für die Entwicklung der mündlichen, spontanen Sprachverwendungsfähigkeit wirkt sich der Faktor *Sprachangst* (language anxiety) aus (vgl. Young 1991).
+
+
+## Entwicklungs- und transferbedingte Fehler
+
+Entwicklungsfehler und Transferfehler sind zwei Arten von Fehlern, die beim Zweitspracherwerb auftreten können. 
+
+*Entwicklungsfehler* sind solche, die daraus resultieren, dass der Lernende versucht, Regeln für die Zielsprache auf der Grundlage seiner begrenzten Exposition und seines Inputs zu konstruieren. 
+
+*Transferfehler* sind solche, die aus dem Einfluss der Muttersprache des Lernenden auf die Zielsprache resultieren.
+
+Eine Möglichkeit, zwischen Entwicklungs- und Transferfehlern zu unterscheiden, ist es, die Fehler von Lernenden aus verschiedenen Muttersprachen zu vergleichen. Wenn ein Fehler bei Lernenden mit verschiedenen Ausgangssprachen häufig vorkommt, ist er wahrscheinlich entwicklungsbedingt. Wenn ein Fehler spezifisch für Lernende aus einem bestimmten Hintergrund ist, ist er wahrscheinlich transferbedingt.
+
+::: {.callout-note appearance="simple" icon="true"}
+Zum Beispiel lassen viele Lernende im Englischen Artikel (a, an, the) aus oder verwenden sie falsch, unabhängig von ihrer Muttersprache. Dies liegt daran, dass Artikel nicht in allen Sprachen universell sind und sie keine klare Bedeutung oder Funktion haben. Daher sind Artikel-Fehler Entwicklungsfehler.
+:::
+
+
+Manche Lernende machen jedoch Fehler, die die Struktur oder den Wortschatz ihrer Muttersprache widerspiegeln. 
+
+::: {.callout-note appearance="simple" icon="true"}
+Zum Beispiel könnte ein deutscher Lerner sagen "I have hunger" statt "I am hungry", weil im Deutschen das Verb haben mit hunger verwendet wird. 
+:::
+
+Dies ist ein Transferfehler, weil er den Einfluss des Deutschen auf das Englische zeigt.
+
+::: {.callout-note appearance="simple" icon="true"}
+Ein weiteres Beispiel ist die Wortstellung in Fragen. Im Englischen erfordern Fragen normalerweise eine Umstellung des Subjekts und des Hilfsverbs, wie zum Beispiel "Do you like pizza?" In manchen Sprachen, wie zum Beispiel Chinesisch oder Japanisch, erfordern Fragen jedoch keine Umstellung und werden durch ein Partikel am Ende des Satzes markiert, wie zum Beispiel "Ni xihuan pizza ma?" oder "Anata wa pizza ga suki desu ka?" Daher könnte ein chinesischer oder japanischer Lerner sagen "You like pizza?" statt "Do you like pizza?" 
+:::
+
+Dies ist auch ein Transferfehler, weil er den Einfluss von Chinesisch oder Japanisch auf das Englische zeigt.
+
+
+## Spracheneinfluss: Transfer vs. Interferenz
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
 knitr::include_graphics("pictures/02_Spracheneinfluss_Sprachentrennung/Diapozitiv2.PNG")
@@ -372,3 +560,4 @@ Fehler und Abweichungen von der Zielsprache.
 - Verwenden Sie zu diesem Zweck die Aufsätze der Mittelschüler, die wir schon während des Unterrichts analysiert haben, oder die Aufsätze der Studierenden (Teams: Zweitspracherwerb)! 
 
 :::
+
